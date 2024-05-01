@@ -49,6 +49,7 @@ builder.defineCatalogHandler(({ type, extra }) => {
 });
 
 // Manipulador para a requisição de streams
+// Manipulador para a requisição de streams
 builder.defineStreamHandler(async ({ type, id }) => {
     try {
         // Decide qual array de stream usar baseado no tipo
@@ -85,9 +86,39 @@ builder.defineStreamHandler(async ({ type, id }) => {
 });
 
 // Manipulador para a requisição de legendas
-builder.defineSubtitlesHandler(({ type, id }) => {
-    const subtitles = type === "movie" ? movieSubtitles[id] : seriesSubtitles[id];
-    return Promise.resolve({ subtitles: subtitles ? subtitles : [] });
+builder.defineSubtitlesHandler(async (args) => {
+    const { type, id, extra } = args;
+    const { videoHash, videoSize, filename } = extra || {};
+
+    try {
+        let subtitles = [];
+
+        if (type === "movie") {
+            // Obtém as legendas do filme
+            subtitles = movieSubtitles[id] || [];
+        } else if (type === "series") {
+            // Obtém as legendas da série
+            subtitles = seriesSubtitles[id] || [];
+        }
+
+        // Formata as legendas para o formato exigido pelo Stremio
+        subtitles = subtitles.map((subtitle, index) => ({
+            id: `${id}-${index}`, // Gera um ID único para cada legenda
+            url: subtitle.url, // URL da legenda
+            lang: subtitle.lang // Código de idioma da legenda
+        }));
+
+        // Se houver legendas, retorna o array de legendas
+        if (subtitles.length > 0) {
+            return Promise.resolve({ subtitles });
+        } else {
+            // Caso contrário, retorna um array vazio
+            return Promise.resolve({ subtitles: [] });
+        }
+    } catch (error) {
+        console.error(`Erro ao buscar legendas: ${error.message}`);
+        return Promise.resolve({ subtitles: [] });
+    }
 });
 
 // Manipulador para a requisição de busca de metadados
