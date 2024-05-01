@@ -1,28 +1,25 @@
 const { addonBuilder } = require("stremio-addon-sdk");
-const { catalogs: seriesCatalogs, seriesStreams } = require("./Series");
-const { catalogs: movieCatalogs, movieStreams } = require("./Movies");
-
-
+const { catalogs: seriesCatalogs, seriesStreams, seriesSubtitles } = require("./Series");
+const { catalogs: movieCatalogs, movieStreams, movieSubtitles } = require("./Movies");
 
 // Definição do manifesto do addon
 const manifest = {
-  id: "community.Nyankoplay", // ID único do addon
-  version: "0.0.2", // Versão do addon
-  catalogs: [
-    { type: "movie", id: "movies" }, // Catálogo de filmes
-    { type: "series", id: "series" }, // Catálogo de séries
-  ],
-  resources: ["catalog", "stream", "meta"], // Recursos que o addon oferece (catálogos, streams e metadados)
-  types: ["movie", "series"], // Tipos de conteúdo suportados (filmes e séries)
-  name: "NyankoPlay Tokusatsu BR", // Nome do addon
-  description: "Catálogo e stream de Tokusatsus em PTBR", // Descrição do addon
+    id: "community.Nyankoplay", // ID único do addon
+    version: "0.0.2", // Versão do addon
+    catalogs: [
+        { type: "movie", id: "movies" }, // Catálogo de filmes
+        { type: "series", id: "series" }, // Catálogo de séries
+    ],
+    resources: ["catalog", "stream", "meta", "subtitles"], // Recursos que o addon oferece (catálogos, streams, metadados e legendas)
+    types: ["movie", "series"], // Tipos de conteúdo suportados (filmes e séries)
+    name: "NyankoPlay Tokusatsu BR", // Nome do addon
+    description: "Catálogo e stream de Tokusatsus em PTBR", // Descrição do addon
 };
 
 const builder = new addonBuilder(manifest);
 
 // Combina os catálogos de filmes e séries em um único array
 const catalogs = [...seriesCatalogs, ...movieCatalogs];
-
 
 // Manipulador para a requisição de busca de catálogos
 builder.defineCatalogHandler(({ type, extra }) => {
@@ -50,6 +47,7 @@ builder.defineCatalogHandler(({ type, extra }) => {
         staleRevalidate: 600, // Tenta revalidar os dados antigos após 10 minutos
     });
 });
+
 // Manipulador para a requisição de streams
 builder.defineStreamHandler(({ type, id }) => {
     try {
@@ -62,14 +60,19 @@ builder.defineStreamHandler(({ type, id }) => {
     }
 });
 
+// Manipulador para a requisição de legendas
+builder.defineSubtitlesHandler(({ type, id }) => {
+    const subtitles = type === "movie" ? movieSubtitles[id] : seriesSubtitles[id];
+    return Promise.resolve({ subtitles: subtitles ? subtitles : [] });
+});
 
 // Manipulador para a requisição de busca de metadados
 builder.defineMetaHandler(({ type, id }) => {
-  // Filtra os metadados disponíveis pelo tipo e ID fornecidos
-  const meta = catalogs.find((item) => item.type === type && item.id === id);
+    // Filtra os metadados disponíveis pelo tipo e ID fornecidos
+    const meta = catalogs.find((item) => item.type === type && item.id === id);
 
-  // Retorna o metadado correspondente
-  return Promise.resolve({ meta });
+    // Retorna o metadado correspondente
+    return Promise.resolve({ meta });
 });
 
 module.exports = builder.getInterface();
