@@ -49,11 +49,35 @@ builder.defineCatalogHandler(({ type, extra }) => {
 });
 
 // Manipulador para a requisição de streams
-builder.defineStreamHandler(({ type, id }) => {
+builder.defineStreamHandler(async ({ type, id }) => {
     try {
         // Decide qual array de stream usar baseado no tipo
         const streams = type === "movie" ? movieStreams[id] : seriesStreams[id];
-        return Promise.resolve({ streams: streams ? streams : [] });
+        const subtitles = type === "movie" ? movieSubtitles[id] : seriesSubtitles[id];
+
+        // Se houver legendas, carrega-as primeiro
+        let streamsWithSubtitles = streams || [];
+        if (subtitles && subtitles.length > 0) {
+            // Carrega as legendas
+            const subtitlesPromises = subtitles.map(async (subtitle) => {
+                const { url, lang } = subtitle;
+                try {
+                    const response = await fetch(url);
+                    const subtitlesData = await response.text();
+                    // Retorna o objeto de legenda formatado
+                    return { url: url, lang: lang, data: subtitlesData };
+                } catch (error) {
+                    console.error(`Erro ao carregar legenda ${url}: ${error.message}`);
+                    return null;
+                }
+            });
+            // Aguarda todas as promessas de carregamento das legendas
+            const loadedSubtitles = await Promise.all(subtitlesPromises);
+            // Adiciona as legendas carregadas no início dos streams
+            streamsWithSubtitles = loadedSubtitles.concat(streamsWithSubtitles);
+        }
+
+        return Promise.resolve({ streams: streamsWithSubtitles });
     } catch (error) {
         console.error(`Erro ao buscar streams: ${error.message}`);
         return Promise.resolve({ streams: [] });
