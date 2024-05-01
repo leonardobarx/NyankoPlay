@@ -54,34 +54,52 @@ builder.defineStreamHandler(async ({ type, id }) => {
     try {
         // Decide qual array de stream usar baseado no tipo
         const streams = type === "movie" ? movieStreams[id] : seriesStreams[id];
-        const subtitles = type === "movie" ? movieSubtitles[id] : seriesSubtitles[id];
-
-        // Se houver legendas, carrega-as primeiro
-        let streamsWithSubtitles = streams || [];
-        if (subtitles && subtitles.length > 0) {
-            // Carrega as legendas
-            const subtitlesPromises = subtitles.map(async (subtitle) => {
-                const { url, lang } = subtitle;
-                try {
-                    const response = await fetch(url);
-                    const subtitlesData = await response.text();
-                    // Retorna o objeto de legenda formatado
-                    return { url: url, lang: lang, data: subtitlesData };
-                } catch (error) {
-                    console.error(`Erro ao carregar legenda ${url}: ${error.message}`);
-                    return null;
-                }
-            });
-            // Aguarda todas as promessas de carregamento das legendas
-            const loadedSubtitles = await Promise.all(subtitlesPromises);
-            // Adiciona as legendas carregadas no início dos streams
-            streamsWithSubtitles = loadedSubtitles.concat(streamsWithSubtitles);
+        
+        // Verifica se há legendas disponíveis para o vídeo
+        let subtitles = [];
+        if (type === "movie") {
+            subtitles = movieSubtitles[id] || [];
+        } else if (type === "series") {
+            subtitles = seriesSubtitles[id] || [];
         }
 
-        return Promise.resolve({ streams: streamsWithSubtitles });
+        // Se não houver legendas, envia apenas os streams
+        if (subtitles.length === 0) {
+            return { streams: streams ? streams : [] };
+        }
+
+        // Carrega as legendas de forma assíncrona
+        const subtitlesPromises = subtitles.map(async (subtitle) => {
+            try {
+                const response = await fetch(subtitle.url);
+                if (response.ok) {
+                    const subtitleData = await response.text();
+                    return { url: subtitle.url, lang: subtitle.lang, data: subtitleData };
+                } else {
+                    throw new Error(`Failed to load subtitle from ${subtitle.url}`);
+                }
+            } catch (error) {
+                console.error(`Error loading subtitle: ${error.message}`);
+                return null;
+            }
+        });
+
+        // Aguarda todas as promessas das legendas serem resolvidas
+        const loadedSubtitles = await Promise.all(subtitlesPromises);
+
+        // Filtra legendas que foram carregadas com sucesso
+        const validSubtitles = loadedSubtitles.filter((subtitle) => subtitle !== null);
+
+        // Se não houver legendas carregadas, retorna apenas os streams
+        if (validSubtitles.length === 0) {
+            return { streams: streams ? streams : [] };
+        }
+
+        // Se houver legendas carregadas, envia o episódio com as legendas
+        return { streams: streams ? streams : [], subtitles: validSubtitles };
     } catch (error) {
         console.error(`Erro ao buscar streams: ${error.message}`);
-        return Promise.resolve({ streams: [] });
+        return { streams: [] };
     }
 });
 
