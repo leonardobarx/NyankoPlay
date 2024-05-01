@@ -101,15 +101,15 @@ builder.defineSubtitlesHandler(async (args) => {
             subtitles = seriesSubtitles[id] || [];
         }
 
-        // Formata as legendas para o formato exigido pelo Stremio
-        subtitles = subtitles.map((subtitle, index) => ({
-            id: `${id}-${index}`, // Gera um ID único para cada legenda
-            url: subtitle.url, // URL da legenda
-            lang: subtitle.lang // Código de idioma da legenda
-        }));
-
-        // Se houver legendas, retorna o array de legendas
+        // Se houver legendas, retorna o array de legendas com URLs válidas
         if (subtitles.length > 0) {
+            // Formata as legendas com URLs acessíveis publicamente
+            subtitles = subtitles.map((subtitle, index) => ({
+                id: `${id}-${index}`, // Gera um ID único para cada legenda
+                url: subtitle.url, // URL da legenda
+                lang: subtitle.lang // Código de idioma da legenda
+            }));
+            
             return Promise.resolve({ subtitles });
         } else {
             // Caso contrário, retorna um array vazio

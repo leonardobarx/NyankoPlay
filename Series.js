@@ -30,7 +30,7 @@ const seriesStreams = {
 const seriesSubtitles = {
 //Kamen rider build legendas
     "tt6982472:1:1": [
-        { url: "https://archive.org/download/thisfilehasnosubs-kamen-rider-build-05-bc-49-d-87-e/%5BTHISFILEHASNOSUBS%5D%20Kamen%20Rider%20Build%20-%2001%20%5B0FA14DE4%5D.srt", lang: "por", label: "Português" },
+        { url: "https://archive.org/download/thisfilehasnosubs-kamen-rider-build-05-bc-49-d-87-e/%5BTHISFILEHASNOSUBS%5D%20Kamen%20Rider%20Build%20-%2001%20%5B0FA14DE4%5D.srt", lang: "por", label: "Portugues" },
 
                     ]
 
