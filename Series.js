@@ -22,7 +22,7 @@ const seriesStreams = {
        "tt6982472:1:1": [{ url: "https://archive.org/download/kr-b-pt-01/KR-B-PT%2001.mkv", title: "WEB-Episódio-1-Legendado-[New Wave]", season: 1, episode: 1 }],
        "tt6982472:1:2": [{ url: "https://archive.org/download/kr-b-pt-02/KR-B-PT%2002.mkv", title: "WEB-Episódio-2-Legendado-[New Wave]", season: 1, episode: 2 }],
        "tt6982472:1:3": [{ url: "https://archive.org/download/kr-b-pt-03/KR-B-PT%2003.mkv", title: "WEB-Episódio-3-Legendado-[New Wave]", season: 1, episode: 3 }],
-       "tt6982472:1:4": [{ url: "https://archive.org/download/kr-b-pt-04/KR-B-PT%2004.mkv", title: "WEB-Episódio-3-Legendado-[New Wave]", season: 1, episode: 4 }],
+       "tt6982472:1:4": [{ url: "https://archive.org/download/kr-b-pt-04/KR-B-PT%2004.mkv", title: "WEB-Episódio-4-Legendado-[New Wave]", season: 1, episode: 4 }],
     };
 
 
