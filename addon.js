@@ -3,7 +3,7 @@ const { addonBuilder } = require("stremio-addon-sdk");
 // Definição do manifesto do addon
 const manifest = {
   id: "community.Nyankoplay", // ID único do addon
-  version: "0.0.1", // Versão do addon
+  version: "0.0.2", // Versão do addon
   catalogs: [
     { type: "movie", id: "movies" }, // Catálogo de filmes
     { type: "series", id: "series" }, // Catálogo de séries
@@ -58,16 +58,16 @@ builder.defineStreamHandler(({ type, id }) => {
       "tt0188340:1:2": [{ url: "https://mangas.cloud/tokusatsus/Kamen-Rider/Kuuga/02.mp4", title: "Episódio 2 - mangas.cloud", season: 1, episode: 2 }],
       "tt0188340:1:3": [{ url: "https://mangas.cloud/tokusatsus/Kamen-Rider/Kuuga/03.mp4", title: "Episódio 3 - mangas.cloud", season: 1, episode: 3 }],
       // Kamen Rider Black Sun
-      "tt14377480:1:1": [{ url: "https://www.udrop.com/LFSk/Kamen_Rider_BLACK_SUN_S01E01_1080p_AMZN_WEB_DL_DDP5_1_H_264_0N0R3D1K31D0.mp4?download_token=9891a64083e804397a73a3d06ecfdf2676e76557136b7b40d65fee35ff8749b3", title: "Episódio-1-FHD-Legendado-Udrop", season: 1, episode: 1 }],
-      "tt14377480:1:2": [{ url: "https://www.udrop.com/LFS5/Kamen_Rider_BLACK_SUN_S01E02_1080p_AMZN_WEB_DL_DDP5_1_H_264_0N0R3D1K31D0.mkv?download_token=3b40b7a488c539e6ad455df85ddf79e4d56b7e4946cc23ea96ac4ba56acf62c0", title: "Episódio-2-FHD-Legendado-Udrop", season: 1, episode: 2 }],
-      "tt14377480:1:3": [{ url: "https://www.udrop.com/LFS2/Kamen_Rider_BLACK_SUN_S01E03_1080p_AMZN_WEB_DL_DDP5_1_H_264_0N0R3D1K31D0.mkv?download_token=225815e72685eb0c95f54935607fc4f5f3fbc8719de1ce8351f6c34954d296bc", title: "Episódio-3-FHD-Legendado-Udrop", season: 1, episode: 3 }],
-      "tt14377480:1:4": [{ url: "https://www.udrop.com/LFRY/Kamen_Rider_BLACK_SUN_S01E04_1080p_AMZN_WEB_DL_DDP5_1_H_264_0N0R3D1K31D0.mkv?download_token=08c5a200b558cc4e71ebf37811f5969e4862cbf4c6ba47d1c7216078a9c28951", title: "Episódio-4-FHD-Legendado-Udrop", season: 1, episode: 4 }],
-      "tt14377480:1:5": [{ url: "https://www.udrop.com/LFS3/Kamen_Rider_BLACK_SUN_S01E05_1080p_AMZN_WEB_DL_DDP5_1_H_264_0N0R3D1K31D0.mkv?download_token=0643563460e03b1e6b78c4aa4c950fb781930bc760a64301ce530dc7aff65643", title: "Episódio-5-FHD-Legendado-Udrop", season: 1, episode: 5 }],
-      "tt14377480:1:6": [{ url: "https://www.udrop.com/LFS1/Kamen_Rider_BLACK_SUN_S01E06_1080p_AMZN_WEB_DL_DDP5_1_H_264_0N0R3D1K31D0.mkv?download_token=67de1776ec02b2c34ab385a336f97a4698adf7492c6c4229a0fc022680048074", title: "Episódio-6-FHD-Legendado-Udrop", season: 1, episode: 6 }],
-      "tt14377480:1:7": [{ url: "https://www.udrop.com/LFRX/Kamen_Rider_BLACK_SUN_S01E07_1080p_AMZN_WEB_DL_DDP5_1_H_264_0N0R3D1K31D0.mkv?download_token=93c176cec259466a00ff6fbe0b4dde4ad2924c447a9599fede230735c6a6ec8a", title: "Episódio-7-FHD-Legendado-Udrop", season: 1, episode: 7 }],
-      "tt14377480:1:8": [{ url: "https://www.udrop.com/LFS4/Kamen_Rider_BLACK_SUN_S01E08_1080p_AMZN_WEB_DL_DDP5_1_H_264_0N0R3D1K31D0.mkv?download_token=64c3c479f6b48e0bbf305e36fc6462cd2b43aa8212f4cf5b163b6ec32f32bde9", title: "Episódio-8-FHD-Legendado-Udrop", season: 1, episode: 8 }],
-      "tt14377480:1:9": [{ url: "https://www.udrop.com/LFRZ/Kamen_Rider_BLACK_SUN_S01E09_1080p_AMZN_WEB_DL_DDP5_1_H_264_0N0R3D1K31D0.mkv?download_token=0d74262a3606893acaaf68c269915309f6ebbf039a515c8230ea985e4d7c56f6", title: "Episódio-9-FHD-Legendado-Udrop", season: 1, episode: 9 }],
-      "tt14377480:1:10": [{ url: "https://www.udrop.com/LFS0/Kamen_Rider_BLACK_SUN_S01E10_1080p_AMZN_WEB_DL_DDP5_1_H_264_0N0R3D1K31D0.mkv?download_token=aca243265409cbb3b2cc1c53c33a96ddf376d75a009148057a4aa55195736f81", title: "Episódio-10-FHD-Legendado-Udrop", season: 1, episode: 10 }]
+      "tt14377480:1:1": [{ url: "https://archive.org/download/08-1080-leg/KRBS-LEG-1080/01%201080%20LEG.mkv", title: "Episódio-1-FHD-Legendado-[New Wave]", season: 1, episode: 1 }],
+      "tt14377480:1:2": [{ url: "https://archive.org/download/08-1080-leg/KRBS-LEG-1080/02%201080%20LEG.mkv", title: "Episódio-2-FHD-Legendado-[New Wave]", season: 1, episode: 2 }],
+      "tt14377480:1:3": [{ url: "https://archive.org/download/08-1080-leg/KRBS-LEG-1080/03%201080%20LEG.mkv", title: "Episódio-3-FHD-Legendado-[New Wave]", season: 1, episode: 3 }],
+      "tt14377480:1:4": [{ url: "https://archive.org/download/08-1080-leg/KRBS-LEG-1080/04%201080%20LEG.mkv", title: "Episódio-4-FHD-Legendado-[New Wave]", season: 1, episode: 4 }],
+      "tt14377480:1:5": [{ url: "https://archive.org/download/08-1080-leg/KRBS-LEG-1080/05%201080%20LEG.mkv", title: "Episódio-5-FHD-Legendado-[New Wave]", season: 1, episode: 5 }],
+      "tt14377480:1:6": [{ url: "https://archive.org/download/08-1080-leg/KRBS-LEG-1080/06%201080%20LEG.mkv", title: "Episódio-6-FHD-Legendado-[New Wave]", season: 1, episode: 6 }],
+      "tt14377480:1:7": [{ url: "https://archive.org/download/08-1080-leg/KRBS-LEG-1080/07%201080%20LEG.mkv", title: "Episódio-7-FHD-Legendado-[New Wave]", season: 1, episode: 7 }],
+      "tt14377480:1:8": [{ url: "https://archive.org/download/08-1080-leg/KRBS-LEG-1080/08%201080%20LEG.mkv", title: "Episódio-8-FHD-Legendado-[New Wave]", season: 1, episode: 8 }],
+      "tt14377480:1:9": [{ url: "https://archive.org/download/08-1080-leg/KRBS-LEG-1080/09%201080%20LEG.mkv", title: "Episódio-9-FHD-Legendado-[New Wave]", season: 1, episode: 9 }],
+      "tt14377480:1:10": [{ url: "https://archive.org/download/08-1080-leg/KRBS-LEG-1080/10%201080%20LEG.mkv", title: "Episódio-10-FHD-Legendado-[New Wave]", season: 1, episode: 10 }]
 
     };
 
