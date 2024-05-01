@@ -5,15 +5,15 @@ const { catalogs: movieCatalogs, movieStreams, movieSubtitles } = require("./Mov
 // Definição do manifesto do addon
 const manifest = {
     id: "community.Nyankoplay", // ID único do addon
-    version: "0.0.2", // Versão do addon
+    version: "0.0.3", // Versão do addon
     catalogs: [
         { type: "movie", id: "movies" }, // Catálogo de filmes
         { type: "series", id: "series" }, // Catálogo de séries
     ],
     resources: ["catalog", "stream", "meta", "subtitles"], // Recursos que o addon oferece (catálogos, streams, metadados e legendas)
     types: ["movie", "series"], // Tipos de conteúdo suportados (filmes e séries)
-    name: "NyankoPlay Tokusatsu BR", // Nome do addon
-    description: "Catálogo e stream de Tokusatsus em PTBR", // Descrição do addon
+    name: "NyankoPlay", // Nome do addon
+    description: "Catálogo, stream e legendas de Tokusatsus", // Descrição do addon
 };
 
 const builder = new addonBuilder(manifest);

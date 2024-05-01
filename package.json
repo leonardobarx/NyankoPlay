@@ -1,12 +1,14 @@
 {
 	"name": "stremio-addon-NyankoPlay",
-	"version": "0.0.2",
-	"description": "catalogo e Stream de Tokusatsus em PTBR",
+	"version": "0.0.3",
+	"description": "Catálogo, stream e legendas de Tokusatsus",
 	"scripts": {
-		"start": "node server.js"
+		"start": "node server.js",
+		"vercel-build": "npx prisma migrate deploy"
 	},
 	"dependencies": {
 		"magnet-uri": "^7.0.5",
-		"stremio-addon-sdk": "1.1.x"
+		"stremio-addon-sdk": "1.1.x",
+		"webtorrent": "^2.2.1"
 	}
 }
