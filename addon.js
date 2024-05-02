@@ -50,93 +50,21 @@ builder.defineCatalogHandler(({ type, extra }) => {
 
 // Manipulador para a requisição de streams
 // Manipulador para a requisição de streams
-builder.defineStreamHandler(async ({ type, id }) => {
+builder.defineStreamHandler(({ type, id }) => {
     try {
         // Decide qual array de stream usar baseado no tipo
         const streams = type === "movie" ? movieStreams[id] : seriesStreams[id];
-        
-        // Verifica se há legendas disponíveis para o vídeo
-        let subtitles = [];
-        if (type === "movie") {
-            subtitles = movieSubtitles[id] || [];
-        } else if (type === "series") {
-            subtitles = seriesSubtitles[id] || [];
-        }
-
-        // Se não houver legendas, envia apenas os streams
-        if (subtitles.length === 0) {
-            return { streams: streams ? streams : [] };
-        }
-
-        // Carrega as legendas de forma assíncrona
-        const subtitlesPromises = subtitles.map(async (subtitle) => {
-            try {
-                const response = await fetch(subtitle.url);
-                if (response.ok) {
-                    const subtitleData = await response.text();
-                    return { url: subtitle.url, lang: subtitle.lang, data: subtitleData };
-                } else {
-                    throw new Error(`Failed to load subtitle from ${subtitle.url}`);
-                }
-            } catch (error) {
-                console.error(`Error loading subtitle: ${error.message}`);
-                return null;
-            }
-        });
-
-        // Aguarda todas as promessas das legendas serem resolvidas
-        const loadedSubtitles = await Promise.all(subtitlesPromises);
-
-        // Filtra legendas que foram carregadas com sucesso
-        const validSubtitles = loadedSubtitles.filter((subtitle) => subtitle !== null);
-
-        // Se não houver legendas carregadas, retorna apenas os streams
-        if (validSubtitles.length === 0) {
-            return { streams: streams ? streams : [] };
-        }
-
-        // Se houver legendas carregadas, envia o episódio com as legendas
-        return { streams: streams ? streams : [], subtitles: validSubtitles };
+        return Promise.resolve({ streams: streams ? streams : [] });
     } catch (error) {
         console.error(`Erro ao buscar streams: ${error.message}`);
-        return { streams: [] };
+        return Promise.resolve({ streams: [] });
     }
 });
 
 // Manipulador para a requisição de legendas
-builder.defineSubtitlesHandler(async (args) => {
-    const { type, id, extra } = args;
-    const { videoHash, videoSize, filename } = extra || {};
-
-    try {
-        let subtitles = [];
-
-        if (type === "movie") {
-            // Obtém as legendas do filme
-            subtitles = movieSubtitles[id] || [];
-        } else if (type === "series") {
-            // Obtém as legendas da série
-            subtitles = seriesSubtitles[id] || [];
-        }
-
-        // Se houver legendas, retorna o array de legendas com URLs válidas
-        if (subtitles.length > 0) {
-            // Formata as legendas com URLs acessíveis publicamente
-            subtitles = subtitles.map((subtitle, index) => ({
-                id: `${id}-${index}`, // Gera um ID único para cada legenda
-                url: subtitle.url, // URL da legenda
-                lang: subtitle.lang // Código de idioma da legenda
-            }));
-            
-            return Promise.resolve({ subtitles });
-        } else {
-            // Caso contrário, retorna um array vazio
-            return Promise.resolve({ subtitles: [] });
-        }
-    } catch (error) {
-        console.error(`Erro ao buscar legendas: ${error.message}`);
-        return Promise.resolve({ subtitles: [] });
-    }
+builder.defineSubtitlesHandler(({ type, id }) => {
+    const subtitles = type === "movie" ? movieSubtitles[id] : seriesSubtitles[id];
+    return Promise.resolve({ subtitles: subtitles ? subtitles : [] });
 });
 
 // Manipulador para a requisição de busca de metadados
