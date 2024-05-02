@@ -5,7 +5,7 @@ const catalogs = [
 
 const seriesStreams = {
      
-// Kamen Rider Black Sun
+// Kamen Rider Black Sun - [New Wave]
       "tt14377480:1:1": [{ url: "https://archive.org/download/08-1080-leg/KRBS-LEG-1080/01%201080%20LEG.mkv", title: "WEB-Episódio-1-FHD-Legendado-[New Wave]", season: 1, episode: 1 }],
       "tt14377480:1:2": [{ url: "https://archive.org/download/08-1080-leg/KRBS-LEG-1080/02%201080%20LEG.mkv", title: "WEB-Episódio-2-FHD-Legendado-[New Wave]", season: 1, episode: 2 }],
       "tt14377480:1:3": [{ url: "https://archive.org/download/08-1080-leg/KRBS-LEG-1080/03%201080%20LEG.mkv", title: "WEB-Episódio-3-FHD-Legendado-[New Wave]", season: 1, episode: 3 }],
@@ -16,6 +16,17 @@ const seriesStreams = {
       "tt14377480:1:8": [{ url: "https://archive.org/download/08-1080-leg/KRBS-LEG-1080/08%201080%20LEG.mkv", title: "WEB-Episódio-8-FHD-Legendado-[New Wave]", season: 1, episode: 8 }],
       "tt14377480:1:9": [{ url: "https://archive.org/download/08-1080-leg/KRBS-LEG-1080/09%201080%20LEG.mkv", title: "WEB-Episódio-9-FHD-Legendado-[New Wave]", season: 1, episode: 9 }],
       "tt14377480:1:10": [{ url: "https://archive.org/download/08-1080-leg/KRBS-LEG-1080/10%201080%20LEG.mkv", title: "WEB-Episódio-10-FHD-Legendado-[New Wave]", season: 1, episode: 10 }],
+// Kamen Rider Black Sun JP
+      "tt14377480:1:1": [{ url: "https://archive.org/download/09_20240420/01.mkv", title: "WEB-Ep-01-[Audio JP] BR ", season: 1, episode: 1 }],
+      "tt14377480:1:2": [{ url: "https://archive.org/download/09_20240420/02.mkv", title: "WEB-Ep-02-[Audio JP] BR", season: 1, episode: 2 }],
+      "tt14377480:1:3": [{ url: "https://archive.org/download/09_20240420/03.mkv", title: "WEB-Ep-03-[Audio JP] BR", season: 1, episode: 3 }],
+      "tt14377480:1:4": [{ url: "https://archive.org/download/09_20240420/04.mkv", title: "WEB-Ep-04-[Audio JP] BR", season: 1, episode: 4 }],
+      "tt14377480:1:5": [{ url: "https://archive.org/download/09_20240420/05.mkv", title: "WEB-Ep-05-[Audio JP] BR", season: 1, episode: 5 }],
+      "tt14377480:1:6": [{ url: "https://archive.org/download/09_20240420/06.mkv", title: "WEB-Ep-06-[Audio JP] BR", season: 1, episode: 6 }],
+      "tt14377480:1:7": [{ url: "https://archive.org/download/09_20240420/07.mkv", title: "WEB-Ep-07-[Audio JP] BR", season: 1, episode: 7 }],
+      "tt14377480:1:8": [{ url: "https://archive.org/download/09_20240420/08.mkv", title: "WEB-Ep-08-[Audio JP] BR", season: 1, episode: 8 }],
+      "tt14377480:1:9": [{ url: "https://archive.org/download/09_20240420/09.mkv", title: "WEB-Ep-09-[Audio JP] BR", season: 1, episode: 9 }],
+      "tt14377480:1:10": [{ url: "https://archive.org/download/09_20240420/10.mkv", title: "WEB-Ep-10-[Audio JP] BR", season: 1, episode: 10 }],
 
 //Kamen Rider Build
 "tt6982472:1:1": [{ url: "https://archive.org/download/kamen-rider-build/%5BOZC-Live%5DKamen%20Rider%20Build%20BD%20Box%20Complete%20Series%20%5B1080p%5D/%5BOZC-Live%5DKamen%20Rider%20Build%20BD%20Box%20E01%20%27These%20Guys%20Are%20A%20Best%20Match%27%20%5B1080p%5D%5Bv2%5D.mp4", title: "Ep 01 Kamen Rider Build JP", season: 1, episode: 1 }],
@@ -73,6 +84,57 @@ const seriesStreams = {
 
 
 const seriesSubtitles = {
+
+
+//Kamen rider Black sun legendas
+
+        "tt14377480:1:1": [
+        { url: "https://archive.org/download/kamen.-rider.-black.-sun.-s-01-e-01.1080p.-amzn.-web-dl.-ddp-5.1.-h.-264-pi-a/Kamen.Rider.BLACK.SUN.S01E01.1080p.AMZN.WEB-DL.DDP5.1.H.264-PiA.srt", lang: "por", label: "Português" },
+        //space for new language
+        ],
+
+        "tt14377480:1:2": [
+        { url: "https://archive.org/download/kamen.-rider.-black.-sun.-s-01-e-01.1080p.-amzn.-web-dl.-ddp-5.1.-h.-264-pi-a/Kamen.Rider.BLACK.SUN.S01E02.1080p.AMZN.WEB-DL.DDP5.1.H.264-PiA.srt", lang: "por", label: "Português" },
+        //space for new language
+        ],
+        "tt14377480:1:3": [
+        { url: "https://archive.org/download/kamen.-rider.-black.-sun.-s-01-e-01.1080p.-amzn.-web-dl.-ddp-5.1.-h.-264-pi-a/Kamen.Rider.BLACK.SUN.S01E03.1080p.AMZN.WEB-DL.DDP5.1.H.264-PiA.srt", lang: "por", label: "Português" },
+        //space for new language
+        ],
+        "tt14377480:1:4": [
+        { url: "https://archive.org/download/kamen.-rider.-black.-sun.-s-01-e-01.1080p.-amzn.-web-dl.-ddp-5.1.-h.-264-pi-a/Kamen.Rider.BLACK.SUN.S01E04.1080p.AMZN.WEB-DL.DDP5.1.H.264-PiA.srt", lang: "por", label: "Português" },
+        //space for new language
+        ],
+        "tt14377480:1:5": [
+        { url: "https://archive.org/download/kamen.-rider.-black.-sun.-s-01-e-01.1080p.-amzn.-web-dl.-ddp-5.1.-h.-264-pi-a/Kamen.Rider.BLACK.SUN.S01E05.1080p.AMZN.WEB-DL.DDP5.1.H.264-PiA.srt", lang: "por", label: "Português" },
+        //space for new language
+        ],
+        "tt14377480:1:6": [
+        { url: "https://archive.org/download/kamen.-rider.-black.-sun.-s-01-e-01.1080p.-amzn.-web-dl.-ddp-5.1.-h.-264-pi-a/Kamen.Rider.BLACK.SUN.S01E06.1080p.AMZN.WEB-DL.DDP5.1.H.264-PiA.srt", lang: "por", label: "Português" },
+        //space for new language
+        ],
+        "tt14377480:1:7": [
+        { url: "https://archive.org/download/kamen.-rider.-black.-sun.-s-01-e-01.1080p.-amzn.-web-dl.-ddp-5.1.-h.-264-pi-a/Kamen.Rider.BLACK.SUN.S01E07.1080p.AMZN.WEB-DL.DDP5.1.H.264-PiA.srt", lang: "por", label: "Português" },
+        //space for new language
+        ],
+        "tt14377480:1:8": [
+        { url: "https://archive.org/download/kamen.-rider.-black.-sun.-s-01-e-01.1080p.-amzn.-web-dl.-ddp-5.1.-h.-264-pi-a/Kamen.Rider.BLACK.SUN.S01E08.1080p.AMZN.WEB-DL.DDP5.1.H.264-PiA.srt", lang: "por", label: "Português" },
+        //space for new language
+        ],
+        "tt14377480:1:9": [
+        { url: "https://archive.org/download/kamen.-rider.-black.-sun.-s-01-e-01.1080p.-amzn.-web-dl.-ddp-5.1.-h.-264-pi-a/Kamen.Rider.BLACK.SUN.S01E09.1080p.AMZN.WEB-DL.DDP5.1.H.264-PiA.srt", lang: "por", label: "Português" },
+        //space for new language
+        ],
+        "tt14377480:1:10": [
+        { url: "https://archive.org/download/kamen.-rider.-black.-sun.-s-01-e-01.1080p.-amzn.-web-dl.-ddp-5.1.-h.-264-pi-a/Kamen.Rider.BLACK.SUN.S01E10.1080p.AMZN.WEB-DL.DDP5.1.H.264-PiA.srt", lang: "por", label: "Português" },
+        //space for new language
+        ],
+
+
+
+
+
+
 
 //Kamen rider build legendas
    "tt6982472:1:1": [
