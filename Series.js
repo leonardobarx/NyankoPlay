@@ -78,7 +78,7 @@ const seriesStreams = {
 "tt6982472:1:46": [{ url: "https://archive.org/download/kamen-rider-build/%5BOZC-Live%5DKamen%20Rider%20Build%20BD%20Box%20Complete%20Series%20%5B1080p%5D/%5BOZC-Live%5DKamen%20Rider%20Build%20BD%20Box%20E46%20%27An%20Oath%20To%20Be%20The%20One%27%20%5B1080p%5D.mkv", title: "Ep 46 Kamen Rider Build JP", season: 1, episode: 46 }],
 "tt6982472:1:47": [{ url: "https://archive.org/download/kamen-rider-build/%5BOZC-Live%5DKamen%20Rider%20Build%20BD%20Box%20Complete%20Series%20%5B1080p%5D/%5BOZC-Live%5DKamen%20Rider%20Build%20BD%20Box%20E47%20%27Subzero%20Flame%27%20%5B1080p%5D%5Bv2%5D.mkv", title: "Ep 47 Kamen Rider Build JP", season: 1, episode: 47 }],
 "tt6982472:1:48": [{ url: "https://archive.org/download/kamen-rider-build/%5BOZC-Live%5DKamen%20Rider%20Build%20BD%20Box%20Complete%20Series%20%5B1080p%5D/%5BOZC-Live%5DKamen%20Rider%20Build%20BD%20Box%20E48%20%27To%20A%20World%20of%20Love%20and%20Peace%27%20%5B1080p%5D%5Bv2%5D.mkv", title: "Ep 48 Kamen Rider Build JP", season: 1, episode: 48 }],
-"tt6982472:1:49": [{ url: "https://archive.org/download/kamen-rider-build/%5BOZC-Live%5DKamen%20Rider%20Build%20BD%20Box%20Complete%20Series%20%5B1080p%5D/%5BOZC-Live%5DKamen%20Rider%20Build%20BD%20Box%20E49%20%27The%20World%20Build%20Created%27%20%5B1080p%5D%5Bv2%5D.mkv", title: "Ep 49 Kamen Rider Build JP", season: 1, episode: 49 }]
+"tt6982472:1:49": [{ url: "https://archive.org/download/kamen-rider-build/%5BOZC-Live%5DKamen%20Rider%20Build%20BD%20Box%20Complete%20Series%20%5B1080p%5D/%5BOZC-Live%5DKamen%20Rider%20Build%20BD%20Box%20E49%20%27The%20World%20Build%20Created%27%20%5B1080p%5D%5Bv2%5D.mkv", title: "Ep 49 Kamen Rider Build JP", season: 1, episode: 49 }],
 
 
 
@@ -134,7 +134,7 @@ const seriesStreams = {
 "tt1483620:1:46": [{ url: "https://archive.org/download/kamen-rider-w/%5BOZC-Live%5DKamen%20Rider%20W%20BD%20Box%20Complete%20Series%20%5B720p%5D/%5BOZC-Live%5DKamen%20Rider%20W%20BD%20Box%20E46%20%27What%20K%20Demands%20-%20The%20Last%20Supper%27%20%5B720p%5D.mkv", title: "Ep 46 Kamen Rider W - 720p - Web", season: 1, episode: 46 }],
 "tt1483620:1:47": [{ url: "https://archive.org/download/kamen-rider-w/%5BOZC-Live%5DKamen%20Rider%20W%20BD%20Box%20Complete%20Series%20%5B720p%5D/%5BOZC-Live%5DKamen%20Rider%20W%20BD%20Box%20E47%20%27The%20Remaining%20U%20-%20Phillip%27s%20Case%27%20%5B720p%5D.mkv", title: "Ep 47 Kamen Rider W - 720p - Web", season: 1, episode: 47 }],
 "tt1483620:1:48": [{ url: "https://archive.org/download/kamen-rider-w/%5BOZC-Live%5DKamen%20Rider%20W%20BD%20Box%20Complete%20Series%20%5B720p%5D/%5BOZC-Live%5DKamen%20Rider%20W%20BD%20Box%20E48%20%27The%20Remaining%20U%20-%20Partners%20Forever%27%20%5B720p%5D.mkv", title: "Ep 48 Kamen Rider W - 720p - Web", season: 1, episode: 48 }],
-"tt1483620:1:49": [{ url: "https://archive.org/download/kamen-rider-w/%5BOZC-Live%5DKamen%20Rider%20W%20BD%20Box%20Complete%20Series%20%5B720p%5D/%5BOZC-Live%5DKamen%20Rider%20W%20BD%20Box%20E49%20%27Goodbye%20to%20E%20-%20A%20Bouquet%20of%20Justice%20For%20This%20City%27%20%5B720p%5D.mkv", title: "Ep 49 Kamen Rider W - 720p - Web", season: 1, episode: 49 }]
+"tt1483620:1:49": [{ url: "https://archive.org/download/kamen-rider-w/%5BOZC-Live%5DKamen%20Rider%20W%20BD%20Box%20Complete%20Series%20%5B720p%5D/%5BOZC-Live%5DKamen%20Rider%20W%20BD%20Box%20E49%20%27Goodbye%20to%20E%20-%20A%20Bouquet%20of%20Justice%20For%20This%20City%27%20%5B720p%5D.mkv", title: "Ep 49 Kamen Rider W - 720p - Web", season: 1, episode: 49 }],
 };
 
 
