@@ -7,15 +7,31 @@ const manifest = {
     id: "community.Nyankoplay", // ID único do addon
     version: "0.0.3", // Versão do addon
     catalogs: [
-        { type: "movie", id: "movies" }, // Catálogo de filmes
-        { type: "series", id: "series" }, // Catálogo de séries
+          // Catálogo de filmes
+        { 
+            type: "series", 
+            id: "series",  // Adicionada vírgula aqui
+            extra: [
+                { name: "search", isRequired: false },
+                { name: "genre", isRequired: false }
+            ],
+            genres: ["Tokusatsus", "Doramas", "J-drama", "Live-Action"]
+        },
+        { 
+            type: "movie", 
+            id: "movies",  // Adicionada vírgula aqui
+            extra: [
+                { name: "search", isRequired: false },
+                { name: "genre", isRequired: false }
+            ],
+            genres: ["Tokusatsus", "Doramas", "J-drama", "Live-Action"]
+        },  // Catálogo de séries
     ],
-    resources: ["catalog", "stream", "meta", "subtitles"], // Recursos que o addon oferece (catálogos, streams, metadados e legendas)
-    types: ["movie", "series"], // Tipos de conteúdo suportados (filmes e séries)
-    name: "NyankoPlay", // Nome do addon
-    description: "Catálogo, stream e legendas de Tokusatsus", // Descrição do addon
+    resources: ["catalog", "stream", "meta", "subtitles"],  // Recursos que o addon oferece (catálogos, streams, metadados e legendas)
+    types: ["movie", "series"],  // Tipos de conteúdo suportados (filmes e séries)
+    name: "NyankoPlay",  // Nome do addon
+    description: "Catálogo, stream e legendas de Tokusatsus"  // Descrição do addon
 };
-
 const builder = new addonBuilder(manifest);
 
 // Combina os catálogos de filmes e séries em um único array
@@ -27,6 +43,11 @@ builder.defineCatalogHandler(({ type, extra }) => {
 
     // Filtra os catálogos disponíveis pelo tipo especificado (filme ou série)
     results = results.filter((catalog) => catalog.type === type);
+
+    // Filtra por gênero se o gênero for fornecido
+    if (extra && extra.genre) {
+        results = results.filter(catalog => catalog.genres.includes(extra.genre));
+    }
 
     // Checa se há uma busca e filtra o catálogo com base na busca
     if (extra && extra.search) {
@@ -47,6 +68,7 @@ builder.defineCatalogHandler(({ type, extra }) => {
         staleRevalidate: 600, // Tenta revalidar os dados antigos após 10 minutos
     });
 });
+
 
 // Manipulador para a requisição de streams
 // Manipulador para a requisição de streams
