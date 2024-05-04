@@ -1,7 +1,7 @@
 const catalogs = [
     { id: "tt14377480", type: "series", name: "Kamen Rider Black Sun", genres: ["Tokusatsus"], poster: null },
-    { id: "tt6982472", type: "series", name: "Kamen Rider Build", genres: ["Doramas"], poster: null },
-    { id: "tt1483620", type: "series", name: "Kamen Rider W", genres: ["Live-Action"], poster: null },
+    { id: "tt6982472", type: "series", name: "Kamen Rider Build", genres: ["Tokusatsus"], poster: null },
+    { id: "tt1483620", type: "series", name: "Kamen Rider W", genres: ["Tokusatsus"], poster: null },
 ]
 
 const seriesStreams = {
