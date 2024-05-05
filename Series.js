@@ -1,9 +1,11 @@
 const catalogs = [
-    //{ id: "tt14893284", type: "series", name: "Kamen Rider Revice", genres: ["Tokusatsus"], poster: null },
+    { id: "tt14893284", type: "series", name: "Kamen Rider Revice", genres: ["Tokusatsus"], poster: "https://pbs.twimg.com/media/FQc3VYBacAsxnBR?format=jpg&name=large" },
     { id: "tt14377480", type: "series", name: "Kamen Rider Black Sun", genres: ["Tokusatsus"], poster: null },
     { id: "tt6982472", type: "series", name: "Kamen Rider Build", genres: ["Tokusatsus"], poster: null },
     { id: "tt1483620", type: "series", name: "Kamen Rider W", genres: ["Tokusatsus"], poster: null },
 ]
+
+
 
 const seriesStreams = {
 
@@ -196,6 +198,210 @@ const seriesStreams = {
 
 const seriesSubtitles = {
 
+
+
+//Kamen rider Revice legendas
+
+"tt14893284:1:1": [
+{ url: "https://archive.org/download/kamen-rider-revice-legendas-ptbr/%5BJapaSubs%5D%20%5BHikounin-Raws%5D%20Kamen%20Rider%20Revice%20-%2001%20%5B6290785B%5D.srt", lang: "Português BR [Japa Subs]", label: "Episódio 1" },
+//space for new language
+],
+"tt14893284:1:2": [
+{ url: "https://archive.org/download/kamen-rider-revice-legendas-ptbr/%5BJapaSubs%5D%20%5BHikounin-Raws%5D%20Kamen%20Rider%20Revice%20-%2002%20%5BCE9072FE%5D.srt", lang: "Português BR [Japa Subs]", label: "Episódio 2" },
+//space for new language
+],
+"tt14893284:1:3": [
+{ url: "https://archive.org/download/kamen-rider-revice-legendas-ptbr/%5BJapaSubs%5D%20%5BHikounin-Raws%5D%20Kamen%20Rider%20Revice%20-%2003%20%5B38989F00%5D.srt", lang: "Português BR [Japa Subs]", label: "Episódio 3" },
+//space for new language
+],
+"tt14893284:1:4": [
+{ url: "https://archive.org/download/kamen-rider-revice-legendas-ptbr/%5BJapaSubs%5D%20%5BHikounin-Raws%5D%20Kamen%20Rider%20Revice%20-%2004%20%5BBEAB0494%5D.srt", lang: "Português BR [Japa Subs]", label: "Episódio 4" },
+//space for new language
+],
+"tt14893284:1:5": [
+{ url: "https://archive.org/download/kamen-rider-revice-legendas-ptbr/%5BJapaSubs%5D%20%5BHikounin-Raws%5D%20Kamen%20Rider%20Revice%20-%2005%20%5B6999FAA9%5D.srt", lang: "Português BR [Japa Subs]", label: "Episódio 5" },
+//space for new language
+],
+"tt14893284:1:6": [
+{ url: "https://archive.org/download/kamen-rider-revice-legendas-ptbr/%5BJapaSubs%5D%20%5BHikounin-Raws%5D%20Kamen%20Rider%20Revice%20-%2006%20%5B246AB939%5D.srt", lang: "Português BR [Japa Subs]", label: "Episódio 6" },
+//space for new language
+],
+"tt14893284:1:7": [
+{ url: "https://archive.org/download/kamen-rider-revice-legendas-ptbr/%5BJapaSubs%5D%20%5BHikounin-Raws%5D%20Kamen%20Rider%20Revice%20-%2007%20%5B662A74AC%5D.srt", lang: "Português BR [Japa Subs]", label: "Episódio 7" },
+//space for new language
+],
+"tt14893284:1:8": [
+{ url: "https://archive.org/download/kamen-rider-revice-legendas-ptbr/%5BJapaSubs%5D%20%5BHikounin-Raws%5D%20Kamen%20Rider%20Revice%20-%2008%20%5BD1A69037%5D.srt", lang: "Português BR [Japa Subs]", label: "Episódio 8" },
+//space for new language
+],
+"tt14893284:1:9": [
+{ url: "https://archive.org/download/kamen-rider-revice-legendas-ptbr/%5BJapaSubs%5D%20%5BHikounin-Raws%5D%20Kamen%20Rider%20Revice%20-%2009%20%5B6A202800%5D.srt", lang: "Português BR [Japa Subs]", label: "Episódio 9" },
+//space for new language
+],
+"tt14893284:1:10": [
+{ url: "https://archive.org/download/kamen-rider-revice-legendas-ptbr/%5BJapaSubs%5D%20%5BHikounin-Raws%5D%20Kamen%20Rider%20Revice%20-%2010%20%5B17204838%5D.srt", lang: "Português BR [Japa Subs]", label: "Episódio 10" },
+//space for new language
+],
+"tt14893284:1:11": [
+{ url: "https://archive.org/download/kamen-rider-revice-legendas-ptbr/%5BJapaSubs%5D%20%5BHikounin-Raws%5D%20Kamen%20Rider%20Revice%20-%2011%20%5B80AD1CB7%5D.srt", lang: "Português BR [Japa Subs]", label: "Episódio 11" },
+//space for new language
+],
+"tt14893284:1:12": [
+{ url: "https://archive.org/download/kamen-rider-revice-legendas-ptbr/%5BJapaSubs%5D%20%5BHikounin-Raws%5D%20Kamen%20Rider%20Revice%20-%2012%20%5B501FB873%5D.srt", lang: "Português BR [Japa Subs]", label: "Episódio 12" },
+//space for new language
+],
+"tt14893284:1:13": [
+{ url: "https://archive.org/download/kamen-rider-revice-legendas-ptbr/%5BJapaSubs%5D%20%5BHikounin-Raws%5D%20Kamen%20Rider%20Revice%20-%2013%20%5BDD8B822D%5D.srt", lang: "Português BR [Japa Subs]", label: "Episódio 13" },
+//space for new language
+],
+"tt14893284:1:14": [
+{ url: "https://archive.org/download/kamen-rider-revice-legendas-ptbr/%5BJapaSubs%5D%20%5BHikounin-Raws%5D%20Kamen%20Rider%20Revice%20-%2014%20%5B5F22CAFF%5D.srt", lang: "Português BR [Japa Subs]", label: "Episódio 14" },
+//space for new language
+],
+"tt14893284:1:15": [
+{ url: "https://archive.org/download/kamen-rider-revice-legendas-ptbr/%5BJapaSubs%5D%20%5BHikounin-Raws%5D%20Kamen%20Rider%20Revice%20-%2015%20%5B35BD74F6%5D.srt", lang: "Português BR [Japa Subs]", label: "Episódio 15" },
+//space for new language
+],
+"tt14893284:1:16": [
+{ url: "https://archive.org/download/kamen-rider-revice-legendas-ptbr/%5BJapaSubs%5D%20%5BHikounin-Raws%5D%20Kamen%20Rider%20Revice%20-%2016%20%5BBF9B3105%5D.srt", lang: "Português BR [Japa Subs]", label: "Episódio 16" },
+//space for new language
+],
+"tt14893284:1:17": [
+{ url: "https://archive.org/download/kamen-rider-revice-legendas-ptbr/%5BJapaSubs%5D%20%5BHikounin-Raws%5D%20Kamen%20Rider%20Revice%20-%2017%20%5BB059D5A2%5D.srt", lang: "Português BR [Japa Subs]", label: "Episódio 17" },
+//space for new language
+],
+"tt14893284:1:18": [
+{ url: "https://archive.org/download/kamen-rider-revice-legendas-ptbr/%5BJapaSubs%5D%20%5BHikounin-Raws%5D%20Kamen%20Rider%20Revice%20-%2018%20%5BB90C02BE%5D.srt", lang: "Português BR [Japa Subs]", label: "Episódio 18" },
+//space for new language
+],
+"tt14893284:1:19": [
+{ url: "https://archive.org/download/kamen-rider-revice-legendas-ptbr/%5BJapaSubs%5D%20%5BHikounin-Raws%5D%20Kamen%20Rider%20Revice%20-%2019%20%5B345E40B6%5D.srt", lang: "Português BR [Japa Subs]", label: "Episódio 19" },
+//space for new language
+],
+"tt14893284:1:20": [
+{ url: "https://archive.org/download/kamen-rider-revice-legendas-ptbr/%5BJapaSubs%5D%20%5BHikounin-Raws%5D%20Kamen%20Rider%20Revice%20-%2020%20%5B5DBC8C1A%5D.srt", lang: "Português BR [Japa Subs]", label: "Episódio 20" },
+//space for new language
+],
+"tt14893284:1:21": [
+{ url: "https://archive.org/download/kamen-rider-revice-legendas-ptbr/%5BJapaSubs%5D%20%5BHikounin-Raws%5D%20Kamen%20Rider%20Revice%20-%2021%20%5B1B864A30.srt", lang: "Português BR [Japa Subs]", label: "Episódio 21" },
+//space for new language
+],
+"tt14893284:1:22": [
+{ url: "https://archive.org/download/kamen-rider-revice-legendas-ptbr/%5BJapaSubs%5D%20%5BHikounin-Raws%5D%20Kamen%20Rider%20Revice%20-%2022%20%5B3C749CE1%5D.srt", lang: "Português BR [Japa Subs]", label: "Episódio 22" },
+//space for new language
+],
+"tt14893284:1:23": [
+{ url: "https://archive.org/download/kamen-rider-revice-legendas-ptbr/%5BJapaSubs%5D%20%5BHikounin-Raws%5D%20Kamen%20Rider%20Revice%20-%2023%20%5BA10A1C8F%5D.srt", lang: "Português BR [Japa Subs]", label: "Episódio 23" },
+//space for new language
+],
+"tt14893284:1:24": [
+{ url: "https://archive.org/download/kamen-rider-revice-legendas-ptbr/%5BJapaSubs%5D%20%5BHikounin-Raws%5D%20Kamen%20Rider%20Revice%20-%2024%20%5BB693C1DB%5D.srt", lang: "Português BR [Japa Subs]", label: "Episódio 24" },
+//space for new language
+],
+"tt14893284:1:25": [
+{ url: "https://archive.org/download/kamen-rider-revice-legendas-ptbr/%5BJapaSubs%5D%20%5BHikounin-Raws%5D%20Kamen%20Rider%20Revice%20-%2025%20%5BE64DAF1D%5D.srt", lang: "Português BR [Japa Subs]", label: "Episódio 25" },
+//space for new language
+],
+"tt14893284:1:26": [
+{ url: "https://archive.org/download/kamen-rider-revice-legendas-ptbr/%5BJapaSubs%5D%20%5BHikounin-Raws%5D%20Kamen%20Rider%20Revice%20-%2026%20%5BA7DD3A80%5D.srt", lang: "Português BR [Japa Subs]", label: "Episódio 26" },
+//space for new language
+],
+"tt14893284:1:27": [
+{ url: "https://archive.org/download/kamen-rider-revice-legendas-ptbr/%5BJapaSubs%5D%20%5BHikounin-Raws%5D%20Kamen%20Rider%20Revice%20-%2027%20%5B59336DB2%5D.srt", lang: "Português BR [Japa Subs]", label: "Episódio 27" },
+//space for new language
+],
+"tt14893284:1:28": [
+{ url: "https://archive.org/download/kamen-rider-revice-legendas-ptbr/%5BJapaSubs%5D%20%5BHikounin-Raws%5D%20Kamen%20Rider%20Revice%20-%2028%20%5BFA52A9A5%5D.srt", lang: "Português BR [Japa Subs]", label: "Episódio 28" },
+//space for new language
+],
+"tt14893284:1:29": [
+{ url: "https://archive.org/download/kamen-rider-revice-legendas-ptbr/%5BJapaSubs%5D%20%5BHikounin-Raws%5D%20Kamen%20Rider%20Revice%20-%2029%20%5BC3EA1F7D%5D.srt", lang: "Português BR [Japa Subs]", label: "Episódio 29" },
+//space for new language
+],
+"tt14893284:1:30": [
+{ url: "https://archive.org/download/kamen-rider-revice-legendas-ptbr/%5BJapaSubs%5D%20%5BHikounin-Raws%5D%20Kamen%20Rider%20Revice%20-%2030%20%5BEBF8E69C%5D.srt", lang: "Português BR [Japa Subs]", label: "Episódio 30" },
+//space for new language
+],
+"tt14893284:1:31": [
+{ url: "https://archive.org/download/kamen-rider-revice-legendas-ptbr/%5BJapaSubs%5D%20%5BHikounin-Raws%5D%20Kamen%20Rider%20Revice%20-%2031%20%5B88AA8A34%5D.srt", lang: "Português BR [Japa Subs]", label: "Episódio 31" },
+//space for new language
+],
+"tt14893284:1:32": [
+{ url: "https://archive.org/download/kamen-rider-revice-legendas-ptbr/%5BJapaSubs%5D%20%5BHikounin-Raws%5D%20Kamen%20Rider%20Revice%20-%2032%20%5BCA902D67%5D.srt", lang: "Português BR [Japa Subs]", label: "Episódio 32" },
+//space for new language
+],
+"tt14893284:1:33": [
+{ url: "https://archive.org/download/kamen-rider-revice-legendas-ptbr/%5BJapaSubs%5D%20%5BHikounin-Raws%5D%20Kamen%20Rider%20Revice%20-%2033%20%5B54AC1966%5D.srt", lang: "Português BR [Japa Subs]", label: "Episódio 33" },
+//space for new language
+],
+"tt14893284:1:34": [
+{ url: "https://archive.org/download/kamen-rider-revice-legendas-ptbr/%5BJapaSubs%5D%20%5BHikounin-Raws%5D%20Kamen%20Rider%20Revice%20-%2034%20%5BB1950D46%5D.srt", lang: "Português BR [Japa Subs]", label: "Episódio 34" },
+//space for new language
+],
+"tt14893284:1:35": [
+{ url: "https://archive.org/download/kamen-rider-revice-legendas-ptbr/%5BJapaSubs%5D%20%5BHikounin-Raws%5D%20Kamen%20Rider%20Revice%20-%2035%20%5B8784E0D0%5D.srt", lang: "Português BR [Japa Subs]", label: "Episódio 35" },
+//space for new language
+],
+"tt14893284:1:36": [
+{ url: "https://archive.org/download/kamen-rider-revice-legendas-ptbr/%5BJapaSubs%5D%20%5BHikounin-Raws%5D%20Kamen%20Rider%20Revice%20-%2036%20%5BD9E41FC1%5D.srt", lang: "Português BR [Japa Subs]", label: "Episódio 36" },
+//space for new language
+],
+"tt14893284:1:37": [
+{ url: "https://archive.org/download/kamen-rider-revice-legendas-ptbr/%5BJapaSubs%5D%20%5BHikounin-Raws%5D%20Kamen%20Rider%20Revice%20-%2037%20%5B509E0D2F%5D.srt", lang: "Português BR [Japa Subs]", label: "Episódio 37" },
+//space for new language
+],
+"tt14893284:1:38": [
+{ url: "https://archive.org/download/kamen-rider-revice-legendas-ptbr/%5BJapaSubs%5D%20%5BHikounin-Raws%5D%20Kamen%20Rider%20Revice%20-%2038%20%5BF62A2C2C%5D.srt", lang: "Português BR [Japa Subs]", label: "Episódio 38" },
+//space for new language
+],
+"tt14893284:1:39": [
+{ url: "https://archive.org/download/kamen-rider-revice-legendas-ptbr/%5BJapaSubs%5D%20%5BHikounin-Raws%5D%20Kamen%20Rider%20Revice%20-%2039%20%5B82AFBF9E%5D.srt", lang: "Português BR [Japa Subs]", label: "Episódio 39" },
+//space for new language
+],
+"tt14893284:1:40": [
+{ url: "https://archive.org/download/kamen-rider-revice-legendas-ptbr/%5BJapaSubs%5D%20%5BHikounin-Raws%5D%20Kamen%20Rider%20Revice%20-%2040%20%5B55FE1F45%5D.srt", lang: "Português BR [Japa Subs]", label: "Episódio 40" },
+//space for new language
+],
+"tt14893284:1:41": [
+{ url: "https://archive.org/download/kamen-rider-revice-legendas-ptbr/%5BJapaSubs%5D%20%5BHikounin-Raws%5D%20Kamen%20Rider%20Revice%20-%2041%20%5B830501B2%5D.srt", lang: "Português BR [Japa Subs]", label: "Episódio 41" },
+//space for new language
+],
+"tt14893284:1:42": [
+{ url: "https://archive.org/download/kamen-rider-revice-legendas-ptbr/%5BJapaSubs%5D%20%5BHikounin-Raws%5D%20Kamen%20Rider%20Revice%20-%2042%20%5B146B3D68%5D.srt", lang: "Português BR [Japa Subs]", label: "Episódio 42" },
+//space for new language
+],
+"tt14893284:1:43": [
+{ url: "https://archive.org/download/kamen-rider-revice-legendas-ptbr/%5BJapaSubs%5D%20%5BHikounin-Raws%5D%20Kamen%20Rider%20Revice%20-%2043%20%5B47AC1664%5D.srt", lang: "Português BR [Japa Subs]", label: "Episódio 43" },
+//space for new language
+],
+"tt14893284:1:44": [
+{ url: "https://archive.org/download/kamen-rider-revice-legendas-ptbr/%5BJapaSubs%5D%20%5BHikounin-Raws%5D%20Kamen%20Rider%20Revice%20-%2044%20%5B3E269BF5%5D.srt", lang: "Português BR [Japa Subs]", label: "Episódio 44" },
+//space for new language
+],
+"tt14893284:1:45": [
+{ url: "https://archive.org/download/kamen-rider-revice-legendas-ptbr/%5BJapaSubs%5D%20%5BHikounin-Raws%5D%20Kamen%20Rider%20Revice%20-%2045%20%5BB60FBD8C%5D.srt", lang: "Português BR [Japa Subs]", label: "Episódio 45" },
+//space for new language
+],
+"tt14893284:1:46": [
+{ url: "https://archive.org/download/kamen-rider-revice-legendas-ptbr/%5BJapaSubs%5D%20%5BHikounin-Raws%5D%20Kamen%20Rider%20Revice%20-%2046%20%5B009A2C1A%5D.srt", lang: "Português BR [Japa Subs]", label: "Episódio 46" },
+//space for new language
+],
+"tt14893284:1:47": [
+{ url: "https://archive.org/download/kamen-rider-revice-legendas-ptbr/%5BJapaSubs%5D%20%5BHikounin-Raws%5D%20Kamen%20Rider%20Revice%20-%2047%20%5BEC7269BA%5D.srt", lang: "Português BR [Japa Subs]", label: "Episódio 47" },
+//space for new language
+],
+"tt14893284:1:48": [
+{ url: "https://archive.org/download/kamen-rider-revice-legendas-ptbr/%5BJapaSubs%5D%20%5BHikounin-Raws%5D%20Kamen%20Rider%20Revice%20-%2048%20%5B87A8AF7D%5D.srt", lang: "Português BR [Japa Subs]", label: "Episódio 48" },
+//space for new language
+],
+"tt14893284:1:49": [
+{ url: "https://archive.org/download/kamen-rider-revice-legendas-ptbr/%5BJapaSubs%5D%20%5BHikounin-Raws%5D%20Kamen%20Rider%20Revice%20-%2049%20%5B1ED361AA%5D.srt", lang: "Português BR [Japa Subs]", label: "Episódio 49" },
+//space for new language
+],
+"tt14893284:1:50": [
+{ url: "https://archive.org/download/kamen-rider-revice-legendas-ptbr/%5BJapaSubs%5D%20%5BHikounin-Raws%5D%20Kamen%20Rider%20Revice%20-%2050%20%5BF0024CAB%5D.srt", lang: "Português BR [Japa Subs]", label: "Episódio 50" },
+//space for new language
+],
 
 //Kamen rider Black sun legendas
 
