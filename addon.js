@@ -15,7 +15,7 @@ const manifest = {
                 { name: "search", isRequired: false },
                 { name: "genre", isRequired: false }
             ],
-            genres: ["Tokusatsus", "Doramas", "J-drama", "Live-Action"]
+            genres: ["Tokusatsus", /*"Doramas", "J-drama", "Live-Action"*/]
         },
         { 
             type: "movie", 
@@ -24,7 +24,7 @@ const manifest = {
                 { name: "search", isRequired: false },
                 { name: "genre", isRequired: false }
             ],
-            genres: ["Tokusatsus", "Doramas", "J-drama", "Live-Action"]
+            genres: ["Tokusatsus",/* "Doramas", "J-drama", "Live-Action"*/]
         },  // Catálogo de séries
     ],
     resources: ["catalog", "stream", "meta", "subtitles"],  // Recursos que o addon oferece (catálogos, streams, metadados e legendas)
