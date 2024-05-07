@@ -151,10 +151,11 @@ const seriesStreams = {
 
 
 //Kamen rider w streams
-
+//{ url: "link", title: "WEB-HD-JP", season: 1, episode: 1 }
 
 "tt1483620:1:1": [{ url: "https://archive.org/download/kamen-rider-w/%5BOZC-Live%5DKamen%20Rider%20W%20BD%20Box%20Complete%20Series%20%5B720p%5D/%5BOZC-Live%5DKamen%20Rider%20W%20BD%20Box%20E01%20%27W%27s%20Search%20-%20Two%20Detectives%20in%20One%27%20%5B720p%5D.mkv", title: "Ep 01 Kamen Rider W - 720p - Web", season: 1, episode: 1 },
-{ url: "https://mangas.cloud/tokusatusus/Kamen-Rider/Double/01.mp4", title: "Ep 01 Kamen Rider W-SD-Web-subbed-PTBR", season: 1, episode: 1 }],
+{ url: "https://mangas.cloud/tokusatusus/Kamen-Rider/Double/01.mp4", title: "Ep 01 Kamen Rider W-SD-Web-subbed-PTBR", season: 1, episode: 1 },
+{ url: "https://m3u.haiwaikan.com/xm3u8/c3f1580f4e4cbe7464e56da9e5c34e8d44185985897b45c471b1f0adba89c4699921f11e97d0da21.m3u8", title: "WEB-HD-JP", season: 1, episode: 1 }],
 "tt1483620:1:2": [{ url: "https://archive.org/download/kamen-rider-w/%5BOZC-Live%5DKamen%20Rider%20W%20BD%20Box%20Complete%20Series%20%5B720p%5D/%5BOZC-Live%5DKamen%20Rider%20W%20BD%20Box%20E03%20%27Don%27t%20Touch%20the%20M%20-%20How%20To%20Get%20Into%20Heaven%27%20%5B720p%5D.mkv", title: "Ep 02 Kamen Rider W - 720p - Web", season: 1, episode: 2 },
 { url: "https://mangas.cloud/tokusatusus/Kamen-Rider/Double/02.mp4", title: "Ep 02 Kamen Rider W-SD-Web-subbed-PTBR", season: 1, episode: 2 }],
 "tt1483620:1:3": [{ url: "https://archive.org/download/kamen-rider-w/%5BOZC-Live%5DKamen%20Rider%20W%20BD%20Box%20Complete%20Series%20%5B720p%5D/%5BOZC-Live%5DKamen%20Rider%20W%20BD%20Box%20E03%20%27Don%27t%20Touch%20the%20M%20-%20How%20To%20Get%20Into%20Heaven%27%20%5B720p%5D.mkv", title: "Ep 03 Kamen Rider W - 720p - Web", season: 1, episode: 3 },
@@ -184,11 +185,14 @@ const seriesStreams = {
 "tt1483620:1:15": [{ url: "https://archive.org/download/kamen-rider-w/%5BOZC-Live%5DKamen%20Rider%20W%20BD%20Box%20Complete%20Series%20%5B720p%5D/%5BOZC-Live%5DKamen%20Rider%20W%20BD%20Box%20E15%20%27Flash%20of%20the%20F%20-%20Robbery%20Rider%27%20%5B720p%5D.mkv", title: "Ep 15 Kamen Rider W - 720p - Web", season: 1, episode: 15 },
 { url: "https://mangas.cloud/tokusatusus/Kamen-Rider/Double/15.mp4", title: "Ep 15 Kamen Rider W-SD-Web-subbed-PTBR", season: 1, episode: 15 }],
 "tt1483620:1:16": [{ url: "https://archive.org/download/kamen-rider-w/%5BOZC-Live%5DKamen%20Rider%20W%20BD%20Box%20Complete%20Series%20%5B720p%5D/%5BOZC-Live%5DKamen%20Rider%20W%20BD%20Box%20E16%20%27Flash%20of%20the%20F%20-%20Take%20Back%20Your%20Partner%27%20%5B720p%5D.mkv", title: "Ep 16 Kamen Rider W - 720p - Web", season: 1, episode: 16 },
-{ url: "https://mangas.cloud/tokusatusus/Kamen-Rider/Double/16.mp4", title: "Ep 16 Kamen Rider W-SD-Web-subbed-PTBR", season: 1, episode: 16 }],
+{ url: "https://mangas.cloud/tokusatusus/Kamen-Rider/Double/16.mp4", title: "Ep 16 Kamen Rider W-SD-Web-subbed-PTBR", season: 1, episode: 16 },
+{ url: "https://m3u.haiwaikan.com/xm3u8/c81a3d51589dde6d3998daf8c81e6ef38616fb7bc30720f3236d7f7415e80ba39921f11e97d0da21.m3u8", title: "WEB-HD-JP", season: 1, episode: 16 }],
 "tt1483620:1:17": [{ url: "https://archive.org/download/kamen-rider-w/%5BOZC-Live%5DKamen%20Rider%20W%20BD%20Box%20Complete%20Series%20%5B720p%5D/%5BOZC-Live%5DKamen%20Rider%20W%20BD%20Box%20E17%20%27Farewell%20to%20N%20-%20The%20Memory%20Kids%27%20%5B720p%5D.mkv", title: "Ep 17 Kamen Rider W - 720p - Web", season: 1, episode: 17 },
-{ url: "https://mangas.cloud/tokusatusus/Kamen-Rider/Double/17.mp4", title: "Ep 17 Kamen Rider W-SD-Web-subbed-PTBR", season: 1, episode: 17 }],
+{ url: "https://mangas.cloud/tokusatusus/Kamen-Rider/Double/17.mp4", title: "Ep 17 Kamen Rider W-SD-Web-subbed-PTBR", season: 1, episode: 17 },
+{ url: "https://m3u.haiwaikan.com/xm3u8/b94052c86d24228bc6134a53c32e16cb6dc57f3b210b99312f4224f638c7a4e89921f11e97d0da21.m3u8", title: "WEB-HD-JP", season: 1, episode: 17 }],
 "tt1483620:1:18": [{ url: "https://archive.org/download/kamen-rider-w/%5BOZC-Live%5DKamen%20Rider%20W%20BD%20Box%20Complete%20Series%20%5B720p%5D/%5BOZC-Live%5DKamen%20Rider%20W%20BD%20Box%20E18%20%27Farewell%20to%20N%20-%20Friends%20in%20the%20Wind%27%20%5B720p%5D.mkv", title: "Ep 18 Kamen Rider W - 720p - Web", season: 1, episode: 18 },
-{ url: "https://mangas.cloud/tokusatusus/Kamen-Rider/Double/18.mp4", title: "Ep 18 Kamen Rider W-SD-Web-subbed-PTBR", season: 1, episode: 18 }],
+{ url: "https://mangas.cloud/tokusatusus/Kamen-Rider/Double/18.mp4", title: "Ep 18 Kamen Rider W-SD-Web-subbed-PTBR", season: 1, episode: 18 },
+{ url: "https://m3u.haiwaikan.com/xm3u8/c22acc571c95abaef7bb3f581e5df247bb92970646c046f788a0b8188085df5d9921f11e97d0da21.m3u8", title: "WEB-HD-JP", season: 1, episode: 18 }],
 "tt1483620:1:19": [{ url: "https://archive.org/download/kamen-rider-w/%5BOZC-Live%5DKamen%20Rider%20W%20BD%20Box%20Complete%20Series%20%5B720p%5D/%5BOZC-Live%5DKamen%20Rider%20W%20BD%20Box%20E18%20%27Farewell%20to%20N%20-%20Friends%20in%20the%20Wind%27%20%5B720p%5D.mkv", title: "Ep 19 Kamen Rider W - 720p - Web", season: 1, episode: 19 },
 { url: "https://mangas.cloud/tokusatusus/Kamen-Rider/Double/19.mp4", title: "Ep 19 Kamen Rider W-SD-Web-subbed-PTBR", season: 1, episode: 19 }],
 "tt1483620:1:20": [{ url: "https://archive.org/download/kamen-rider-w/%5BOZC-Live%5DKamen%20Rider%20W%20BD%20Box%20Complete%20Series%20%5B720p%5D/%5BOZC-Live%5DKamen%20Rider%20W%20BD%20Box%20E20%20%27I%20Won%27t%20Stop%20-%20Kamen%20Rider%20Style%27%20%5B720p%5D.mkv", title: "Ep 20 Kamen Rider W - 720p - Web", season: 1, episode: 20 },
