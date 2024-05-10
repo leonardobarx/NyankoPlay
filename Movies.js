@@ -5,6 +5,7 @@ const catalogs = [
 const movieStreams = {
     "tt14379088": [{ infoHash: "17a10d72c9980d67e338f34bcfc87ea9519dfb48", title: "Torrent-FullHD-Nyaa", season: 1, episode: 1 }],
     "tt1556175": [{ url: "https://archive.org/download/ozc-live-kamen-rider-x-kamen-rider-w-decade-movie-wars-2010-720p/%5BOZC-Live%5DKamen%20Rider%20%C3%97%20Kamen%20Rider%20W%20%26%20Decade%20-%20Movie%20Wars%202010%20%5B720p%5D.mkv", title: "WEB-HD-JP", },
+                 { infoHash: "28321bcbb5ed9eb31b95a66b8781166c6789318b", title: "Torrent-HD-JP",},
                   { url: "https://archive.org/download/KamenRiderXKamenRiderWDecadeMovieWars2010/Kamen%20Rider%20%C3%97%20Kamen%20Rider%20W%20%26%20Decade%20-%20Movie%20Wars%202010.mp4", title: "WEB-SD-JP",}],
 };
 
