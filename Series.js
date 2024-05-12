@@ -995,7 +995,7 @@ const seriesSubtitles = {
 "tt1483620:1:14": [ { url: "https://archive.org/download/kamenriderwlegendasptbr/kr_w_port_14.srt", lang: "Portugues BR", label: "Portugues" },], //space for new language ],
 "tt1483620:1:15": [ { url: "https://archive.org/download/kamenriderwlegendasptbr/kr_w_port_15.srt", lang: "Portugues BR", label: "Portugues" },], //space for new language ],
 "tt1483620:1:16": [ { url: "https://archive.org/download/kamenriderwlegendasptbr/kr_w_port_16.srt", lang: "Portugues BR", label: "Portugues" },], //space for new language ],
-"tt1483620:1:17": [ { url: "https://archive.org/download/kamenriderwlegendasptbr/kr_w_port_17.srt", lang: "Portugues BR", label: "Portugues" },], //space for new language ],
+"tt1483620:1:17": [ { url: "https://archive.org/download/kr_w_port_17/kr_w_port_17.srt", lang: "Portugues BR", label: "Portugues" },], //space for new language ],
 "tt1483620:1:18": [ { url: "https://archive.org/download/kamenriderwlegendasptbr/kr_w_port_18.srt", lang: "Portugues BR", label: "Portugues" },], //space for new language ],
 "tt1483620:1:19": [ { url: "https://archive.org/download/kamenriderwlegendasptbr/kr_w_port_19.srt", lang: "Portugues BR", label: "Portugues" },], //space for new language ],
 "tt1483620:1:20": [ { url: "https://archive.org/download/kamenriderwlegendasptbr/kr_w_port_20.srt", lang: "Portugues BR", label: "Portugues" },], //space for new language ],
