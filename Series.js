@@ -1,5 +1,5 @@
 const catalogs = [
-    //{ id: "tt1473235", type: "series", name: "Kamen Rider Decade", genres: ["Tokusatsus"], poster: null },
+    { id: "tt1473235", type: "series", name: "Kamen Rider Decade", genres: ["Tokusatsus"], poster: null },
     { id: "tt14893284", type: "series", name: "Kamen Rider Revice", genres: ["Tokusatsus"], poster: "https://pbs.twimg.com/media/FQc3VYBacAsxnBR?format=jpg&name=large" },
     { id: "tt14377480", type: "series", name: "Kamen Rider Black Sun", genres: ["Tokusatsus"], poster: null },
     { id: "tt6982472", type: "series", name: "Kamen Rider Build", genres: ["Tokusatsus"], poster: null },
@@ -11,167 +11,137 @@ const catalogs = [
 const seriesStreams = {
 
        // stream base
-      /*"tt1473235:1:1": [{ url: "Link.com", title: "WEB-HD-JP-Archive .mkv ", season: 1, episode: 1 },
-                        { url: "Link.com", title: "WEB-SD-JP-KissAsian .m3u8", season: 1, episode: 1 },
-                        { url: "Link.com", title: "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", season: 1, episode: 1 }],*/
+      /*""tt1473235:1:1": [
+    { "infoHash": "4e47e949482ba05f2f11e51a0e8052f9fa606cdd", "title": "Torrent-FHD-JP-Nyaa.si .mkv", "season": 1, "episode": 1, "fileIdx": 0 },
+    { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Decade/01.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 1 }
+  ],*/
 
 
 
       // kamen rider Decade streams
- "tt1473235:1:1": [
-    { url: "https://archive.org/download/t-n-kamen-rider-decade-01-b-2-a-3-d-889/%5BT-N%5DKamen_Rider_Decade_01_HD%5B30D31B72%5D.mp4", title: "WEB-HD-JP-Archive .mp4 ", season: 1, episode: 1 },
-    { url: "Link.com", title: "WEB-SD-JP-KissAsian .m3u8", season: 1, episode: 1 },
-    { url: "https://mangas.cloud/tokusatusus/Kamen-Rider/Decade/01.mp4", title: "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", season: 1, episode: 1 }
+"tt1473235:1:1": [
+    { "infoHash": "4e47e949482ba05f2f11e51a0e8052f9fa606cdd", "title": "Torrent-FHD-JP-Nyaa.si .mkv", "season": 1, "episode": 1, "fileIdx": 0 },
+    { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Decade/01.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 1 }
   ],
   "tt1473235:1:2": [
-    { url: "https://archive.org/download/t-n-kamen-rider-decade-01-b-2-a-3-d-889/%5BT-N%5DKamen_Rider_Decade_02_HD%5B334B32E7%5D.mp4", title: "WEB-HD-JP-Archive .mkv ", season: 1, episode: 2 },
-    { url: "Link.com", title: "WEB-SD-JP-KissAsian .m3u8", season: 1, episode: 2 },
-    { url: "https://mangas.cloud/tokusatusus/Kamen-Rider/Decade/02.mp4", title: "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", season: 1, episode: 2 }
+    { "infoHash": "4e47e949482ba05f2f11e51a0e8052f9fa606cdd", "title": "Torrent-FHD-JP-Nyaa.si .mkv", "season": 1, "episode": 2, "fileIdx": 1 },
+    { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Decade/02.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 2 }
   ],
   "tt1473235:1:3": [
-    { url: "https://archive.org/download/t-n-kamen-rider-decade-01-b-2-a-3-d-889/%5BT-N%5DKamen_Rider_Decade_03_HD%5BCDA4A0E3%5D.mp4", title: "WEB-HD-JP-Archive .mkv ", season: 1, episode: 3 },
-    { url: "Link.com", title: "WEB-SD-JP-KissAsian .m3u8", season: 1, episode: 3 },
-    { url: "https://mangas.cloud/tokusatusus/Kamen-Rider/Decade/03.mp4", title: "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", season: 1, episode: 3 }
+    { "infoHash": "4e47e949482ba05f2f11e51a0e8052f9fa606cdd", "title": "Torrent-FHD-JP-Nyaa.si .mkv", "season": 1, "episode": 3, "fileIdx": 2 },
+    { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Decade/03.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 3 }
   ],
   "tt1473235:1:4": [
-    { url: "https://archive.org/download/t-n-kamen-rider-decade-01-b-2-a-3-d-889/%5BT-N%5DKamen_Rider_Decade_04_HD%5B028EDC78%5D.mp4", title: "WEB-HD-JP-Archive .mkv ", season: 1, episode: 4 },
-    { url: "Link.com", title: "WEB-SD-JP-KissAsian .m3u8", season: 1, episode: 4 },
-    { url: "https://mangas.cloud/tokusatusus/Kamen-Rider/Decade/04.mp4", title: "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", season: 1, episode: 4 }
+    { "infoHash": "4e47e949482ba05f2f11e51a0e8052f9fa606cdd", "title": "Torrent-FHD-JP-Nyaa.si .mkv", "season": 1, "episode": 4, "fileIdx": 3 },
+    { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Decade/04.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 4 }
   ],
   "tt1473235:1:5": [
-    { url: "https://archive.org/download/decade-all/05.%20Decade%20-%2005.mp4", title: "WEB-HD-JP-Archive .mkv ", season: 1, episode: 5 },
-    { url: "Link.com", title: "WEB-SD-JP-KissAsian .m3u8", season: 1, episode: 5 },
-    { url: "https://mangas.cloud/tokusatusus/Kamen-Rider/Decade/05.mp4", title: "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", season: 1, episode: 5 }
+    { "infoHash": "4e47e949482ba05f2f11e51a0e8052f9fa606cdd", "title": "Torrent-FHD-JP-Nyaa.si .mkv", "season": 1, "episode": 5, "fileIdx": 4 },
+    { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Decade/05.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 5 }
   ],
   "tt1473235:1:6": [
-    { url: "https://archive.org/download/decade-all/06.%20Decade%20-%2006.mp4", title: "WEB-HD-JP-Archive .mkv ", season: 1, episode: 6 },
-    { url: "Link.com", title: "WEB-SD-JP-KissAsian .m3u8", season: 1, episode: 6 },
-    { url: "https://mangas.cloud/tokusatusus/Kamen-Rider/Decade/06.mp4", title: "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", season: 1, episode: 6 }
+    { "infoHash": "4e47e949482ba05f2f11e51a0e8052f9fa606cdd", "title": "Torrent-FHD-JP-Nyaa.si .mkv", "season": 1, "episode": 6, "fileIdx": 5 },
+    { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Decade/06.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 6 }
   ],
   "tt1473235:1:7": [
-    { url: "https://archive.org/download/decade-all/07.%20Decade%20-%2007.mp4", title: "WEB-HD-JP-Archive .mkv ", season: 1, episode: 7 },
-    { url: "Link.com", title: "WEB-SD-JP-KissAsian .m3u8", season: 1, episode: 7 },
-    { url: "https://mangas.cloud/tokusatusus/Kamen-Rider/Decade/07.mp4", title: "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", season: 1, episode: 7 }
+    { "infoHash": "4e47e949482ba05f2f11e51a0e8052f9fa606cdd", "title": "Torrent-FHD-JP-Nyaa.si .mkv", "season": 1, "episode": 7, "fileIdx": 6 },
+    { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Decade/07.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 7 }
   ],
   "tt1473235:1:8": [
-    { url: "https://archive.org/download/decade-all/08.%20Decade%20-%2008.mp4", title: "WEB-HD-JP-Archive .mkv ", season: 1, episode: 8 },
-    { url: "Link.com", title: "WEB-SD-JP-KissAsian .m3u8", season: 1, episode: 8 },
-    { url: "https://mangas.cloud/tokusatusus/Kamen-Rider/Decade/08.mp4", title: "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", season: 1, episode: 8 }
+    { "infoHash": "4e47e949482ba05f2f11e51a0e8052f9fa606cdd", "title": "Torrent-FHD-JP-Nyaa.si .mkv", "season": 1, "episode": 8, "fileIdx": 7 },
+    { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Decade/08.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 8 }
   ],
   "tt1473235:1:9": [
-    { url: "https://archive.org/download/decade-all/08.%20Decade%20-%2008.mp4", title: "WEB-HD-JP-Archive .mkv ", season: 1, episode: 9 },
-    { url: "Link.com", title: "WEB-SD-JP-KissAsian .m3u8", season: 1, episode: 9 },
-    { url: "https://mangas.cloud/tokusatusus/Kamen-Rider/Decade/09.mp4", title: "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", season: 1, episode: 9 }
+    { "infoHash": "4e47e949482ba05f2f11e51a0e8052f9fa606cdd", "title": "Torrent-FHD-JP-Nyaa.si .mkv", "season": 1, "episode": 9, "fileIdx": 8 },
+    { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Decade/09.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 9 }
   ],
   "tt1473235:1:10": [
-    { url: "https://archive.org/download/decade-all/10.%20Decade%20-%2010.mp4", title: "WEB-HD-JP-Archive .mkv ", season: 1, episode: 10 },
-    { url: "Link.com", title: "WEB-SD-JP-KissAsian .m3u8", season: 1, episode: 10 },
-    { url: "https://mangas.cloud/tokusatusus/Kamen-Rider/Decade/10.mp4", title: "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", season: 1, episode: 10 }
+    { "infoHash": "4e47e949482ba05f2f11e51a0e8052f9fa606cdd", "title": "Torrent-FHD-JP-Nyaa.si .mkv", "season": 1, "episode": 10, "fileIdx": 9 },
+    { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Decade/10.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 10 }
   ],
   "tt1473235:1:11": [
-    { url: "https://archive.org/download/decade-all/11.%20Decade%20-%2011.mp4", title: "WEB-HD-JP-Archive .mkv ", season: 1, episode: 11 },
-    { url: "Link.com", title: "WEB-SD-JP-KissAsian .m3u8", season: 1, episode: 11 },
-    { url: "https://mangas.cloud/tokusatusus/Kamen-Rider/Decade/11.mp4", title: "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", season: 1, episode: 11 }
+    { "infoHash": "4e47e949482ba05f2f11e51a0e8052f9fa606cdd", "title": "Torrent-FHD-JP-Nyaa.si .mkv", "season": 1, "episode": 11, "fileIdx": 10 },
+    { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Decade/11.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 11 }
   ],
   "tt1473235:1:12": [
-    { url: "https://archive.org/download/decade-all/12.%20Decade%20-%2012.mp4", title: "WEB-HD-JP-Archive .mkv ", season: 1, episode: 12 },
-    { url: "Link.com", title: "WEB-SD-JP-KissAsian .m3u8", season: 1, episode: 12 },
-    { url: "https://mangas.cloud/tokusatusus/Kamen-Rider/Decade/12.mp4", title: "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", season: 1, episode: 12 }
+    { "infoHash": "4e47e949482ba05f2f11e51a0e8052f9fa606cdd", "title": "Torrent-FHD-JP-Nyaa.si .mkv", "season": 1, "episode": 12, "fileIdx": 11 },
+    { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Decade/12.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 12 }
   ],
   "tt1473235:1:13": [
-    { url: "https://archive.org/download/decade-all/13.%20Decade%20-%2013.mp4", title: "WEB-HD-JP-Archive .mkv ", season: 1, episode: 13 },
-    { url: "Link.com", title: "WEB-SD-JP-KissAsian .m3u8", season: 1, episode: 13 },
-    { url: "https://mangas.cloud/tokusatusus/Kamen-Rider/Decade/13.mp4", title: "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", season: 1, episode: 13 }
+    { "infoHash": "4e47e949482ba05f2f11e51a0e8052f9fa606cdd", "title": "Torrent-FHD-JP-Nyaa.si .mkv", "season": 1, "episode": 13, "fileIdx": 12 },
+    { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Decade/13.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 13 }
   ],
   "tt1473235:1:14": [
-    { url: "https://archive.org/download/decade-all/14.%20Decade%20-%2014.mp4", title: "WEB-HD-JP-Archive .mkv ", season: 1, episode: 14 },
-    { url: "Link.com", title: "WEB-SD-JP-KissAsian .m3u8", season: 1, episode: 14 },
-    { url: "https://mangas.cloud/tokusatusus/Kamen-Rider/Decade/14.mp4", title: "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", season: 1, episode: 14 }
+    { "infoHash": "4e47e949482ba05f2f11e51a0e8052f9fa606cdd", "title": "Torrent-FHD-JP-Nyaa.si .mkv", "season": 1, "episode": 14, "fileIdx": 13 },
+    { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Decade/14.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 14 }
   ],
   "tt1473235:1:15": [
-    { url: "https://archive.org/download/decade-all/15.%20Decade%20-%2015.mp4", title: "WEB-HD-JP-Archive .mkv ", season: 1, episode: 15 },
-    { url: "Link.com", title: "WEB-SD-JP-KissAsian .m3u8", season: 1, episode: 15 },
-    { url: "https://mangas.cloud/tokusatusus/Kamen-Rider/Decade/15.mp4", title: "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", season: 1, episode: 15 }
+    { "infoHash": "4e47e949482ba05f2f11e51a0e8052f9fa606cdd", "title": "Torrent-FHD-JP-Nyaa.si .mkv", "season": 1, "episode": 15, "fileIdx": 14 },
+    { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Decade/15.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 15 }
   ],
   "tt1473235:1:16": [
-    { url: "https://archive.org/download/decade-all/16.%20Chou%20Den-O%20%26%20Decade%20Onigashima%20Warship.mp4", title: "WEB-HD-JP-Archive .mkv ", season: 1, episode: 16 },
-    { url: "Link.com", title: "WEB-SD-JP-KissAsian .m3u8", season: 1, episode: 16 },
-    { url: "https://mangas.cloud/tokusatusus/Kamen-Rider/Decade/16.mp4", title: "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", season: 1, episode: 16 }
+    { "infoHash": "4e47e949482ba05f2f11e51a0e8052f9fa606cdd", "title": "Torrent-FHD-JP-Nyaa.si .mkv", "season": 1, "episode": 16, "fileIdx": 15 },
+    { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Decade/16.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 16 }
   ],
   "tt1473235:1:17": [
-    { url: "https://archive.org/download/decade-all/18.%20Decade%20-%2017.mp4", title: "WEB-HD-JP-Archive .mkv ", season: 1, episode: 17 },
-    { url: "Link.com", title: "WEB-SD-JP-KissAsian .m3u8", season: 1, episode: 17 },
-    { url: "https://mangas.cloud/tokusatusus/Kamen-Rider/Decade/17.mp4", title: "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", season: 1, episode: 17 }
+    { "infoHash": "4e47e949482ba05f2f11e51a0e8052f9fa606cdd", "title": "Torrent-FHD-JP-Nyaa.si .mkv", "season": 1, "episode": 17, "fileIdx": 16 },
+    { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Decade/17.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 17 }
   ],
   "tt1473235:1:18": [
-    { url: "https://archive.org/download/decade-all/18.%20Decade%20-%2017.mp4", title: "WEB-HD-JP-Archive .mkv ", season: 1, episode: 18 },
-    { url: "Link.com", title: "WEB-SD-JP-KissAsian .m3u8", season: 1, episode: 18 },
-    { url: "https://mangas.cloud/tokusatusus/Kamen-Rider/Decade/18.mp4", title: "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", season: 1, episode: 18 }
+    { "infoHash": "4e47e949482ba05f2f11e51a0e8052f9fa606cdd", "title": "Torrent-FHD-JP-Nyaa.si .mkv", "season": 1, "episode": 18, "fileIdx": 17 },
+    { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Decade/18.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 18 }
   ],
   "tt1473235:1:19": [
-    { url: "https://archive.org/download/decade-all/20.%20Decade%20-%2019.mp4", title: "WEB-HD-JP-Archive .mkv ", season: 1, episode: 19 },
-    { url: "Link.com", title: "WEB-SD-JP-KissAsian .m3u8", season: 1, episode: 19 },
-    { url: "https://mangas.cloud/tokusatusus/Kamen-Rider/Decade/19.mp4", title: "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", season: 1, episode: 19 }
+    { "infoHash": "4e47e949482ba05f2f11e51a0e8052f9fa606cdd", "title": "Torrent-FHD-JP-Nyaa.si .mkv", "season": 1, "episode": 19, "fileIdx": 18 },
+    { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Decade/19.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 19 }
   ],
   "tt1473235:1:20": [
-    { url: "https://archive.org/download/decade-all/20.%20Decade%20-%2019.mp4", title: "WEB-HD-JP-Archive .mkv ", season: 1, episode: 20 },
-    { url: "Link.com", title: "WEB-SD-JP-KissAsian .m3u8", season: 1, episode: 20 },
-    { url: "https://mangas.cloud/tokusatusus/Kamen-Rider/Decade/20.mp4", title: "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", season: 1, episode: 20 }
+    { "infoHash": "4e47e949482ba05f2f11e51a0e8052f9fa606cdd", "title": "Torrent-FHD-JP-Nyaa.si .mkv", "season": 1, "episode": 20, "fileIdx": 19 },
+    { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Decade/20.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 20 }
   ],
   "tt1473235:1:21": [
-    { url: "https://archive.org/download/decade-all/21.%20Decade%20-%2020.mp4", title: "WEB-HD-JP-Archive .mkv ", season: 1, episode: 21 },
-    { url: "Link.com", title: "WEB-SD-JP-KissAsian .m3u8", season: 1, episode: 21 },
-    { url: "https://mangas.cloud/tokusatusus/Kamen-Rider/Decade/21.mp4", title: "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", season: 1, episode: 21 }
+    { "infoHash": "4e47e949482ba05f2f11e51a0e8052f9fa606cdd", "title": "Torrent-FHD-JP-Nyaa.si .mkv", "season": 1, "episode": 21, "fileIdx": 20 },
+    { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Decade/21.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 21 }
   ],
   "tt1473235:1:22": [
-    { url: "https://archive.org/download/decade-all/22.%20Decade%20-%2021.mp4", title: "WEB-HD-JP-Archive .mkv ", season: 1, episode: 22 },
-    { url: "Link.com", title: "WEB-SD-JP-KissAsian .m3u8", season: 1, episode: 22 },
-    { url: "https://mangas.cloud/tokusatusus/Kamen-Rider/Decade/22.mp4", title: "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", season: 1, episode: 22 }
+    { "infoHash": "4e47e949482ba05f2f11e51a0e8052f9fa606cdd", "title": "Torrent-FHD-JP-Nyaa.si .mkv", "season": 1, "episode": 22, "fileIdx": 21 },
+    { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Decade/22.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 22 }
   ],
   "tt1473235:1:23": [
-    { url: "https://archive.org/download/decade-all/24.%20Decade%20-%2023.mp4", title: "WEB-HD-JP-Archive .mkv ", season: 1, episode: 23 },
-    { url: "Link.com", title: "WEB-SD-JP-KissAsian .m3u8", season: 1, episode: 23 },
-    { url: "https://mangas.cloud/tokusatusus/Kamen-Rider/Decade/23.mp4", title: "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", season: 1, episode: 23 }
+    { "infoHash": "4e47e949482ba05f2f11e51a0e8052f9fa606cdd", "title": "Torrent-FHD-JP-Nyaa.si .mkv", "season": 1, "episode": 23, "fileIdx": 22 },
+    { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Decade/23.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 23 }
   ],
   "tt1473235:1:24": [
-    { url: "https://archive.org/download/decade-all/24.%20Decade%20-%2023.mp4", title: "WEB-HD-JP-Archive .mkv ", season: 1, episode: 24 },
-    { url: "Link.com", title: "WEB-SD-JP-KissAsian .m3u8", season: 1, episode: 24 },
-    { url: "https://mangas.cloud/tokusatusus/Kamen-Rider/Decade/24.mp4", title: "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", season: 1, episode: 24 }
+    { "infoHash": "4e47e949482ba05f2f11e51a0e8052f9fa606cdd", "title": "Torrent-FHD-JP-Nyaa.si .mkv", "season": 1, "episode": 24, "fileIdx": 23 },
+    { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Decade/24.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 24 }
   ],
   "tt1473235:1:25": [
-    { url: "https://archive.org/download/decade-all/25.%20Decade%20-%2024.mp4", title: "WEB-HD-JP-Archive .mkv ", season: 1, episode: 25 },
-    { url: "Link.com", title: "WEB-SD-JP-KissAsian .m3u8", season: 1, episode: 25 },
-    { url: "https://mangas.cloud/tokusatusus/Kamen-Rider/Decade/25.mp4", title: "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", season: 1, episode: 25 }
+    { "infoHash": "4e47e949482ba05f2f11e51a0e8052f9fa606cdd", "title": "Torrent-FHD-JP-Nyaa.si .mkv", "season": 1, "episode": 25, "fileIdx": 24 },
+    { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Decade/25.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 25 }
   ],
   "tt1473235:1:26": [
-    { url: "https://archive.org/download/decade-all/26.%20Decade%20-%2025.mp4", title: "WEB-HD-JP-Archive .mkv ", season: 1, episode: 26 },
-    { url: "Link.com", title: "WEB-SD-JP-KissAsian .m3u8", season: 1, episode: 26 },
-    { url: "https://mangas.cloud/tokusatusus/Kamen-Rider/Decade/26.mp4", title: "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", season: 1, episode: 26 }
+    { "infoHash": "4e47e949482ba05f2f11e51a0e8052f9fa606cdd", "title": "Torrent-FHD-JP-Nyaa.si .mkv", "season": 1, "episode": 26, "fileIdx": 25 },
+    { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Decade/26.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 26 }
   ],
   "tt1473235:1:27": [
-    { url: "https://archive.org/download/decade-all/27.%20Decade%20-%2026.mp4", title: "WEB-HD-JP-Archive .mkv ", season: 1, episode: 27 },
-    { url: "Link.com", title: "WEB-SD-JP-KissAsian .m3u8", season: 1, episode: 27 },
-    { url: "https://mangas.cloud/tokusatusus/Kamen-Rider/Decade/27.mp4", title: "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", season: 1, episode: 27 }
+    { "infoHash": "4e47e949482ba05f2f11e51a0e8052f9fa606cdd", "title": "Torrent-FHD-JP-Nyaa.si .mkv", "season": 1, "episode": 27, "fileIdx": 26 },
+    { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Decade/27.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 27 }
   ],
   "tt1473235:1:28": [
-    { url: "https://archive.org/download/decade-all/28.%20Decade%20-%2027.mp4", title: "WEB-HD-JP-Archive .mkv ", season: 1, episode: 28 },
-    { url: "Link.com", title: "WEB-SD-JP-KissAsian .m3u8", season: 1, episode: 28 },
-    { url: "https://mangas.cloud/tokusatusus/Kamen-Rider/Decade/28.mp4", title: "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", season: 1, episode: 28 }
+    { "infoHash": "4e47e949482ba05f2f11e51a0e8052f9fa606cdd", "title": "Torrent-FHD-JP-Nyaa.si .mkv", "season": 1, "episode": 28, "fileIdx": 27 },
+    { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Decade/28.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 28 }
   ],
   "tt1473235:1:29": [
-    { url: "https://archive.org/download/decade-all/29.%20Decade%20-%2028.mp4", title: "WEB-HD-JP-Archive .mkv ", season: 1, episode: 29 },
-    { url: "Link.com", title: "WEB-SD-JP-KissAsian .m3u8", season: 1, episode: 29 },
-    { url: "https://mangas.cloud/tokusatusus/Kamen-Rider/Decade/29.mp4", title: "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", season: 1, episode: 29 }
+    { "infoHash": "4e47e949482ba05f2f11e51a0e8052f9fa606cdd", "title": "Torrent-FHD-JP-Nyaa.si .mkv", "season": 1, "episode": 29, "fileIdx": 28 },
+    { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Decade/29.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 29 }
   ],
   "tt1473235:1:30": [
-    { url: "https://archive.org/download/decade-all/30.%20Decade%20-%2029.mp4", title: "WEB-HD-JP-Archive .mkv ", season: 1, episode: 30 },
-    { url: "Link.com", title: "WEB-SD-JP-KissAsian .m3u8", season: 1, episode: 30 },
-    { url: "https://mangas.cloud/tokusatusus/Kamen-Rider/Decade/30.mp4", title: "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", season: 1, episode: 30 }
+    { "infoHash": "4e47e949482ba05f2f11e51a0e8052f9fa606cdd", "title": "Torrent-FHD-JP-Nyaa.si .mkv", "season": 1, "episode": 30, "fileIdx": 29 },
+    { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Decade/30.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 30 }
   ],
   "tt1473235:1:31": [
-    { url: "https://archive.org/download/decade-all/31.%20All%20Riders%20VS%20Dai-Shocker.mp4", title: "WEB-HD-JP-Archive .mkv ", season: 1, episode: 31 },
-    { url: "Link.com", title: "WEB-SD-JP-KissAsian .m3u8", season: 1, episode: 31 },
-    { url: "https://mangas.cloud/tokusatusus/Kamen-Rider/Decade/31.mp4", title: "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", season: 1, episode: 31 }
+    { "infoHash": "4e47e949482ba05f2f11e51a0e8052f9fa606cdd", "title": "Torrent-FHD-JP-Nyaa.si .mkv", "season": 1, "episode": 31, "fileIdx": 30 },
+    { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Decade/31.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 31 }
   ],
 
       // kamen rider revice streams
