@@ -1,4 +1,5 @@
 const catalogs = [
+    { id: "tt0188340", type: "series", name: "Kamen Rider Kuuga", genres: ["Tokusatsus"], poster: null },
     { id: "tt1473235", type: "series", name: "Kamen Rider Decade", genres: ["Tokusatsus"], poster: null },
     { id: "tt14893284", type: "series", name: "Kamen Rider Revice", genres: ["Tokusatsus"], poster: "https://pbs.twimg.com/media/FQc3VYBacAsxnBR?format=jpg&name=large" },
     { id: "tt14377480", type: "series", name: "Kamen Rider Black Sun", genres: ["Tokusatsus"], poster: null },
@@ -16,9 +17,256 @@ const seriesStreams = {
     { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Decade/01.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 1 }
   ],*/
 
+// kamen rider kuuga streams
+    "tt0188340:1:1": [
+        { "infoHash": "bb72443777a22a76c87ccb181034d9e8ce7add3b", "title": "Torrent-FHD-JP-Nyaa.si .mkv", "season": 1, "episode": 1, "fileIdx": 18 },
+        { "infoHash": "2c0c80601951cfd10b03f7f6cad3da2b11308ea3", "title": "Torrent-HD-JP-Nyaa.si .mkv", "season": 1, "episode": 1, "fileIdx": 1 },
+        { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/01.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 1 }
+    ],
+    "tt0188340:1:2": [
+        { "infoHash": "bb72443777a22a76c87ccb181034d9e8ce7add3b", "title": "Torrent-FHD-JP-Nyaa.si .mkv", "season": 1, "episode": 2, "fileIdx": 20 },
+        { "infoHash": "2c0c80601951cfd10b03f7f6cad3da2b11308ea3", "title": "Torrent-HD-JP-Nyaa.si .mkv", "season": 1, "episode": 2, "fileIdx": 2 },
+        { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/02.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 2 }
+    ],
+    "tt0188340:1:3": [
+        { "infoHash": "bb72443777a22a76c87ccb181034d9e8ce7add3b", "title": "Torrent-FHD-JP-Nyaa.si .mkv", "season": 1, "episode": 3, "fileIdx": 21 },
+        { "infoHash": "2c0c80601951cfd10b03f7f6cad3da2b11308ea3", "title": "Torrent-HD-JP-Nyaa.si .mkv", "season": 1, "episode": 3, "fileIdx": 3 },
+        { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/03.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 3 }
+    ],
+    "tt0188340:1:4": [
+        { "infoHash": "bb72443777a22a76c87ccb181034d9e8ce7add3b", "title": "Torrent-FHD-JP-Nyaa.si .mkv", "season": 1, "episode": 4, "fileIdx": 22 },
+        { "infoHash": "2c0c80601951cfd10b03f7f6cad3da2b11308ea3", "title": "Torrent-HD-JP-Nyaa.si .mkv", "season": 1, "episode": 4, "fileIdx": 4 },
+        { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/04.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 4 }
+    ],
+    "tt0188340:1:5": [
+        { "infoHash": "bb72443777a22a76c87ccb181034d9e8ce7add3b", "title": "Torrent-FHD-JP-Nyaa.si .mkv", "season": 1, "episode": 5, "fileIdx": 23 },
+        { "infoHash": "2c0c80601951cfd10b03f7f6cad3da2b11308ea3", "title": "Torrent-HD-JP-Nyaa.si .mkv", "season": 1, "episode": 5, "fileIdx": 5 },
+        { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/05.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 5 }
+    ],
+    "tt0188340:1:6": [
+        { "infoHash": "bb72443777a22a76c87ccb181034d9e8ce7add3b", "title": "Torrent-FHD-JP-Nyaa.si .mkv", "season": 1, "episode": 6, "fileIdx": 24 },
+        { "infoHash": "2c0c80601951cfd10b03f7f6cad3da2b11308ea3", "title": "Torrent-HD-JP-Nyaa.si .mkv", "season": 1, "episode": 6, "fileIdx": 6 },
+        { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/06.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 6 }
+    ],
+    "tt0188340:1:7": [
+        { "infoHash": "bb72443777a22a76c87ccb181034d9e8ce7add3b", "title": "Torrent-FHD-JP-Nyaa.si .mkv", "season": 1, "episode": 7, "fileIdx": 25 },
+        { "infoHash": "2c0c80601951cfd10b03f7f6cad3da2b11308ea3", "title": "Torrent-HD-JP-Nyaa.si .mkv", "season": 1, "episode": 7, "fileIdx": 7 },
+        { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/07.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 7 }
+    ],
+    "tt0188340:1:8": [
+        { "infoHash": "bb72443777a22a76c87ccb181034d9e8ce7add3b", "title": "Torrent-FHD-JP-Nyaa.si .mkv", "season": 1, "episode": 8, "fileIdx": 26 },
+        { "infoHash": "2c0c80601951cfd10b03f7f6cad3da2b11308ea3", "title": "Torrent-HD-JP-Nyaa.si .mkv", "season": 1, "episode": 8, "fileIdx": 8 },
+        { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/08.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 8 }
+    ],
+    "tt0188340:1:9": [
+        { "infoHash": "bb72443777a22a76c87ccb181034d9e8ce7add3b", "title": "Torrent-FHD-JP-Nyaa.si .mkv", "season": 1, "episode": 9, "fileIdx": 27 },
+        { "infoHash": "2c0c80601951cfd10b03f7f6cad3da2b11308ea3", "title": "Torrent-HD-JP-Nyaa.si .mkv", "season": 1, "episode": 9, "fileIdx": 9 },
+        { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/09.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 9 }
+    ],
+    "tt0188340:1:10": [
+        { "infoHash": "bb72443777a22a76c87ccb181034d9e8ce7add3b", "title": "Torrent-FHD-JP-Nyaa.si .mkv", "season": 1, "episode": 10, "fileIdx": 28 },
+        { "infoHash": "2c0c80601951cfd10b03f7f6cad3da2b11308ea3", "title": "Torrent-HD-JP-Nyaa.si .mkv", "season": 1, "episode": 10, "fileIdx": 10 },
+        { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/10.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 10 }
+    ],
+    "tt0188340:1:11": [
+        { "infoHash": "bb72443777a22a76c87ccb181034d9e8ce7add3b", "title": "Torrent-FHD-JP-Nyaa.si .mkv", "season": 1, "episode": 11, "fileIdx": 29 },
+        { "infoHash": "2c0c80601951cfd10b03f7f6cad3da2b11308ea3", "title": "Torrent-HD-JP-Nyaa.si .mkv", "season": 1, "episode": 11, "fileIdx": 11 },
+        { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/11.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 11 }
+    ],
+    "tt0188340:1:12": [
+        { "infoHash": "bb72443777a22a76c87ccb181034d9e8ce7add3b", "title": "Torrent-FHD-JP-Nyaa.si .mkv", "season": 1, "episode": 12, "fileIdx": 30 },
+        { "infoHash": "2c0c80601951cfd10b03f7f6cad3da2b11308ea3", "title": "Torrent-HD-JP-Nyaa.si .mkv", "season": 1, "episode": 12, "fileIdx": 12 },
+        { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/12.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 12 }
+    ],
+    "tt0188340:1:13": [
+        { "infoHash": "bb72443777a22a76c87ccb181034d9e8ce7add3b", "title": "Torrent-FHD-JP-Nyaa.si .mkv", "season": 1, "episode": 13, "fileIdx": 31 },
+        { "infoHash": "2c0c80601951cfd10b03f7f6cad3da2b11308ea3", "title": "Torrent-HD-JP-Nyaa.si .mkv", "season": 1, "episode": 13, "fileIdx": 13 },
+        { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/13.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 13 }
+    ],
+    "tt0188340:1:14": [
+        { "infoHash": "bb72443777a22a76c87ccb181034d9e8ce7add3b", "title": "Torrent-FHD-JP-Nyaa.si .mkv", "season": 1, "episode": 14, "fileIdx": 32 },
+        { "infoHash": "2c0c80601951cfd10b03f7f6cad3da2b11308ea3", "title": "Torrent-HD-JP-Nyaa.si .mkv", "season": 1, "episode": 14, "fileIdx": 14 },
+        { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/14.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 14 }
+    ],
+    "tt0188340:1:15": [
+        { "infoHash": "bb72443777a22a76c87ccb181034d9e8ce7add3b", "title": "Torrent-FHD-JP-Nyaa.si .mkv", "season": 1, "episode": 15, "fileIdx": 33 },
+        { "infoHash": "2c0c80601951cfd10b03f7f6cad3da2b11308ea3", "title": "Torrent-HD-JP-Nyaa.si .mkv", "season": 1, "episode": 15, "fileIdx": 15 },
+        { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/15.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 15 }
+    ],
+    "tt0188340:1:16": [
+        { "infoHash": "bb72443777a22a76c87ccb181034d9e8ce7add3b", "title": "Torrent-FHD-JP-Nyaa.si .mkv", "season": 1, "episode": 16, "fileIdx": 34 },
+        { "infoHash": "2c0c80601951cfd10b03f7f6cad3da2b11308ea3", "title": "Torrent-HD-JP-Nyaa.si .mkv", "season": 1, "episode": 16, "fileIdx": 16 },
+        { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/16.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 16 }
+    ],
+    "tt0188340:1:17": [
+        { "infoHash": "bb72443777a22a76c87ccb181034d9e8ce7add3b", "title": "Torrent-FHD-JP-Nyaa.si .mkv", "season": 1, "episode": 17, "fileIdx": 35 },
+        { "infoHash": "2c0c80601951cfd10b03f7f6cad3da2b11308ea3", "title": "Torrent-HD-JP-Nyaa.si .mkv", "season": 1, "episode": 17, "fileIdx": 17 },
+        { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/17.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 17 }
+    ],
+    "tt0188340:1:18": [
+        { "infoHash": "bb72443777a22a76c87ccb181034d9e8ce7add3b", "title": "Torrent-FHD-JP-Nyaa.si .mkv", "season": 1, "episode": 18, "fileIdx": 36 },
+        { "infoHash": "2c0c80601951cfd10b03f7f6cad3da2b11308ea3", "title": "Torrent-HD-JP-Nyaa.si .mkv", "season": 1, "episode": 18, "fileIdx": 18 },
+        { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/18.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 18 }
+    ],
+    "tt0188340:1:19": [
+        { "infoHash": "bb72443777a22a76c87ccb181034d9e8ce7add3b", "title": "Torrent-FHD-JP-Nyaa.si .mkv", "season": 1, "episode": 19, "fileIdx": 37 },
+        { "infoHash": "2c0c80601951cfd10b03f7f6cad3da2b11308ea3", "title": "Torrent-HD-JP-Nyaa.si .mkv", "season": 1, "episode": 19, "fileIdx": 19 },
+        { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/19.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 19 }
+    ],
+    "tt0188340:1:20": [
+        { "infoHash": "bb72443777a22a76c87ccb181034d9e8ce7add3b", "title": "Torrent-FHD-JP-Nyaa.si .mkv", "season": 1, "episode": 20, "fileIdx": 38 },
+        { "infoHash": "2c0c80601951cfd10b03f7f6cad3da2b11308ea3", "title": "Torrent-HD-JP-Nyaa.si .mkv", "season": 1, "episode": 20, "fileIdx": 20 },
+        { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/20.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 20 }
+    ],
+    "tt0188340:1:21": [
+        { "infoHash": "bb72443777a22a76c87ccb181034d9e8ce7add3b", "title": "Torrent-FHD-JP-Nyaa.si .mkv", "season": 1, "episode": 21, "fileIdx": 39 },
+        { "infoHash": "2c0c80601951cfd10b03f7f6cad3da2b11308ea3", "title": "Torrent-HD-JP-Nyaa.si .mkv", "season": 1, "episode": 21, "fileIdx": 21 },
+        { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/21.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 21 }
+    ],
+    "tt0188340:1:22": [
+        { "infoHash": "bb72443777a22a76c87ccb181034d9e8ce7add3b", "title": "Torrent-FHD-JP-Nyaa.si .mkv", "season": 1, "episode": 22, "fileIdx": 40 },
+        { "infoHash": "2c0c80601951cfd10b03f7f6cad3da2b11308ea3", "title": "Torrent-HD-JP-Nyaa.si .mkv", "season": 1, "episode": 22, "fileIdx": 22 },
+        { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/22.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 22 }
+    ],
+    "tt0188340:1:23": [
+        { "infoHash": "bb72443777a22a76c87ccb181034d9e8ce7add3b", "title": "Torrent-FHD-JP-Nyaa.si .mkv", "season": 1, "episode": 23, "fileIdx": 41 },
+        { "infoHash": "2c0c80601951cfd10b03f7f6cad3da2b11308ea3", "title": "Torrent-HD-JP-Nyaa.si .mkv", "season": 1, "episode": 23, "fileIdx": 23 },
+        { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/23.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 23 }
+    ],
+    "tt0188340:1:24": [
+        { "infoHash": "bb72443777a22a76c87ccb181034d9e8ce7add3b", "title": "Torrent-FHD-JP-Nyaa.si .mkv", "season": 1, "episode": 24, "fileIdx": 42 },
+        { "infoHash": "2c0c80601951cfd10b03f7f6cad3da2b11308ea3", "title": "Torrent-HD-JP-Nyaa.si .mkv", "season": 1, "episode": 24, "fileIdx": 24 },
+        { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/24.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 24 }
+    ],
+    "tt0188340:1:25": [
+        { "infoHash": "bb72443777a22a76c87ccb181034d9e8ce7add3b", "title": "Torrent-FHD-JP-Nyaa.si .mkv", "season": 1, "episode": 25, "fileIdx": 43 },
+        { "infoHash": "2c0c80601951cfd10b03f7f6cad3da2b11308ea3", "title": "Torrent-HD-JP-Nyaa.si .mkv", "season": 1, "episode": 25, "fileIdx": 25 },
+        { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/25.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 25 }
+    ],
+    "tt0188340:1:26": [
+        { "infoHash": "bb72443777a22a76c87ccb181034d9e8ce7add3b", "title": "Torrent-FHD-JP-Nyaa.si .mkv", "season": 1, "episode": 26, "fileIdx": 44 },
+        { "infoHash": "2c0c80601951cfd10b03f7f6cad3da2b11308ea3", "title": "Torrent-HD-JP-Nyaa.si .mkv", "season": 1, "episode": 26, "fileIdx": 26 },
+        { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/26.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 26 }
+    ],
+    "tt0188340:1:27": [
+        { "infoHash": "bb72443777a22a76c87ccb181034d9e8ce7add3b", "title": "Torrent-FHD-JP-Nyaa.si .mkv", "season": 1, "episode": 27, "fileIdx": 45 },
+        { "infoHash": "2c0c80601951cfd10b03f7f6cad3da2b11308ea3", "title": "Torrent-HD-JP-Nyaa.si .mkv", "season": 1, "episode": 27, "fileIdx": 27 },
+        { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/27.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 27 }
+    ],
+    "tt0188340:1:28": [
+        { "infoHash": "bb72443777a22a76c87ccb181034d9e8ce7add3b", "title": "Torrent-FHD-JP-Nyaa.si .mkv", "season": 1, "episode": 28, "fileIdx": 46 },
+        { "infoHash": "2c0c80601951cfd10b03f7f6cad3da2b11308ea3", "title": "Torrent-HD-JP-Nyaa.si .mkv", "season": 1, "episode": 28, "fileIdx": 28 },
+        { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/28.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 28 }
+    ],
+    "tt0188340:1:29": [
+        { "infoHash": "bb72443777a22a76c87ccb181034d9e8ce7add3b", "title": "Torrent-FHD-JP-Nyaa.si .mkv", "season": 1, "episode": 29, "fileIdx": 47 },
+        { "infoHash": "2c0c80601951cfd10b03f7f6cad3da2b11308ea3", "title": "Torrent-HD-JP-Nyaa.si .mkv", "season": 1, "episode": 29, "fileIdx": 29 },
+        { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/29.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 29 }
+    ],
+    "tt0188340:1:30": [
+        { "infoHash": "bb72443777a22a76c87ccb181034d9e8ce7add3b", "title": "Torrent-FHD-JP-Nyaa.si .mkv", "season": 1, "episode": 30, "fileIdx": 48 },
+        { "infoHash": "2c0c80601951cfd10b03f7f6cad3da2b11308ea3", "title": "Torrent-HD-JP-Nyaa.si .mkv", "season": 1, "episode": 30, "fileIdx": 30 },
+        { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/30.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 30 }
+    ],
+    "tt0188340:1:31": [
+        { "infoHash": "bb72443777a22a76c87ccb181034d9e8ce7add3b", "title": "Torrent-FHD-JP-Nyaa.si .mkv", "season": 1, "episode": 31, "fileIdx": 49 },
+        { "infoHash": "2c0c80601951cfd10b03f7f6cad3da2b11308ea3", "title": "Torrent-HD-JP-Nyaa.si .mkv", "season": 1, "episode": 31, "fileIdx": 31 },
+        { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/31.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 31 }
+    ],
+    "tt0188340:1:32": [
+        { "infoHash": "bb72443777a22a76c87ccb181034d9e8ce7add3b", "title": "Torrent-FHD-JP-Nyaa.si .mkv", "season": 1, "episode": 32, "fileIdx": 50 },
+        { "infoHash": "2c0c80601951cfd10b03f7f6cad3da2b11308ea3", "title": "Torrent-HD-JP-Nyaa.si .mkv", "season": 1, "episode": 32, "fileIdx": 32 },
+        { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/32.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 32 }
+    ],
+    "tt0188340:1:33": [
+        { "infoHash": "bb72443777a22a76c87ccb181034d9e8ce7add3b", "title": "Torrent-FHD-JP-Nyaa.si .mkv", "season": 1, "episode": 33, "fileIdx": 51 },
+        { "infoHash": "2c0c80601951cfd10b03f7f6cad3da2b11308ea3", "title": "Torrent-HD-JP-Nyaa.si .mkv", "season": 1, "episode": 33, "fileIdx": 33 },
+        { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/33.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 33 }
+    ],
+    "tt0188340:1:34": [
+        { "infoHash": "bb72443777a22a76c87ccb181034d9e8ce7add3b", "title": "Torrent-FHD-JP-Nyaa.si .mkv", "season": 1, "episode": 34, "fileIdx": 52 },
+        { "infoHash": "2c0c80601951cfd10b03f7f6cad3da2b11308ea3", "title": "Torrent-HD-JP-Nyaa.si .mkv", "season": 1, "episode": 34, "fileIdx": 34 },
+        { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/34.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 34 }
+    ],
+    "tt0188340:1:35": [
+        { "infoHash": "bb72443777a22a76c87ccb181034d9e8ce7add3b", "title": "Torrent-FHD-JP-Nyaa.si .mkv", "season": 1, "episode": 35, "fileIdx": 53 },
+        { "infoHash": "2c0c80601951cfd10b03f7f6cad3da2b11308ea3", "title": "Torrent-HD-JP-Nyaa.si .mkv", "season": 1, "episode": 35, "fileIdx": 35 },
+        { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/35.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 35 }
+    ],
+    "tt0188340:1:36": [
+        { "infoHash": "bb72443777a22a76c87ccb181034d9e8ce7add3b", "title": "Torrent-FHD-JP-Nyaa.si .mkv", "season": 1, "episode": 36, "fileIdx": 54 },
+        { "infoHash": "2c0c80601951cfd10b03f7f6cad3da2b11308ea3", "title": "Torrent-HD-JP-Nyaa.si .mkv", "season": 1, "episode": 36, "fileIdx": 36 },
+        { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/36.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 36 }
+    ],
+    "tt0188340:1:37": [
+        { "infoHash": "bb72443777a22a76c87ccb181034d9e8ce7add3b", "title": "Torrent-FHD-JP-Nyaa.si .mkv", "season": 1, "episode": 37, "fileIdx": 55 },
+        { "infoHash": "2c0c80601951cfd10b03f7f6cad3da2b11308ea3", "title": "Torrent-HD-JP-Nyaa.si .mkv", "season": 1, "episode": 37, "fileIdx": 37 },
+        { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/37.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 37 }
+    ],
+    "tt0188340:1:38": [
+        { "infoHash": "bb72443777a22a76c87ccb181034d9e8ce7add3b", "title": "Torrent-FHD-JP-Nyaa.si .mkv", "season": 1, "episode": 38, "fileIdx": 56 },
+        { "infoHash": "2c0c80601951cfd10b03f7f6cad3da2b11308ea3", "title": "Torrent-HD-JP-Nyaa.si .mkv", "season": 1, "episode": 38, "fileIdx": 38 },
+        { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/38.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 38 }
+    ],
+    "tt0188340:1:39": [
+        { "infoHash": "bb72443777a22a76c87ccb181034d9e8ce7add3b", "title": "Torrent-FHD-JP-Nyaa.si .mkv", "season": 1, "episode": 39, "fileIdx": 57 },
+        { "infoHash": "2c0c80601951cfd10b03f7f6cad3da2b11308ea3", "title": "Torrent-HD-JP-Nyaa.si .mkv", "season": 1, "episode": 39, "fileIdx": 39 },
+        { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/39.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 39 }
+    ],
+    "tt0188340:1:40": [
+        { "infoHash": "bb72443777a22a76c87ccb181034d9e8ce7add3b", "title": "Torrent-FHD-JP-Nyaa.si .mkv", "season": 1, "episode": 40, "fileIdx": 58 },
+        { "infoHash": "2c0c80601951cfd10b03f7f6cad3da2b11308ea3", "title": "Torrent-HD-JP-Nyaa.si .mkv", "season": 1, "episode": 40, "fileIdx": 40 },
+        { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/40.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 40 }
+    ],
+    "tt0188340:1:41": [
+        { "infoHash": "bb72443777a22a76c87ccb181034d9e8ce7add3b", "title": "Torrent-FHD-JP-Nyaa.si .mkv", "season": 1, "episode": 41, "fileIdx": 59 },
+        { "infoHash": "2c0c80601951cfd10b03f7f6cad3da2b11308ea3", "title": "Torrent-HD-JP-Nyaa.si .mkv", "season": 1, "episode": 41, "fileIdx": 41 },
+        { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/41.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 41 }
+    ],
+    "tt0188340:1:42": [
+        { "infoHash": "bb72443777a22a76c87ccb181034d9e8ce7add3b", "title": "Torrent-FHD-JP-Nyaa.si .mkv", "season": 1, "episode": 42, "fileIdx": 60 },
+        { "infoHash": "2c0c80601951cfd10b03f7f6cad3da2b11308ea3", "title": "Torrent-HD-JP-Nyaa.si .mkv", "season": 1, "episode": 42, "fileIdx": 42 },
+        { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/42.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 42 }
+    ],
+    "tt0188340:1:43": [
+        { "infoHash": "bb72443777a22a76c87ccb181034d9e8ce7add3b", "title": "Torrent-FHD-JP-Nyaa.si .mkv", "season": 1, "episode": 43, "fileIdx": 61 },
+        { "infoHash": "2c0c80601951cfd10b03f7f6cad3da2b11308ea3", "title": "Torrent-HD-JP-Nyaa.si .mkv", "season": 1, "episode": 43, "fileIdx": 43 },
+        { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/43.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 43 }
+    ],
+    "tt0188340:1:44": [
+        { "infoHash": "bb72443777a22a76c87ccb181034d9e8ce7add3b", "title": "Torrent-FHD-JP-Nyaa.si .mkv", "season": 1, "episode": 44, "fileIdx": 62 },
+        { "infoHash": "2c0c80601951cfd10b03f7f6cad3da2b11308ea3", "title": "Torrent-HD-JP-Nyaa.si .mkv", "season": 1, "episode": 44, "fileIdx": 44 },
+        { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/44.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 44 }
+    ],
+    "tt0188340:1:45": [
+        { "infoHash": "bb72443777a22a76c87ccb181034d9e8ce7add3b", "title": "Torrent-FHD-JP-Nyaa.si .mkv", "season": 1, "episode": 45, "fileIdx": 63 },
+        { "infoHash": "2c0c80601951cfd10b03f7f6cad3da2b11308ea3", "title": "Torrent-HD-JP-Nyaa.si .mkv", "season": 1, "episode": 45, "fileIdx": 45 },
+        { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/45.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 45 }
+    ],
+    "tt0188340:1:46": [
+        { "infoHash": "bb72443777a22a76c87ccb181034d9e8ce7add3b", "title": "Torrent-FHD-JP-Nyaa.si .mkv", "season": 1, "episode": 46, "fileIdx": 64 },
+        { "infoHash": "2c0c80601951cfd10b03f7f6cad3da2b11308ea3", "title": "Torrent-HD-JP-Nyaa.si .mkv", "season": 1, "episode": 46, "fileIdx": 46 },
+        { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/46.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 46 }
+    ],
+    "tt0188340:1:47": [
+        { "infoHash": "bb72443777a22a76c87ccb181034d9e8ce7add3b", "title": "Torrent-FHD-JP-Nyaa.si .mkv", "season": 1, "episode": 47, "fileIdx": 65 },
+        { "infoHash": "2c0c80601951cfd10b03f7f6cad3da2b11308ea3", "title": "Torrent-HD-JP-Nyaa.si .mkv", "season": 1, "episode": 47, "fileIdx": 47 },
+        { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/47.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 47 }
+    ],
+    "tt0188340:1:48": [
+        { "infoHash": "bb72443777a22a76c87ccb181034d9e8ce7add3b", "title": "Torrent-FHD-JP-Nyaa.si .mkv", "season": 1, "episode": 48, "fileIdx": 66 },
+        { "infoHash": "2c0c80601951cfd10b03f7f6cad3da2b11308ea3", "title": "Torrent-HD-JP-Nyaa.si .mkv", "season": 1, "episode": 48, "fileIdx": 48 },
+        { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/48.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 48 }
+    ],
+    "tt0188340:1:49": [
+        { "infoHash": "bb72443777a22a76c87ccb181034d9e8ce7add3b", "title": "Torrent-FHD-JP-Nyaa.si .mkv", "season": 1, "episode": 49, "fileIdx": 67 },
+        { "infoHash": "2c0c80601951cfd10b03f7f6cad3da2b11308ea3", "title": "Torrent-HD-JP-Nyaa.si .mkv", "season": 1, "episode": 49, "fileIdx": 49 },
+        { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/49.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 49 }
+    ],
 
 
-      // kamen rider Decade streams
+
+// kamen rider Decade streams
 "tt1473235:1:1": [
     { "infoHash": "4e47e949482ba05f2f11e51a0e8052f9fa606cdd", "title": "Torrent-FHD-JP-Nyaa.si .mkv", "season": 1, "episode": 1, "fileIdx": 0 },
     { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Decade/01.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 1 }
@@ -441,6 +689,154 @@ const seriesStreams = {
 
 
 const seriesSubtitles = {
+  //kamen rider kuuga  legendas
+  "tt0188340:1:1": [
+    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_01.srt", "lang": "Português BR [Japa Subs]", "label": "Português" }
+  ],
+  "tt0188340:1:2": [
+    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_02.srt", "lang": "Português BR [Japa Subs]", "label": "Português" }
+  ],
+  "tt0188340:1:3": [
+    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_03.srt", "lang": "Português BR [Japa Subs]", "label": "Português" }
+  ],
+  "tt0188340:1:4": [
+    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_04.ssa", "lang": "Português BR [Japa Subs]", "label": "Português" }
+  ],
+  "tt0188340:1:5": [
+    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_05.srt", "lang": "Português BR [Japa Subs]", "label": "Português" }
+  ],
+  "tt0188340:1:6": [
+    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_06.srt", "lang": "Português BR [Japa Subs]", "label": "Português" }
+  ],
+  "tt0188340:1:7": [
+    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_07.srt", "lang": "Português BR [Japa Subs]", "label": "Português" }
+  ],
+  "tt0188340:1:8": [
+    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_08.ssa", "lang": "Português BR [Japa Subs]", "label": "Português" }
+  ],
+  "tt0188340:1:9": [
+    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_09.ssa", "lang": "Português BR [Japa Subs]", "label": "Português" }
+  ],
+  "tt0188340:1:10": [
+    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_10.ssa", "lang": "Português BR [Japa Subs]", "label": "Português" }
+  ],
+  "tt0188340:1:11": [
+    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_11.ssa", "lang": "Português BR [Japa Subs]", "label": "Português" }
+  ],
+  "tt0188340:1:12": [
+    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_12.ssa", "lang": "Português BR [Japa Subs]", "label": "Português" }
+  ],
+  "tt0188340:1:13": [
+    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_13.ssa", "lang": "Português BR [Japa Subs]", "label": "Português" }
+  ],
+  "tt0188340:1:14": [
+    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_14.ssa", "lang": "Português BR [Japa Subs]", "label": "Português" }
+  ],
+  "tt0188340:1:15": [
+    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_15.ssa", "lang": "Português BR [Japa Subs]", "label": "Português" }
+  ],
+  "tt0188340:1:16": [
+    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_16.ssa", "lang": "Português BR [Japa Subs]", "label": "Português" }
+  ],
+  "tt0188340:1:17": [
+    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_17.ssa", "lang": "Português BR [Japa Subs]", "label": "Português" }
+  ],
+  "tt0188340:1:18": [
+    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_18.ssa", "lang": "Português BR [Japa Subs]", "label": "Português" }
+  ],
+  "tt0188340:1:19": [
+    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_19.ssa", "lang": "Português BR [Japa Subs]", "label": "Português" }
+  ],
+  "tt0188340:1:20": [
+    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_20.ssa", "lang": "Português BR [Japa Subs]", "label": "Português" }
+  ],
+  "tt0188340:1:21": [
+    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_21.ssa", "lang": "Português BR [Japa Subs]", "label": "Português" }
+  ],
+  "tt0188340:1:22": [
+    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_22.ssa", "lang": "Português BR [Japa Subs]", "label": "Português" }
+  ],
+  "tt0188340:1:23": [
+    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_23.ssa", "lang": "Português BR [Japa Subs]", "label": "Português" }
+  ],
+  "tt0188340:1:24": [
+    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_24.ssa", "lang": "Português BR [Japa Subs]", "label": "Português" }
+  ],
+  "tt0188340:1:25": [
+    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_25.ssa", "lang": "Português BR [Japa Subs]", "label": "Português" }
+  ],
+  "tt0188340:1:26": [
+    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_26.ssa", "lang": "Português BR [Japa Subs]", "label": "Português" }
+  ],
+  "tt0188340:1:27": [
+    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_27.ssa", "lang": "Português BR [Japa Subs]", "label": "Português" }
+  ],
+  "tt0188340:1:28": [
+    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_28.ssa", "lang": "Português BR [Japa Subs]", "label": "Português" }
+  ],
+  "tt0188340:1:29": [
+    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_29.ssa", "lang": "Português BR [Japa Subs]", "label": "Português" }
+  ],
+  "tt0188340:1:30": [
+    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_30.ssa", "lang": "Português BR [Japa Subs]", "label": "Português" }
+  ],
+  "tt0188340:1:31": [
+    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_31.ssa", "lang": "Português BR [Japa Subs]", "label": "Português" }
+  ],
+  "tt0188340:1:32": [
+    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_32.ssa", "lang": "Português BR [Japa Subs]", "label": "Português" }
+  ],
+  "tt0188340:1:33": [
+    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_33.ssa", "lang": "Português BR [Japa Subs]", "label": "Português" }
+  ],
+  "tt0188340:1:34": [
+    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_34.ssa", "lang": "Português BR [Japa Subs]", "label": "Português" }
+  ],
+  "tt0188340:1:35": [
+    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_35.ssa", "lang": "Português BR [Japa Subs]", "label": "Português" }
+  ],
+  "tt0188340:1:36": [
+    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_36.ssa", "lang": "Português BR [Japa Subs]", "label": "Português" }
+  ],
+  "tt0188340:1:37": [
+    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_37.ssa", "lang": "Português BR [Japa Subs]", "label": "Português" }
+  ],
+  "tt0188340:1:38": [
+    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_38.ssa", "lang": "Português BR [Japa Subs]", "label": "Português" }
+  ],
+  "tt0188340:1:39": [
+    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_39.ssa", "lang": "Português BR [Japa Subs]", "label": "Português" }
+  ],
+  "tt0188340:1:40": [
+    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_40.ssa", "lang": "Português BR [Japa Subs]", "label": "Português" }
+  ],
+  "tt0188340:1:41": [
+    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_41.ssa", "lang": "Português BR [Japa Subs]", "label": "Português" }
+  ],
+  "tt0188340:1:42": [
+    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_42.ssa", "lang": "Português BR [Japa Subs]", "label": "Português" }
+  ],
+  "tt0188340:1:43": [
+    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_43.ssa", "lang": "Português BR [Japa Subs]", "label": "Português" }
+  ],
+  "tt0188340:1:44": [
+    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_44.ssa", "lang": "Português BR [Japa Subs]", "label": "Português" }
+  ],
+  "tt0188340:1:45": [
+    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_45.ssa", "lang": "Português BR [Japa Subs]", "label": "Português" }
+  ],
+  "tt0188340:1:46": [
+    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_46.ssa", "lang": "Português BR [Japa Subs]", "label": "Português" }
+  ],
+  "tt0188340:1:47": [
+    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_47.ssa", "lang": "Português BR [Japa Subs]", "label": "Português" }
+  ],
+  "tt0188340:1:48": [
+    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_48.ssa", "lang": "Português BR [Japa Subs]", "label": "Português" }
+  ],
+  "tt0188340:1:49": [
+    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_49.ssa", "lang": "Português BR [Japa Subs]", "label": "Português" }
+  ],
 
 //Kamen rider Decade legendas
 "tt1473235:1:1": [
