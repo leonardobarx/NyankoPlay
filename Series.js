@@ -19,248 +19,248 @@ const seriesStreams = {
 
 // kamen rider kuuga streams
     "tt0188340:1:1": [
-        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 1, "fileIdx": 13 },
-        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 1, "fileIdx": 2 },
+        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 1, "fileIdx": 12 },
+        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 1, "fileIdx": 1 },
         { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/01.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 1 }
     ],
     "tt0188340:1:2": [
-        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 2, "fileIdx": 2 },
-        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 2, "fileIdx": 3 },
+        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 2, "fileIdx": 1 },
+        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 2, "fileIdx": 2 },
         { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/02.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 2 }
     ],
     "tt0188340:1:3": [
-        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 3, "fileIdx": 3 },
-        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 3, "fileIdx": 4 },
+        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 3, "fileIdx": 2 },
+        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 3, "fileIdx": 3 },
         { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/03.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 3 }
     ],
     "tt0188340:1:4": [
-        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 4, "fileIdx": 4 },
-        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 4, "fileIdx": 5 },
+        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 4, "fileIdx": 3 },
+        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 4, "fileIdx": 4 },
         { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/04.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 4 }
     ],
     "tt0188340:1:5": [
-        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 5, "fileIdx": 5 },
-        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 5, "fileIdx": 6 },
+        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 5, "fileIdx": 4 },
+        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 5, "fileIdx": 5 },
         { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/05.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 5 }
     ],
     "tt0188340:1:6": [
-        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 6, "fileIdx": 6 },
-        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 6, "fileIdx": 7 },
+        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 6, "fileIdx": 5 },
+        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 6, "fileIdx": 6 },
         { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/06.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 6 }
     ],
     "tt0188340:1:7": [
-        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 7, "fileIdx": 7 },
-        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 7, "fileIdx": 8 },
+        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 7, "fileIdx": 6 },
+        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 7, "fileIdx": 7 },
         { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/07.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 7 }
     ],
     "tt0188340:1:8": [
-        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 8, "fileIdx": 8 },
-        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 8, "fileIdx": 9 },
+        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 8, "fileIdx": 7 },
+        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 8, "fileIdx": 8 },
         { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/08.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 8 }
     ],
     "tt0188340:1:9": [
-        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 9, "fileIdx": 9 },
-        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 9, "fileIdx": 10 },
+        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 9, "fileIdx": 8 },
+        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 9, "fileIdx": 9 },
         { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/09.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 9 }
     ],
     "tt0188340:1:10": [
-        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 10, "fileIdx": 10 },
-        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 10, "fileIdx": 11 },
+        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 10, "fileIdx": 9 },
+        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 10, "fileIdx": 10 },
         { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/10.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 10 }
     ],
     "tt0188340:1:11": [
-        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 11, "fileIdx": 11 },
-        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 11, "fileIdx": 12 },
+        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 11, "fileIdx": 10 },
+        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 11, "fileIdx": 11 },
         { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/11.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 11 }
     ],
     "tt0188340:1:12": [
-        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 12, "fileIdx": 12 },
-        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 12, "fileIdx": 13 },
+        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 12, "fileIdx": 11 },
+        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 12, "fileIdx": 12 },
         { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/12.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 12 }
     ],
     "tt0188340:1:13": [
-        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 13, "fileIdx": 1 },
-        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 13, "fileIdx": 14 },
+        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 13, "fileIdx": 0 },
+        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 13, "fileIdx": 13 },
         { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/13.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 13 }
     ],
     "tt0188340:1:14": [
-        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 14, "fileIdx": 14 },
-        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 14, "fileIdx": 1 },
+        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 14, "fileIdx": 13 },
+        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 14, "fileIdx": 0 },
         { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/14.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 14 }
     ],
     "tt0188340:1:15": [
-        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 15, "fileIdx": 15 },
-        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 15, "fileIdx": 16 },
+        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 15, "fileIdx": 14 },
+        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 15, "fileIdx": 15 },
         { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/15.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 15 }
     ],
     "tt0188340:1:16": [
-        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 16, "fileIdx": 16 },
-        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 16, "fileIdx": 17 },
+        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 16, "fileIdx": 15 },
+        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 16, "fileIdx": 16 },
         { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/16.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 16 }
     ],
     "tt0188340:1:17": [
-        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 17, "fileIdx": 17 },
-        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 17, "fileIdx": 18 },
+        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 17, "fileIdx": 16 },
+        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 17, "fileIdx": 17 },
         { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/17.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 17 }
     ],
     "tt0188340:1:18": [
-        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 18, "fileIdx": 18 },
-        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 18, "fileIdx": 19 },
+        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 18, "fileIdx": 17 },
+        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 18, "fileIdx": 18 },
         { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/18.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 18 }
     ],
     "tt0188340:1:19": [
-        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 19, "fileIdx": 19 },
-        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 19, "fileIdx": 20 },
+        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 19, "fileIdx": 18 },
+        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 19, "fileIdx": 19 },
         { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/19.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 19 }
     ],
     "tt0188340:1:20": [
-        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 20, "fileIdx": 20 },
-        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 20, "fileIdx": 21 },
+        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 20, "fileIdx": 19 },
+        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 20, "fileIdx": 20 },
         { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/20.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 20 }
     ],
     "tt0188340:1:21": [
-        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 21, "fileIdx": 21 },
-        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 21, "fileIdx": 22 },
+        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 21, "fileIdx": 20 },
+        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 21, "fileIdx": 21 },
         { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/21.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 21 }
     ],
     "tt0188340:1:22": [
-        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 22, "fileIdx": 22 },
-        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 22, "fileIdx": 23 },
+        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 22, "fileIdx": 21 },
+        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 22, "fileIdx": 22 },
         { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/22.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 22 }
     ],
     "tt0188340:1:23": [
-        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 23, "fileIdx": 23 },
-        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 23, "fileIdx": 24 },
+        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 23, "fileIdx": 22 },
+        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 23, "fileIdx": 23 },
         { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/23.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 23 }
     ],
     "tt0188340:1:24": [
-        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 24, "fileIdx": 24 },
-        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 24, "fileIdx": 25 },
+        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 24, "fileIdx": 23 },
+        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 24, "fileIdx": 24 },
         { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/24.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 24 }
     ],
     "tt0188340:1:25": [
-        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 25, "fileIdx": 25 },
-        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 25, "fileIdx": 26 },
+        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 25, "fileIdx": 24 },
+        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 25, "fileIdx": 25 },
         { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/25.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 25 }
     ],
     "tt0188340:1:26": [
-        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 26, "fileIdx": 26 },
-        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 26, "fileIdx": 27 },
+        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 26, "fileIdx": 25 },
+        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 26, "fileIdx": 26 },
         { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/26.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 26 }
     ],
     "tt0188340:1:27": [
-        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 27, "fileIdx": 27 },
-        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 27, "fileIdx": 28 },
+        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 27, "fileIdx": 26 },
+        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 27, "fileIdx": 27 },
         { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/27.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 27 }
     ],
     "tt0188340:1:28": [
-        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 28, "fileIdx": 28 },
-        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 28, "fileIdx": 29 },
+        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 28, "fileIdx": 27 },
+        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 28, "fileIdx": 28 },
         { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/28.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 28 }
     ],
     "tt0188340:1:29": [
-        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 29, "fileIdx": 29 },
-        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 29, "fileIdx": 30 },
+        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 29, "fileIdx": 28 },
+        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 29, "fileIdx": 29 },
         { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/29.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 29 }
     ],
     "tt0188340:1:30": [
-        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 30, "fileIdx": 30 },
-        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 30, "fileIdx": 31 },
+        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 30, "fileIdx": 29 },
+        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 30, "fileIdx": 30 },
         { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/30.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 30 }
     ],
     "tt0188340:1:31": [
-        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 31, "fileIdx": 31 },
-        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 31, "fileIdx": 33 },
+        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 31, "fileIdx": 30 },
+        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 31, "fileIdx": 31 },
         { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/31.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 31 }
     ],
     "tt0188340:1:32": [
-        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 32, "fileIdx": 32 },
-        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 32, "fileIdx": 33 },
+        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 32, "fileIdx": 31 },
+        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 32, "fileIdx": 32 },
         { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/32.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 32 }
     ],
     "tt0188340:1:33": [
-        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 33, "fileIdx": 33 },
-        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 33, "fileIdx": 34 },
+        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 33, "fileIdx": 32 },
+        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 33, "fileIdx": 33 },
         { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/33.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 33 }
     ],
     "tt0188340:1:34": [
-        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 34, "fileIdx": 34 },
-        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 34, "fileIdx": 35 },
+        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 34, "fileIdx": 33 },
+        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 34, "fileIdx": 34 },
         { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/34.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 34 }
     ],
     "tt0188340:1:35": [
-        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 35, "fileIdx": 35 },
-        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 35, "fileIdx": 36 },
+        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 35, "fileIdx": 34 },
+        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 35, "fileIdx": 35 },
         { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/35.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 35 }
     ],
     "tt0188340:1:36": [
-        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 36, "fileIdx": 36 },
-        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 36, "fileIdx": 37 },
+        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 36, "fileIdx": 35 },
+        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 36, "fileIdx": 36 },
         { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/36.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 36 }
     ],
     "tt0188340:1:37": [
-        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 37, "fileIdx": 37 },
-        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 37, "fileIdx": 39 },
+        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 37, "fileIdx": 36 },
+        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 37, "fileIdx": 38 },
         { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/37.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 37 }
     ],
     "tt0188340:1:38": [
-        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 38, "fileIdx": 38 },
-        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 38, "fileIdx": 40 },
+        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 38, "fileIdx": 37 },
+        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 38, "fileIdx": 39 },
         { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/38.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 38 }
     ],
     "tt0188340:1:39": [
-        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 39, "fileIdx": 39 },
-        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 39, "fileIdx": 41 },
+        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 39, "fileIdx": 38 },
+        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 39, "fileIdx": 40 },
         { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/39.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 39 }
     ],
     "tt0188340:1:40": [
-        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 40, "fileIdx": 40 },
-        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 40, "fileIdx": 42 },
+        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 40, "fileIdx": 39 },
+        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 40, "fileIdx": 41 },
         { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/40.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 40 }
     ],
     "tt0188340:1:41": [
-        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 41, "fileIdx": 41 },
-        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 41, "fileIdx": 43 },
+        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 41, "fileIdx": 40 },
+        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 41, "fileIdx": 42 },
         { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/41.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 41 }
     ],
     "tt0188340:1:42": [
-        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 42, "fileIdx": 42 },
-        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 42, "fileIdx": 44 },
+        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 42, "fileIdx": 41 },
+        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 42, "fileIdx": 43 },
         { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/42.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 42 }
     ],
     "tt0188340:1:43": [
-        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 43, "fileIdx": 43 },
-        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 43, "fileIdx": 45 },
+        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 43, "fileIdx": 42 },
+        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 43, "fileIdx": 44 },
         { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/43.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 43 }
     ],
     "tt0188340:1:44": [
-        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 44, "fileIdx": 44 },
-        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 44, "fileIdx": 46 },
+        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 44, "fileIdx": 43 },
+        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 44, "fileIdx": 45 },
         { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/44.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 44 }
     ],
     "tt0188340:1:45": [
-        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 45, "fileIdx": 45 },
-        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 45, "fileIdx": 47 },
+        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 45, "fileIdx": 44 },
+        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 45, "fileIdx": 46 },
         { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/45.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 45 }
     ],
     "tt0188340:1:46": [
-        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 46, "fileIdx": 46 },
-        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 46, "fileIdx": 48 },
+        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 46, "fileIdx": 45 },
+        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 46, "fileIdx": 47 },
         { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/46.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 46 }
     ],
     "tt0188340:1:47": [
-        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 47, "fileIdx": 47 },
-        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 47, "fileIdx": 49 },
+        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 47, "fileIdx": 46 },
+        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 47, "fileIdx": 48 },
         { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/47.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 47 }
     ],
     "tt0188340:1:48": [
-        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 48, "fileIdx": 48 },
-        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 48, "fileIdx": 50 },
+        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 48, "fileIdx": 47 },
+        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 48, "fileIdx": 49 },
         { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/48.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 48 }
     ],
     "tt0188340:1:49": [
-        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 49, "fileIdx": 49 },
-        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 49, "fileIdx": 51 },
+        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 49, "fileIdx": 48 },
+        { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 49, "fileIdx": 50 },
         { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/49.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 49 }
     ],
 
