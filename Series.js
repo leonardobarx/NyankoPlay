@@ -1,5 +1,5 @@
 const catalogs = [
-    { id: "tt0188340", type: "series", name: "Kamen Rider Kuuga", genres: ["Tokusatsus"], poster: null },
+   // { id: "tt0188340", type: "series", name: "Kamen Rider Kuuga", genres: ["Tokusatsus"], poster: null },
     { id: "tt1473235", type: "series", name: "Kamen Rider Decade", genres: ["Tokusatsus"], poster: null },
     { id: "tt14893284", type: "series", name: "Kamen Rider Revice", genres: ["Tokusatsus"], poster: "https://pbs.twimg.com/media/FQc3VYBacAsxnBR?format=jpg&name=large" },
     { id: "tt14377480", type: "series", name: "Kamen Rider Black Sun", genres: ["Tokusatsus"], poster: null },
