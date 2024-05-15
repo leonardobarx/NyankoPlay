@@ -700,7 +700,7 @@ const seriesSubtitles = {
     { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_03.srt", "lang": "Português BR [Japa Subs]", "label": "Português" }
   ],
   "tt0188340:1:4": [
-    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_04.ssa", "lang": "Português BR [Japa Subs]", "label": "Português" }
+    { "url": "https://archive.org/download/test_20240515/kr_kuuga_port_04.srt", "lang": "Português BR [Japa Subs]", "label": "Português" }
   ],
   "tt0188340:1:5": [
     { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_05.srt", "lang": "Português BR [Japa Subs]", "label": "Português" }
