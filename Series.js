@@ -691,151 +691,151 @@ const seriesStreams = {
 const seriesSubtitles = {
   //kamen rider kuuga  legendas
   "tt0188340:1:1": [
-    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_01.srt", "lang": "Português BR [Japa Subs]", "label": "Português" }
+    { "url": "https://archive.org/download/kr_kuuga_legenda_ptbr_japassubs/kr_kuuga_port_01.srt", "lang": "Português BR [Japa Subs]", "label": "Português" }
   ],
   "tt0188340:1:2": [
-    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_02.srt", "lang": "Português BR [Japa Subs]", "label": "Português" }
+    { "url": "https://archive.org/download/kr_kuuga_legenda_ptbr_japassubs/kr_kuuga_port_02.srt", "lang": "Português BR [Japa Subs]", "label": "Português" }
   ],
   "tt0188340:1:3": [
-    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_03.srt", "lang": "Português BR [Japa Subs]", "label": "Português" }
+    { "url": "https://archive.org/download/kr_kuuga_legenda_ptbr_japassubs/kr_kuuga_port_03.srt", "lang": "Português BR [Japa Subs]", "label": "Português" }
   ],
   "tt0188340:1:4": [
-    { "url": "https://archive.org/download/test_20240515/kr_kuuga_port_04.srt", "lang": "Português BR [Japa Subs]", "label": "Português" }
+    { "url": "https://archive.org/download/kr_kuuga_legenda_ptbr_japassubs/kr_kuuga_port_04.srt", "lang": "Português BR [Japa Subs]", "label": "Português" }
   ],
   "tt0188340:1:5": [
-    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_05.srt", "lang": "Português BR [Japa Subs]", "label": "Português" }
+    { "url": "https://archive.org/download/kr_kuuga_legenda_ptbr_japassubs/kr_kuuga_port_05.srt", "lang": "Português BR [Japa Subs]", "label": "Português" }
   ],
   "tt0188340:1:6": [
-    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_06.srt", "lang": "Português BR [Japa Subs]", "label": "Português" }
+    { "url": "https://archive.org/download/kr_kuuga_legenda_ptbr_japassubs/kr_kuuga_port_06.srt", "lang": "Português BR [Japa Subs]", "label": "Português" }
   ],
   "tt0188340:1:7": [
-    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_07.srt", "lang": "Português BR [Japa Subs]", "label": "Português" }
+    { "url": "https://archive.org/download/kr_kuuga_legenda_ptbr_japassubs/kr_kuuga_port_07.srt", "lang": "Português BR [Japa Subs]", "label": "Português" }
   ],
   "tt0188340:1:8": [
-    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_08.ssa", "lang": "Português BR [Japa Subs]", "label": "Português" }
+    { "url": "https://archive.org/download/kr_kuuga_legenda_ptbr_japassubs/kr_kuuga_port_08.srt", "lang": "Português BR [Japa Subs]", "label": "Português" }
   ],
   "tt0188340:1:9": [
-    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_09.ssa", "lang": "Português BR [Japa Subs]", "label": "Português" }
+    { "url": "https://archive.org/download/kr_kuuga_legenda_ptbr_japassubs/kr_kuuga_port_09.srt", "lang": "Português BR [Japa Subs]", "label": "Português" }
   ],
   "tt0188340:1:10": [
-    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_10.ssa", "lang": "Português BR [Japa Subs]", "label": "Português" }
+    { "url": "https://archive.org/download/kr_kuuga_legenda_ptbr_japassubs/kr_kuuga_port_10.srt", "lang": "Português BR [Japa Subs]", "label": "Português" }
   ],
   "tt0188340:1:11": [
-    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_11.ssa", "lang": "Português BR [Japa Subs]", "label": "Português" }
+    { "url": "https://archive.org/download/kr_kuuga_legenda_ptbr_japassubs/kr_kuuga_port_11.srt", "lang": "Português BR [Japa Subs]", "label": "Português" }
   ],
   "tt0188340:1:12": [
-    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_12.ssa", "lang": "Português BR [Japa Subs]", "label": "Português" }
+    { "url": "https://archive.org/download/kr_kuuga_legenda_ptbr_japassubs/kr_kuuga_port_12.srt", "lang": "Português BR [Japa Subs]", "label": "Português" }
   ],
   "tt0188340:1:13": [
-    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_13.ssa", "lang": "Português BR [Japa Subs]", "label": "Português" }
+    { "url": "https://archive.org/download/kr_kuuga_legenda_ptbr_japassubs/kr_kuuga_port_13.srt": "Português BR [Japa Subs]", "label": "Português" }
   ],
   "tt0188340:1:14": [
-    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_14.ssa", "lang": "Português BR [Japa Subs]", "label": "Português" }
+    { "url": "https://archive.org/download/kr_kuuga_legenda_ptbr_japassubs/kr_kuuga_port_14.srt", "lang": "Português BR [Japa Subs]", "label": "Português" }
   ],
   "tt0188340:1:15": [
-    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_15.ssa", "lang": "Português BR [Japa Subs]", "label": "Português" }
+    { "url": "https://archive.org/download/kr_kuuga_legenda_ptbr_japassubs/kr_kuuga_port_15.srt", "lang": "Português BR [Japa Subs]", "label": "Português" }
   ],
   "tt0188340:1:16": [
-    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_16.ssa", "lang": "Português BR [Japa Subs]", "label": "Português" }
+    { "url": "https://archive.org/download/kr_kuuga_legenda_ptbr_japassubs/kr_kuuga_port_16.srt", "lang": "Português BR [Japa Subs]", "label": "Português" }
   ],
   "tt0188340:1:17": [
-    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_17.ssa", "lang": "Português BR [Japa Subs]", "label": "Português" }
+    { "url": "https://archive.org/download/kr_kuuga_legenda_ptbr_japassubs/kr_kuuga_port_17.srt", "lang": "Português BR [Japa Subs]", "label": "Português" }
   ],
   "tt0188340:1:18": [
-    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_18.ssa", "lang": "Português BR [Japa Subs]", "label": "Português" }
+    { "url": "https://archive.org/download/kr_kuuga_legenda_ptbr_japassubs/kr_kuuga_port_18.srt", "lang": "Português BR [Japa Subs]", "label": "Português" }
   ],
   "tt0188340:1:19": [
-    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_19.ssa", "lang": "Português BR [Japa Subs]", "label": "Português" }
+    { "url": "https://archive.org/download/kr_kuuga_legenda_ptbr_japassubs/kr_kuuga_port_19.srt", "lang": "Português BR [Japa Subs]", "label": "Português" }
   ],
   "tt0188340:1:20": [
-    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_20.ssa", "lang": "Português BR [Japa Subs]", "label": "Português" }
+    { "url": "https://archive.org/download/kr_kuuga_legenda_ptbr_japassubs/kr_kuuga_port_20.srt", "lang": "Português BR [Japa Subs]", "label": "Português" }
   ],
   "tt0188340:1:21": [
-    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_21.ssa", "lang": "Português BR [Japa Subs]", "label": "Português" }
+    { "url": "https://archive.org/download/kr_kuuga_legenda_ptbr_japassubs/kr_kuuga_port_21.srt", "lang": "Português BR [Japa Subs]", "label": "Português" }
   ],
   "tt0188340:1:22": [
-    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_22.ssa", "lang": "Português BR [Japa Subs]", "label": "Português" }
+    { "url": "https://archive.org/download/kr_kuuga_legenda_ptbr_japassubs/kr_kuuga_port_22.srt", "lang": "Português BR [Japa Subs]", "label": "Português" }
   ],
   "tt0188340:1:23": [
-    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_23.ssa", "lang": "Português BR [Japa Subs]", "label": "Português" }
+    { "url": "https://archive.org/download/kr_kuuga_legenda_ptbr_japassubs/kr_kuuga_port_23.srt", "lang": "Português BR [Japa Subs]", "label": "Português" }
   ],
   "tt0188340:1:24": [
-    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_24.ssa", "lang": "Português BR [Japa Subs]", "label": "Português" }
+    { "url": "https://archive.org/download/kr_kuuga_legenda_ptbr_japassubs/kr_kuuga_port_24.srt", "lang": "Português BR [Japa Subs]", "label": "Português" }
   ],
   "tt0188340:1:25": [
-    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_25.ssa", "lang": "Português BR [Japa Subs]", "label": "Português" }
+    { "url": "https://archive.org/download/kr_kuuga_legenda_ptbr_japassubs/kr_kuuga_port_25.srt", "lang": "Português BR [Japa Subs]", "label": "Português" }
   ],
   "tt0188340:1:26": [
-    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_26.ssa", "lang": "Português BR [Japa Subs]", "label": "Português" }
+    { "url": "https://archive.org/download/kr_kuuga_legenda_ptbr_japassubs/kr_kuuga_port_26.srt", "lang": "Português BR [Japa Subs]", "label": "Português" }
   ],
   "tt0188340:1:27": [
-    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_27.ssa", "lang": "Português BR [Japa Subs]", "label": "Português" }
+    { "url": "https://archive.org/download/kr_kuuga_legenda_ptbr_japassubs/kr_kuuga_port_27.srt", "lang": "Português BR [Japa Subs]", "label": "Português" }
   ],
   "tt0188340:1:28": [
-    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_28.ssa", "lang": "Português BR [Japa Subs]", "label": "Português" }
+    { "url": "https://archive.org/download/kr_kuuga_legenda_ptbr_japassubs/kr_kuuga_port_28.srt", "lang": "Português BR [Japa Subs]", "label": "Português" }
   ],
   "tt0188340:1:29": [
-    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_29.ssa", "lang": "Português BR [Japa Subs]", "label": "Português" }
+    { "url": "https://archive.org/download/kr_kuuga_legenda_ptbr_japassubs/kr_kuuga_port_29.srt", "lang": "Português BR [Japa Subs]", "label": "Português" }
   ],
   "tt0188340:1:30": [
-    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_30.ssa", "lang": "Português BR [Japa Subs]", "label": "Português" }
+    { "url": "https://archive.org/download/kr_kuuga_legenda_ptbr_japassubs/kr_kuuga_port_30.srt", "lang": "Português BR [Japa Subs]", "label": "Português" }
   ],
   "tt0188340:1:31": [
-    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_31.ssa", "lang": "Português BR [Japa Subs]", "label": "Português" }
+    { "url": "https://archive.org/download/kr_kuuga_legenda_ptbr_japassubs/kr_kuuga_port_31.srt", "lang": "Português BR [Japa Subs]", "label": "Português" }
   ],
   "tt0188340:1:32": [
-    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_32.ssa", "lang": "Português BR [Japa Subs]", "label": "Português" }
+    { "url": "https://archive.org/download/kr_kuuga_legenda_ptbr_japassubs/kr_kuuga_port_32.srt", "lang": "Português BR [Japa Subs]", "label": "Português" }
   ],
   "tt0188340:1:33": [
-    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_33.ssa", "lang": "Português BR [Japa Subs]", "label": "Português" }
+    { "url": "https://archive.org/download/kr_kuuga_legenda_ptbr_japassubs/kr_kuuga_port_33.srt", "lang": "Português BR [Japa Subs]", "label": "Português" }
   ],
   "tt0188340:1:34": [
-    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_34.ssa", "lang": "Português BR [Japa Subs]", "label": "Português" }
+    { "url": "https://archive.org/download/kr_kuuga_legenda_ptbr_japassubs/kr_kuuga_port_34.srt", "lang": "Português BR [Japa Subs]", "label": "Português" }
   ],
   "tt0188340:1:35": [
-    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_35.ssa", "lang": "Português BR [Japa Subs]", "label": "Português" }
+    { "url": "https://archive.org/download/kr_kuuga_legenda_ptbr_japassubs/kr_kuuga_port_35.srt", "lang": "Português BR [Japa Subs]", "label": "Português" }
   ],
   "tt0188340:1:36": [
-    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_36.ssa", "lang": "Português BR [Japa Subs]", "label": "Português" }
+    { "url": "https://archive.org/download/kr_kuuga_legenda_ptbr_japassubs/kr_kuuga_port_36.srt", "lang": "Português BR [Japa Subs]", "label": "Português" }
   ],
   "tt0188340:1:37": [
-    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_37.ssa", "lang": "Português BR [Japa Subs]", "label": "Português" }
+    { "url": "https://archive.org/download/kr_kuuga_legenda_ptbr_japassubs/kr_kuuga_port_37.srt", "lang": "Português BR [Japa Subs]", "label": "Português" }
   ],
   "tt0188340:1:38": [
-    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_38.ssa", "lang": "Português BR [Japa Subs]", "label": "Português" }
+    { "url": "https://archive.org/download/kr_kuuga_legenda_ptbr_japassubs/kr_kuuga_port_38.srt", "lang": "Português BR [Japa Subs]", "label": "Português" }
   ],
   "tt0188340:1:39": [
-    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_39.ssa", "lang": "Português BR [Japa Subs]", "label": "Português" }
+    { "url": "https://archive.org/download/kr_kuuga_legenda_ptbr_japassubs/kr_kuuga_port_39.srt", "lang": "Português BR [Japa Subs]", "label": "Português" }
   ],
   "tt0188340:1:40": [
-    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_40.ssa", "lang": "Português BR [Japa Subs]", "label": "Português" }
+    { "url": "https://archive.org/download/kr_kuuga_legenda_ptbr_japassubs/kr_kuuga_port_40.srt", "lang": "Português BR [Japa Subs]", "label": "Português" }
   ],
   "tt0188340:1:41": [
-    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_41.ssa", "lang": "Português BR [Japa Subs]", "label": "Português" }
+    { "url": "https://archive.org/download/kr_kuuga_legenda_ptbr_japassubs/kr_kuuga_port_41.srt", "lang": "Português BR [Japa Subs]", "label": "Português" }
   ],
   "tt0188340:1:42": [
-    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_42.ssa", "lang": "Português BR [Japa Subs]", "label": "Português" }
+    { "url": "https://archive.org/download/kr_kuuga_legenda_ptbr_japassubs/kr_kuuga_port_42.srt", "lang": "Português BR [Japa Subs]", "label": "Português" }
   ],
   "tt0188340:1:43": [
-    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_43.ssa", "lang": "Português BR [Japa Subs]", "label": "Português" }
+    { "url": "https://archive.org/download/kr_kuuga_legenda_ptbr_japassubs/kr_kuuga_port_43.srt", "lang": "Português BR [Japa Subs]", "label": "Português" }
   ],
   "tt0188340:1:44": [
-    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_44.ssa", "lang": "Português BR [Japa Subs]", "label": "Português" }
+    { "url": "https://archive.org/download/kr_kuuga_legenda_ptbr_japassubs/kr_kuuga_port_44.srt", "lang": "Português BR [Japa Subs]", "label": "Português" }
   ],
   "tt0188340:1:45": [
-    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_45.ssa", "lang": "Português BR [Japa Subs]", "label": "Português" }
+    { "url": "https://archive.org/download/kr_kuuga_legenda_ptbr_japassubs/kr_kuuga_port_45.srt", "lang": "Português BR [Japa Subs]", "label": "Português" }
   ],
   "tt0188340:1:46": [
-    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_46.ssa", "lang": "Português BR [Japa Subs]", "label": "Português" }
+    { "url": "https://archive.org/download/kr_kuuga_legenda_ptbr_japassubs/kr_kuuga_port_46.srt", "lang": "Português BR [Japa Subs]", "label": "Português" }
   ],
   "tt0188340:1:47": [
-    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_47.ssa", "lang": "Português BR [Japa Subs]", "label": "Português" }
+    { "url": "https://archive.org/download/kr_kuuga_legenda_ptbr_japassubs/kr_kuuga_port_47.srt", "lang": "Português BR [Japa Subs]", "label": "Português" }
   ],
   "tt0188340:1:48": [
-    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_48.ssa", "lang": "Português BR [Japa Subs]", "label": "Português" }
+    { "url": "https://archive.org/download/kr_kuuga_legenda_ptbr_japassubs/kr_kuuga_port_48.srt", "lang": "Português BR [Japa Subs]", "label": "Português" }
   ],
   "tt0188340:1:49": [
-    { "url": "https://archive.org/download/kr_kuuga_port_40/kr_kuuga_port_49.ssa", "lang": "Português BR [Japa Subs]", "label": "Português" }
+    { "url": "https://archive.org/download/kr_kuuga_legenda_ptbr_japassubs/kr_kuuga_port_49.srt", "lang": "Português BR [Japa Subs]", "label": "Português" }
   ],
 
 //Kamen rider Decade legendas
