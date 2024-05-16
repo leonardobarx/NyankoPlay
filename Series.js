@@ -727,7 +727,7 @@ const seriesSubtitles = {
     { "url": "https://archive.org/download/kr_kuuga_legenda_ptbr_japassubs/kr_kuuga_port_12.srt", "lang": "Português BR [Japa Subs]", "label": "Português" }
   ],
   "tt0188340:1:13": [
-    { "url": "https://archive.org/download/kr_kuuga_legenda_ptbr_japassubs/kr_kuuga_port_13.srt": "Português BR [Japa Subs]", "label": "Português" }
+    { "url": "https://archive.org/download/kr_kuuga_legenda_ptbr_japassubs/kr_kuuga_port_13.srt", "lang": "Português BR [Japa Subs]", "label": "Português" }
   ],
   "tt0188340:1:14": [
     { "url": "https://archive.org/download/kr_kuuga_legenda_ptbr_japassubs/kr_kuuga_port_14.srt", "lang": "Português BR [Japa Subs]", "label": "Português" }
