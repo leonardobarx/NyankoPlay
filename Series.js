@@ -49,7 +49,8 @@ const seriesStreams = {
         { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/05.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 5 }
     ],
     "tt0188340:1:6": [
-        { "url": "https://archive.org/download/dbd-raws01-49tv1080pbdriphevc-10bitflacmkv/%5BDBD-Raws%5D%5B%E5%81%87%E9%9D%A2%E9%AA%91%E5%A3%AB%E7%A9%BA%E6%88%91%5D%5B06%5D%5B1080P%5D%5BBDRip%5D%5BHEVC-10bit%5D%5BFLAC%5D.mkv: "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 6, "fileIdx": 5 },
+        { "url": "https://archive.org/download/dbd-raws01-49tv1080pbdriphevc-10bitflacmkv/%5BDBD-Raws%5D%5B%E5%81%87%E9%9D%A2%E9%AA%91%E5%A3%AB%E7%A9%BA%E6%88%91%5D%5B06%5D%5B1080P%5D%5BBDRip%5D%5BHEVC-10bit%5D%5BFLAC%5D.mkv", "title": "Web-FHD-JP .mkv", "season": 1, "episode": 5 },
+        { "infoHash": "20e8c43f7fd6ff9a3efcf8d1d4375c8eba2b7115", "title": "Torrent-FHD-Subbed[ENG] .mp4", "season": 1, "episode": 6, "fileIdx": 5 },
         { "infoHash": "4ed0293ce70159825894c5c1b001fe7ab7c76b3f", "title": "Torrent-HD-JP .mkv", "season": 1, "episode": 6, "fileIdx": 6 },
         { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Kuuga/06.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 6 }
     ],
