@@ -1,11 +1,151 @@
 const catalogs = [
-    { id: "tt0188340", type: "series", name: "Kamen Rider Kuuga", genres: ["Tokusatsus"], poster: null },
-    { id: "tt1473235", type: "series", name: "Kamen Rider Decade", genres: ["Tokusatsus"], poster: null },
-    { id: "tt14893284", type: "series", name: "Kamen Rider Revice", genres: ["Tokusatsus"], poster: "https://pbs.twimg.com/media/FQc3VYBacAsxnBR?format=jpg&name=large" },
-    { id: "tt14377480", type: "series", name: "Kamen Rider Black Sun", genres: ["Tokusatsus"], poster: null },
-    { id: "tt6982472", type: "series", name: "Kamen Rider Build", genres: ["Tokusatsus"], poster: null },
-    { id: "tt1483620", type: "series", name: "Kamen Rider W", genres: ["Tokusatsus"], poster: null },
-]
+    {
+        id: "ultgingas",
+        type: "series",
+        name: "Ultraman Ginga S",
+        genres: ["Tokusatsus", "Ultraman"],
+        poster: "https://image.tmdb.org/t/p/original/62c0hsfqi3EB9px96GLb7A8u6iz.jpg",
+        posterShape: "poster",
+        description: "Dois anos após os acontecimentos de Ultraman Ginga, o misterioso guerreiro Ultraman Victory aparece junto com novos invasores do espaço sideral. A confiável equipe de investigação especial UPG também é apresentada. Hikaru está novamente unido a Ginga para abrir o futuro e dar o grande primeiro passo para uma feroz batalha dramática!",
+        releaseInfo: "2014",
+        videos: [
+            {
+                id: "ultgingas:1:1",
+                title: "The Power to Open Up",
+                released: "2014-07-15T20:00:00.000Z",
+                season: 1,
+                episode: 1,
+                thumbnail: "https://example.com/image1.jpg"
+            },
+            {
+                id: "ultgingas:1:2",
+                title: "Ginga vs. Victory",
+                released: "2014-07-22T20:00:00.000Z",
+                season: 1,
+                episode: 2,
+                thumbnail: "https://example.com/image2.jpg"
+            },
+            {
+                id: "ultgingas:1:3",
+                title: "The Lone Warrior",
+                released: "2014-07-29T20:00:00.000Z",
+                season: 1,
+                episode: 3,
+                thumbnail: "https://example.com/image3.jpg"
+            },
+            {
+                id: "ultgingas:1:4",
+                title: "The Meaning of Strength",
+                released: "2014-08-05T20:00:00.000Z",
+                season: 1,
+                episode: 4,
+                thumbnail: "https://example.com/image4.jpg"
+            },
+            {
+                id: "ultgingas:1:5",
+                title: "Friend and Devil",
+                released: "2014-08-12T20:00:00.000Z",
+                season: 1,
+                episode: 5,
+                thumbnail: "https://example.com/image5.jpg"
+            },
+            {
+                id: "ultgingas:1:6",
+                title: "The Forgotten Past",
+                released: "2014-08-19T20:00:00.000Z",
+                season: 1,
+                episode: 6,
+                thumbnail: "https://example.com/image6.jpg"
+            },
+            {
+                id: "ultgingas:1:7",
+                title: "Activate! Magnewave Operation",
+                released: "2014-08-26T20:00:00.000Z",
+                season: 1,
+                episode: 7,
+                thumbnail: "https://example.com/image7.jpg"
+            },
+            {
+                id: "ultgingas:1:8",
+                title: "Desperate Battle for Sunrise",
+                released: "2014-09-02T20:00:00.000Z",
+                season: 1,
+                episode: 8,
+                thumbnail: "https://example.com/image8.jpg"
+            },
+            {
+                id: "ultgingas:1:9",
+                title: "A Life to Regain",
+                released: "2014-09-09T20:00:00.000Z",
+                season: 1,
+                episode: 9,
+                thumbnail: "https://example.com/image9.jpg"
+            },
+            {
+                id: "ultgingas:1:10",
+                title: "The Holy Sword of the Future",
+                released: "2014-09-16T20:00:00.000Z",
+                season: 1,
+                episode: 10,
+                thumbnail: "https://example.com/image10.jpg"
+            },
+            {
+                id: "ultgingas:1:11",
+                title: "Gan-Q's Tears",
+                released: "2014-09-23T20:00:00.000Z",
+                season: 1,
+                episode: 11,
+                thumbnail: "https://example.com/image11.jpg"
+            },
+            {
+                id: "ultgingas:1:12",
+                title: "To Meet You",
+                released: "2014-09-30T20:00:00.000Z",
+                season: 1,
+                episode: 12,
+                thumbnail: "https://example.com/image12.jpg"
+            },
+            {
+                id: "ultgingas:1:13",
+                title: "Split! UPG",
+                released: "2014-10-07T20:00:00.000Z",
+                season: 1,
+                episode: 13,
+                thumbnail: "https://example.com/image13.jpg"
+            },
+            {
+                id: "ultgingas:1:14",
+                title: "Resurrection of Lugiel",
+                released: "2014-10-14T20:00:00.000Z",
+                season: 1,
+                episode: 14,
+                thumbnail: "https://example.com/image14.jpg"
+            },
+            {
+                id: "ultgingas:1:15",
+                title: "Adventure Called Life",
+                released: "2014-10-21T20:00:00.000Z",
+                season: 1,
+                episode: 15,
+                thumbnail: "https://example.com/image15.jpg"
+            },
+            {
+                id: "ultgingas:1:16",
+                title: "Battle for Tomorrow",
+                released: "2014-10-28T20:00:00.000Z",
+                season: 1,
+                episode: 16,
+                thumbnail: "https://example.com/image16.jpg"
+            }
+        ]
+    },
+    { id: "tt0188340", type: "series", name: "Kamen Rider Kuuga", genres: ["Tokusatsus", "Kamen Rider"], poster: null },
+    { id: "tt1473235", type: "series", name: "Kamen Rider Decade", genres: ["Tokusatsus", "Kamen Rider"], poster: null },
+    { id: "tt14893284", type: "series", name: "Kamen Rider Revice", genres: ["Tokusatsus", "Kamen Rider"], poster: "https://pbs.twimg.com/media/FQc3VYBacAsxnBR?format=jpg&name=large" },
+    { id: "tt14377480", type: "series", name: "Kamen Rider Black Sun", genres: ["Tokusatsus", "Kamen Rider"], poster: null },
+    { id: "tt6982472", type: "series", name: "Kamen Rider Build", genres: ["Tokusatsus", "Kamen Rider"], poster: null },
+    { id: "tt1483620", type: "series", name: "Kamen Rider W", genres: ["Tokusatsus", "Kamen Rider"], poster: null }
+];
 
 
 
@@ -16,6 +156,60 @@ const seriesStreams = {
     { "infoHash": "4e47e949482ba05f2f11e51a0e8052f9fa606cdd", "title": "Torrent-FHD-JP-Nyaa.si .mkv", "season": 1, "episode": 1, "fileIdx": 0 },
     { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Decade/01.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 1 }
   ],*/
+
+//ultraman ginga e ginga s
+
+"ultgingas:1:1": [
+    { "infoHash": "2e818f140def17a29c956fbf11ab03115a2568d1", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 1, "fileIdx": 12 }
+],
+"ultgingas:1:2": [
+    { "infoHash": "2e818f140def17a29c956fbf11ab03115a2568d1", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 2, "fileIdx": 20 }
+],
+"ultgingas:1:3": [
+    { "infoHash": "2e818f140def17a29c956fbf11ab03115a2568d1", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 3, "fileIdx": 21 }
+],
+"ultgingas:1:4": [
+    { "infoHash": "2e818f140def17a29c956fbf11ab03115a2568d1", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 4, "fileIdx": 22 }
+],
+"ultgingas:1:5": [
+    { "infoHash": "2e818f140def17a29c956fbf11ab03115a2568d1", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 5, "fileIdx": 23 }
+],
+"ultgingas:1:6": [
+    { "infoHash": "2e818f140def17a29c956fbf11ab03115a2568d1", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 6, "fileIdx": 24 }
+],
+"ultgingas:1:7": [
+    { "infoHash": "2e818f140def17a29c956fbf11ab03115a2568d1", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 7, "fileIdx": 25 }
+],
+"ultgingas:1:8": [
+    { "infoHash": "2e818f140def17a29c956fbf11ab03115a2568d1", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 8, "fileIdx": 26 }
+],
+"ultgingas:1:9": [
+    { "infoHash": "2e818f140def17a29c956fbf11ab03115a2568d1", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 9, "fileIdx": 27 }
+],
+"ultgingas:1:10": [
+    { "infoHash": "2e818f140def17a29c956fbf11ab03115a2568d1", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 10, "fileIdx": 13 }
+],
+"ultgingas:1:11": [
+    { "infoHash": "2e818f140def17a29c956fbf11ab03115a2568d1", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 11, "fileIdx": 14 }
+],
+"ultgingas:1:12": [
+    { "infoHash": "2e818f140def17a29c956fbf11ab03115a2568d1", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 12, "fileIdx": 15 }
+],
+"ultgingas:1:13": [
+    { "infoHash": "2e818f140def17a29c956fbf11ab03115a2568d1", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 13, "fileIdx": 16 }
+],
+"ultgingas:1:14": [
+    { "infoHash": "2e818f140def17a29c956fbf11ab03115a2568d1", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 14, "fileIdx": 17 }
+],
+"ultgingas:1:15": [
+    { "infoHash": "2e818f140def17a29c956fbf11ab03115a2568d1", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 15, "fileIdx": 18 }
+],
+"ultgingas:1:16": [
+    { "infoHash": "2e818f140def17a29c956fbf11ab03115a2568d1", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 16, "fileIdx": 19 }
+],
+
+
+
 
 // kamen rider kuuga streams
     "tt0188340:1:1": [
