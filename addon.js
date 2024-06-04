@@ -15,7 +15,7 @@ const manifest = {
                 { name: "search", isRequired: false },
                 { name: "genre", isRequired: false }
             ],
-            genres: ["Tokusatsus", /*"Doramas", "J-drama", "Live-Action"*/]
+            genres: ["Tokusatsus","Ultraman", /*"Doramas", "J-drama", "Live-Action"*/]
         },
         { 
             type: "movie", 

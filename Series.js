@@ -1,5 +1,14 @@
 const catalogs = [
     {
+        id: "tt2847220",
+        type: "series",
+        name: "Ultraman Ginga",
+        genres: ["Tokusatsus", "Ultraman"],
+        poster: null,
+        posterShape: "poster",
+        description: "Todos os Ultramen e monstros foram transformados em figuras conhecidas como Spark Dolls e espalhados por todo o universo. Um jovem chamado Hikaru Raido encontra um item chamado Ginga Spark que não apenas permite que ele se torne Ultraman Ginga, mas também permite que ele ultraive com as figuras para alterá-las ao tamanho correto e se tornar um com elas.",
+        releaseInfo: "2013",},
+    {
         id: "ultgingas",
         type: "series",
         name: "Ultraman Ginga S",
@@ -8,6 +17,7 @@ const catalogs = [
         posterShape: "poster",
         description: "Dois anos após os acontecimentos de Ultraman Ginga, o misterioso guerreiro Ultraman Victory aparece junto com novos invasores do espaço sideral. A confiável equipe de investigação especial UPG também é apresentada. Hikaru está novamente unido a Ginga para abrir o futuro e dar o grande primeiro passo para uma feroz batalha dramática!",
         releaseInfo: "2014",
+        logo: "https://media.themoviedb.org/t/p/w500/t17DHuTXNVDTgeV912j3LWxHYZm.png!",
         videos: [
             {
                 id: "ultgingas:1:1",
@@ -156,6 +166,45 @@ const seriesStreams = {
     { "infoHash": "4e47e949482ba05f2f11e51a0e8052f9fa606cdd", "title": "Torrent-FHD-JP-Nyaa.si .mkv", "season": 1, "episode": 1, "fileIdx": 0 },
     { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Decade/01.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 1 }
   ],*/
+
+
+//ultraman ginga
+    "tt2847220:1:1": [
+  { "url": "https://apps.rediafile.com/api/v1/file-entries/download/MjQzN3xwYWRkaQ?shareable_link=502&password=null", "title": "Web-HD-Sub:PTBR", "season": 1, "episode": 1 }
+],
+"tt2847220:1:2": [
+  { "url": "https://apps.rediafile.com/api/v1/file-entries/download/MjQ0MXxwYWRkaQ?shareable_link=504&password=null", "title": "Web-HD-Sub:PTBR", "season": 1, "episode": 2 }
+],
+"tt2847220:1:3": [
+  { "url": "https://apps.rediafile.com/api/v1/file-entries/download/MjQ0M3xwYWRkaQ?shareable_link=506&password=null", "title": "Web-HD-Sub:PTBR", "season": 1, "episode": 3 }
+],
+"tt2847220:1:4": [
+  { "url": "https://apps.rediafile.com/api/v1/file-entries/download/MjQ0MHxwYWRkaQ?shareable_link=507&password=null", "title": "Web-HD-Sub:PTBR", "season": 1, "episode": 4 }
+],
+"tt2847220:1:5": [
+  { "url": "https://apps.rediafile.com/api/v1/file-entries/download/MjQ0NXxwYWRkaQ?shareable_link=508&password=null", "title": "Web-HD-Sub:PTBR", "season": 1, "episode": 5 }
+],
+"tt2847220:1:6": [
+  { "url": "https://apps.rediafile.com/api/v1/file-entries/download/MjQ0NnxwYWRkaQ?shareable_link=509&password=null", "title": "Web-HD-Sub:PTBR", "season": 1, "episode": 6 }
+],
+"tt2847220:1:7": [
+  { "url": "https://apps.rediafile.com/api/v1/file-entries/download/MjQ0N3xwYWRkaQ?shareable_link=510&password=null", "title": "Web-HD-Sub:PTBR", "season": 1, "episode": 7 }
+],
+"tt2847220:1:8": [
+  { "url": "https://apps.rediafile.com/api/v1/file-entries/download/MjQ0OHxwYWRkaQ?shareable_link=511&password=null", "title": "Web-HD-Sub:PTBR", "season": 1, "episode": 8 }
+],
+"tt2847220:1:9": [
+  { "url": "https://apps.rediafile.com/api/v1/file-entries/download/MjQ0OXxwYWRkaQ?shareable_link=512&password=null", "title": "Web-HD-Sub:PTBR", "season": 1, "episode": 9 }
+],
+"tt2847220:1:10": [
+  { "url": "https://apps.rediafile.com/api/v1/file-entries/download/MjQ1MHxwYWRkaQ?shareable_link=513&password=null", "title": "Web-HD-Sub:PTBR", "season": 1, "episode": 10 }
+],
+"tt2847220:1:11": [
+  { "url": "https://apps.rediafile.com/api/v1/file-entries/download/MjQ1MXxwYWRkaQ?shareable_link=514&password=null", "title": "Web-HD-Sub:PTBR", "season": 1, "episode": 11 }
+],
+//"tt2847220:1:12": [
+  //{ "url": "link", "title": "Web-HD-Sub:PTBR", "season": 1, "episode": 12 }],
+
 
 //ultraman ginga e ginga s
 
@@ -932,6 +981,59 @@ const seriesStreams = {
 
 
 const seriesSubtitles = {
+
+  //ultraman ginga s legendas
+ "ultgingas:1:1": [
+  { "url": "https://archive.org/download/gekijouban-ultraman-ginga-s-showdown/SUR%20-%20Ultraman%20Ginga%20S%2001%20%5BBD-1080p%5D.srt", "lang": "Português BR", "label": "Português" }
+],
+"ultgingas:1:2": [
+  { "url": "https://archive.org/download/gekijouban-ultraman-ginga-s-showdown/SUR%20-%20Ultraman%20Ginga%20S%2002%20%5BBD-1080p%5D.srt", "lang": "Português BR", "label": "Português" }
+],
+"ultgingas:1:3": [
+  { "url": "https://archive.org/download/gekijouban-ultraman-ginga-s-showdown/SUR%20-%20Ultraman%20Ginga%20S%2003%20%5BBD-1080p%5D.srt", "lang": "Português BR", "label": "Português" }
+],
+"ultgingas:1:4": [
+  { "url": "https://archive.org/download/gekijouban-ultraman-ginga-s-showdown/SUR%20-%20Ultraman%20Ginga%20S%2004%20%5BBD-1080p%5D.srt", "lang": "Português BR", "label": "Português" }
+],
+"ultgingas:1:5": [
+  { "url": "https://archive.org/download/gekijouban-ultraman-ginga-s-showdown/SUR%20-%20Ultraman%20Ginga%20S%2005%20%5BBD-1080p%5D.srt", "lang": "Português BR", "label": "Português" }
+],
+"ultgingas:1:6": [
+  { "url": "https://archive.org/download/gekijouban-ultraman-ginga-s-showdown/SUR%20-%20Ultraman%20Ginga%20S%2006%20%5BBD-1080p%5D.srt", "lang": "Português BR", "label": "Português" }
+],
+"ultgingas:1:7": [
+  { "url": "https://archive.org/download/gekijouban-ultraman-ginga-s-showdown/SUR%20-%20Ultraman%20Ginga%20S%2007%20%5BBD-1080p%5D.srt", "lang": "Português BR", "label": "Português" }
+],
+"ultgingas:1:8": [
+  { "url": "https://archive.org/download/gekijouban-ultraman-ginga-s-showdown/SUR%20-%20Ultraman%20Ginga%20S%2008%20%5BBD-1080p%5D.srt", "lang": "Português BR", "label": "Português" }
+],
+"ultgingas:1:9": [
+  { "url": "https://archive.org/download/gekijouban-ultraman-ginga-s-showdown/SUR%20-%20Ultraman%20Ginga%20S%2009%20%5BBD-1080p%5D.srt", "lang": "Português BR", "label": "Português" }
+],
+"ultgingas:1:10": [
+  { "url": "https://archive.org/download/gekijouban-ultraman-ginga-s-showdown/SUR%20-%20Ultraman%20Ginga%20S%2010%20%5BBD-1080p%5D.srt", "lang": "Português BR", "label": "Português" }
+],
+"ultgingas:1:11": [
+  { "url": "https://archive.org/download/gekijouban-ultraman-ginga-s-showdown/SUR%20-%20Ultraman%20Ginga%20S%2011%20%5BBD-1080p%5D.srt", "lang": "Português BR", "label": "Português" }
+],
+"ultgingas:1:12": [
+  { "url": "https://archive.org/download/gekijouban-ultraman-ginga-s-showdown/SUR%20-%20Ultraman%20Ginga%20S%2012%20%5BBD-1080p%5D.srt", "lang": "Português BR", "label": "Português" }
+],
+"ultgingas:1:13": [
+  { "url": "https://archive.org/download/gekijouban-ultraman-ginga-s-showdown/SUR%20-%20Ultraman%20Ginga%20S%2013%20%5BBD-1080p%5D.srt", "lang": "Português BR", "label": "Português" }
+],
+"ultgingas:1:14": [
+  { "url": "https://archive.org/download/gekijouban-ultraman-ginga-s-showdown/SUR%20-%20Ultraman%20Ginga%20S%2014%20%5BBD-1080p%5D.srt", "lang": "Português BR", "label": "Português" }
+],
+"ultgingas:1:15": [
+  { "url": "https://archive.org/download/gekijouban-ultraman-ginga-s-showdown/SUR%20-%20Ultraman%20Ginga%20S%2015%20%5BBD-1080p%5D.srt", "lang": "Português BR", "label": "Português" }
+],
+"ultgingas:1:16": [
+  { "url": "https://archive.org/download/gekijouban-ultraman-ginga-s-showdown/SUR%20-%20Ultraman%20Ginga%20S%2016%20END%20%5BBD-1080p%5D.srt", "lang": "Português BR", "label": "Português" }
+],
+
+
+
   //kamen rider kuuga  legendas
   "tt0188340:1:1": [
     { "url": "https://archive.org/download/kr_kuuga_legenda_ptbr_japassubs/kr_kuuga_port_01.srt", "lang": "Português BR [Japa Subs]", "label": "Português" }
