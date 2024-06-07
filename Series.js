@@ -1,4 +1,13 @@
 const catalogs = [
+     {
+        id: "tt4651924",
+        type: "series",
+        name: "Ultraman X",
+        genres: ["Tokusatsus", "Ultraman"],
+        poster: null,
+        posterShape: "poster",
+        description: "Uma explosão solar despertou Spark Dolls das profundezas da terra e do oceano. Quinze anos depois, Daichi Ozora se transforma em Ultraman X para combater ameaças de alienígenas e monstros.",
+        releaseInfo: "2015",},
     {
         id: "tt2847220",
         type: "series",
@@ -166,6 +175,77 @@ const seriesStreams = {
     { "infoHash": "4e47e949482ba05f2f11e51a0e8052f9fa606cdd", "title": "Torrent-FHD-JP-Nyaa.si .mkv", "season": 1, "episode": 1, "fileIdx": 0 },
     { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Decade/01.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 1 }
   ],*/
+
+//ultraman X
+
+
+"tt4651924:1:1": [
+    { "infoHash": "f65d5358dc4be7cc9c1aaf594a5b790f3765585d", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 1, "fileIdx": 1 }
+],
+"tt4651924:1:2": [
+    { "infoHash": "f65d5358dc4be7cc9c1aaf594a5b790f3765585d", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 2, "fileIdx": 2 }
+],
+"tt4651924:1:3": [
+    { "infoHash": "f65d5358dc4be7cc9c1aaf594a5b790f3765585d", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 3, "fileIdx": 3 }
+],
+"tt4651924:1:4": [
+    { "infoHash": "f65d5358dc4be7cc9c1aaf594a5b790f3765585d", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 4, "fileIdx": 4 }
+],
+"tt4651924:1:5": [
+    { "infoHash": "f65d5358dc4be7cc9c1aaf594a5b790f3765585d", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 5, "fileIdx": 5 }
+],
+"tt4651924:1:6": [
+    { "infoHash": "f65d5358dc4be7cc9c1aaf594a5b790f3765585d", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 6, "fileIdx": 6 }
+],
+"tt4651924:1:7": [
+    { "infoHash": "f65d5358dc4be7cc9c1aaf594a5b790f3765585d", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 7, "fileIdx": 7 }
+],
+"tt4651924:1:8": [
+    { "infoHash": "f65d5358dc4be7cc9c1aaf594a5b790f3765585d", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 8, "fileIdx": 8 }
+],
+"tt4651924:1:9": [
+    { "infoHash": "f65d5358dc4be7cc9c1aaf594a5b790f3765585d", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 9, "fileIdx": 9 }
+],
+"tt4651924:1:10": [
+    { "infoHash": "f65d5358dc4be7cc9c1aaf594a5b790f3765585d", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 10, "fileIdx": 10 }
+],
+"tt4651924:1:11": [
+    { "infoHash": "f65d5358dc4be7cc9c1aaf594a5b790f3765585d", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 11, "fileIdx": 11 }
+],
+"tt4651924:1:12": [
+    { "infoHash": "f65d5358dc4be7cc9c1aaf594a5b790f3765585d", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 12, "fileIdx": 12 }
+],
+"tt4651924:1:13": [
+    { "infoHash": "f65d5358dc4be7cc9c1aaf594a5b790f3765585d", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 13, "fileIdx": 13 }
+],
+"tt4651924:1:14": [
+    { "infoHash": "f65d5358dc4be7cc9c1aaf594a5b790f3765585d", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 14, "fileIdx": 14 }
+],
+"tt4651924:1:15": [
+    { "infoHash": "f65d5358dc4be7cc9c1aaf594a5b790f3765585d", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 15, "fileIdx": 15 }
+],
+"tt4651924:1:16": [
+    { "infoHash": "f65d5358dc4be7cc9c1aaf594a5b790f3765585d", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 16, "fileIdx": 16 }
+],
+"tt4651924:1:17": [
+    { "infoHash": "f65d5358dc4be7cc9c1aaf594a5b790f3765585d", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 17, "fileIdx": 17 }
+],
+"tt4651924:1:18": [
+    { "infoHash": "f65d5358dc4be7cc9c1aaf594a5b790f3765585d", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 18, "fileIdx": 18 }
+],
+"tt4651924:1:19": [
+    { "infoHash": "f65d5358dc4be7cc9c1aaf594a5b790f3765585d", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 19, "fileIdx": 19 }
+],
+"tt4651924:1:20": [
+    { "infoHash": "f65d5358dc4be7cc9c1aaf594a5b790f3765585d", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 20, "fileIdx": 20 }
+],
+"tt4651924:1:21": [
+    { "infoHash": "f65d5358dc4be7cc9c1aaf594a5b790f3765585d", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 21, "fileIdx": 0 }
+],
+"tt4651924:1:22": [
+    { "infoHash": "f65d5358dc4be7cc9c1aaf594a5b790f3765585d", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 22, "fileIdx": 22 }
+],
+
 
 
 //ultraman ginga
@@ -981,6 +1061,75 @@ const seriesStreams = {
 
 
 const seriesSubtitles = {
+
+   // ultraman x legendas
+
+"tt4651924:1:1": [
+  { "url": "https://archive.org/download/ultraman-x-legendas-ptbr/Ultraman%20X%20Episode%201%20%E2%80%93%20A%20Voice%20From%20the%20Starry%20Sky.ptBR.ass", "lang": "Português BR", "label": "Português BR" }
+],
+"tt4651924:1:2": [
+  { "url": "https://archive.org/download/ultraman-x-legendas-ptbr/Ultraman%20X%20Episode%202%20%E2%80%93%20A%20Collection%20of%20Possibilities.ptBR.ass", "lang": "Português BR", "label": "Português BR" }
+],
+"tt4651924:1:3": [
+  { "url": "https://archive.org/download/ultraman-x-legendas-ptbr/Ultraman%20X%20Episode%203%20%E2%80%93%20A%20Song%20That%20Calls%20The%20Night.ptBR.ass", "lang": "Português BR", "label": "Português BR" }
+],
+"tt4651924:1:4": [
+  { "url": "https://archive.org/download/ultraman-x-legendas-ptbr/Ultraman%20X%20Episode%204%20%E2%80%93%20All%20For%20One.ptBR.ass", "lang": "Português BR", "label": "Português BR" }
+],
+"tt4651924:1:5": [
+  { "url": "https://archive.org/download/ultraman-x-legendas-ptbr/Ultraman%20X%20Episode%205%20%E2%80%93%20When%20the%20Aegis%20Shines.ptBR.ass", "lang": "Português BR", "label": "Português BR" }
+],
+"tt4651924:1:6": [
+  { "url": "https://archive.org/download/ultraman-x-legendas-ptbr/Ultraman%20X%20Episode%206%20%E2%80%93%20The%20Man%20With%20The%20Memories%20Of%20A%20Planet.ptBR.ass", "lang": "Português BR", "label": "Português BR" }
+],
+"tt4651924:1:7": [
+  { "url": "https://archive.org/download/ultraman-x-legendas-ptbr/Ultraman%20X%20Episode%207%20%E2%80%93%20An%20Oath%20Beyond%20Worlds.ptBR.ass", "lang": "Português BR", "label": "Português BR" }
+],
+"tt4651924:1:8": [
+  { "url": "https://archive.org/download/ultraman-x-legendas-ptbr/Ultraman%20X%20Episode%208%20%E2%80%93%20X%20In%20Peril.ptBR.ass", "lang": "Português BR", "label": "Português BR" }
+],
+"tt4651924:1:9": [
+  { "url": "https://archive.org/download/ultraman-x-legendas-ptbr/Ultraman%20X%20Episode%209%20%E2%80%93%20We%20Are%20Nebula%21.ptBR.ass", "lang": "Português BR", "label": "Português BR" }
+],
+"tt4651924:1:10": [
+  { "url": "https://archive.org/download/ultraman-x-legendas-ptbr/Ultraman%20X%20Episode%2010%20%E2%80%93%20The%20Monster%20Won%27t%20Move.ptBR.ass", "lang": "Português BR", "label": "Português BR" }
+],
+"tt4651924:1:11": [
+  { "url": "https://archive.org/download/ultraman-x-legendas-ptbr/Ultraman%20X%20Episode%2011%20%E2%80%93%20An%20Unknown%20Friend.ptBR.ass", "lang": "Português BR", "label": "Português BR" }
+],
+"tt4651924:1:12": [
+  { "url": "https://archive.org/download/ultraman-x-legendas-ptbr/Ultraman%20X%20Episode%2012%20%E2%80%93%20End%20of%20the%20Rainbow.ptBR.ass", "lang": "Português BR", "label": "Português BR" }
+],
+"tt4651924:1:13": [
+  { "url": "https://archive.org/download/ultraman-x-legendas-ptbr/Ultraman%20X%20Episode%2013%20%E2%80%93%20Sword%20of%20Victory.ptBR.ass", "lang": "Português BR", "label": "Português BR" }
+],
+"tt4651924:1:14": [
+  { "url": "https://archive.org/download/ultraman-x-legendas-ptbr/Ultraman%20X%20Episode%2014%20%E2%80%93%20The%20Shining%20Sky%2C%20and%20the%20Land%20Beneath%20It.ptBR.ass", "lang": "Português BR", "label": "Português BR" }
+],
+"tt4651924:1:15": [
+  { "url": "https://archive.org/download/ultraman-x-legendas-ptbr/Ultraman%20X%20Episode%2015%20%E2%80%93%20A%20Soldier%27s%20Back.ptBR.ass", "lang": "Português BR", "label": "Português BR" }
+],
+"tt4651924:1:16": [
+  { "url": "https://archive.org/download/ultraman-x-legendas-ptbr/Ultraman%20X%20Episode%2016%20%E2%80%93%20Feature%20Report%21%2024%20Hours%20Inside%20Xio.ptBR.ass", "lang": "Português BR", "label": "Português BR" }
+],
+"tt4651924:1:17": [
+  { "url": "https://archive.org/download/ultraman-x-legendas-ptbr/Ultraman%20X%20Episode%2017%20%E2%80%93%20My%20Friend%27s%20A%20Monster.ptBR.ass", "lang": "Português BR", "label": "Português BR" }
+],
+"tt4651924:1:18": [
+  { "url": "https://archive.org/download/ultraman-x-legendas-ptbr/Ultraman%20X%20Episode%2018%20%E2%80%93%20Wataru%27s%20Romance.ptBR.ass", "lang": "Português BR", "label": "Português BR" }
+],
+"tt4651924:1:19": [
+  { "url": "https://archive.org/download/ultraman-x-legendas-ptbr/Ultraman%20X%20Episode%2019%20%E2%80%93%20Living%20Together.ptBR.ass", "lang": "Português BR", "label": "Português BR" }
+],
+"tt4651924:1:20": [
+  { "url": "https://archive.org/download/ultraman-x-legendas-ptbr/Ultraman%20X%20Episode%2020%20%E2%80%93%20Bond%20-Unite-.ptBR.ass", "lang": "Português BR", "label": "Português BR" }
+],
+"tt4651924:1:21": [
+  { "url": "https://archive.org/download/ultraman-x-legendas-ptbr/Ultraman%20X%20Episode%2021%20%E2%80%93%20A%20Beautiful%20End.ptBR.ass", "lang": "Português BR", "label": "Português BR" }
+],
+"tt4651924:1:22": [
+  { "url": "https://archive.org/download/ultraman-x-legendas-ptbr/Ultraman%20X%20Episode%2022%20%E2%80%93%20The%20Rainbow%20Land.ptBR.ass", "lang": "Português BR", "label": "Português BR" }
+],
 
   //ultraman ginga s legendas
  "ultgingas:1:1": [
