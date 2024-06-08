@@ -787,57 +787,256 @@ const seriesStreams = {
   ],
 
       // kamen rider revice streams
-"tt14893284:1:1": [{ url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2001v2%20%5BFE55C8BE%5D.mkv", title: "WEB-Ep-01-[Audio JP] ", season: 1, episode: 1 }],
-"tt14893284:1:2": [{ url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2002v2%20%5BA5CC0188%5D.mkv", title: "WEB-Ep-02-[Audio JP] ", season: 1, episode: 2 }],
-"tt14893284:1:3": [{ url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2003v2%20%5B38397236%5D.mkv", title: "WEB-Ep-03-[Audio JP] ", season: 1, episode: 3 }],
-"tt14893284:1:4": [{ url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2004v2%20%5BC78BE581%5D.mkv", title: "WEB-Ep-04-[Audio JP] ", season: 1, episode: 4 }],
-"tt14893284:1:5": [{ url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2005v2%20%5BBD83E0C8%5D.mkv", title: "WEB-Ep-05-[Audio JP] ", season: 1, episode: 5 }],
-"tt14893284:1:6": [{ url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2006v2%20%5BF2CE04DC%5D.mkv", title: "WEB-Ep-06-[Audio JP] ", season: 1, episode: 6 }],
-"tt14893284:1:7": [{ url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2007v2%20%5B2A97B496%5D.mkv", title: "WEB-Ep-07-[Audio JP] ", season: 1, episode: 7 }],
-"tt14893284:1:8": [{ url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2008v2%20%5B273CD539%5D.mkv", title: "WEB-Ep-08-[Audio JP] ", season: 1, episode: 8 }],
-"tt14893284:1:9": [{ url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2009v2%20%5B8C8AF2F7%5D.mkv", title: "WEB-Ep-09-[Audio JP] ", season: 1, episode: 9 }],
-"tt14893284:1:10": [{ url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2010v2%20%5B5A6E7E0E%5D.mkv", title: "WEB-Ep-10-[Audio JP] ", season: 1, episode: 10 }],
-"tt14893284:1:11": [{ url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2011v2%20%5B8BA498F2%5D.mkv", title: "WEB-Ep-11-[Audio JP] ", season: 1, episode: 11 }],
-"tt14893284:1:12": [{ url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2012v2%20%5BFFC2B8AA%5D.mkv", title: "WEB-Ep-12-[Audio JP] ", season: 1, episode: 12 }],
-"tt14893284:1:13": [{ url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2013v2%20%5BA6EF9431%5D.mkv", title: "WEB-Ep-13-[Audio JP] ", season: 1, episode: 13 }],
-"tt14893284:1:14": [{ url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2014v2%20%5BEF1032E3%5D.mkv", title: "WEB-Ep-14-[Audio JP] ", season: 1, episode: 14 }],
-"tt14893284:1:15": [{ url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2015v2%20%5B6040ED7C%5D.mkv", title: "WEB-Ep-15-[Audio JP] ", season: 1, episode: 15 }],
-"tt14893284:1:16": [{ url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2016v2%20%5B2D52D61A%5D.mkv", title: "WEB-Ep-16-[Audio JP] ", season: 1, episode: 16 }],
-"tt14893284:1:17": [{ url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2017v2%20%5BCC573ABD%5D.mkv", title: "WEB-Ep-17-[Audio JP] ", season: 1, episode: 17 }],
-"tt14893284:1:18": [{ url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2018v2%20%5BDC2FF79B%5D.mkv", title: "WEB-Ep-18-[Audio JP] ", season: 1, episode: 18 }],
-"tt14893284:1:19": [{ url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2019v2%20%5BB1AABFBE%5D.mkv", title: "WEB-Ep-19-[Audio JP] ", season: 1, episode: 19 }],
-"tt14893284:1:20": [{ url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2020v2%20%5B40104A08%5D.mkv", title: "WEB-Ep-20-[Audio JP] ", season: 1, episode: 20 }],
-"tt14893284:1:21": [{ url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2021v2%20%5B115EB496%5D.mkv", title: "WEB-Ep-21-[Audio JP] ", season: 1, episode: 21 }],
-"tt14893284:1:22": [{ url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2022v2%20%5BB39511A8%5D.mkv", title: "WEB-Ep-22-[Audio JP] ", season: 1, episode: 22 }],
-"tt14893284:1:23": [{ url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2023v2%20%5B794DF5F2%5D.mkv", title: "WEB-Ep-23-[Audio JP] ", season: 1, episode: 23 }],
-"tt14893284:1:24": [{ url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2024v2%20%5BEAD2FEC3%5D.mkv", title: "WEB-Ep-24-[Audio JP] ", season: 1, episode: 24 }],
-"tt14893284:1:25": [{ url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2025v3%20%5B04E89F88%5D.mkv", title: "WEB-Ep-25-[Audio JP] ", season: 1, episode: 25 }],
-"tt14893284:1:26": [{ url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2026v2%20%5B49E7803F%5D.mkv", title: "WEB-Ep-26-[Audio JP] ", season: 1, episode: 26 }],
-"tt14893284:1:27": [{ url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2027v2%20%5BD0012089%5D.mkv", title: "WEB-Ep-27-[Audio JP] ", season: 1, episode: 27 }],
-"tt14893284:1:28": [{ url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2028v2%20%5BC6D9D5F6%5D.mkv", title: "WEB-Ep-28-[Audio JP] ", season: 1, episode: 28 }],
-"tt14893284:1:29": [{ url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2029v3%20%5B22707206%5D.mkv", title: "WEB-Ep-29-[Audio JP] ", season: 1, episode: 29 }],
-"tt14893284:1:30": [{ url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2030v2%20%5BB3DC1CA1%5D.mkv", title: "WEB-Ep-30-[Audio JP] ", season: 1, episode: 30 }],
-"tt14893284:1:31": [{ url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2031v2%20%5B6E04925C%5D.mkv", title: "WEB-Ep-31-[Audio JP] ", season: 1, episode: 31 }],
-"tt14893284:1:32": [{ url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2032v2%20%5B1D7C1A17%5D.mkv", title: "WEB-Ep-32-[Audio JP] ", season: 1, episode: 32 }],
-"tt14893284:1:33": [{ url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2033v2%20%5B2C96D86D%5D.mkv", title: "WEB-Ep-33-[Audio JP] ", season: 1, episode: 33 }],
-"tt14893284:1:34": [{ url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2034v2%20%5BE83FF2D0%5D.mkv", title: "WEB-Ep-34-[Audio JP] ", season: 1, episode: 34 }],
-"tt14893284:1:35": [{ url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2035v2%20%5B1621D5C4%5D.mkv", title: "WEB-Ep-35-[Audio JP] ", season: 1, episode: 35 }],
-"tt14893284:1:36": [{ url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2036v3%20%5B0EBA52D3%5D.mkv", title: "WEB-Ep-36-[Audio JP] ", season: 1, episode: 36 }],
-"tt14893284:1:37": [{ url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2037v2%20%5BA67880B9%5D.mkv", title: "WEB-Ep-37-[Audio JP] ", season: 1, episode: 37 }],
-"tt14893284:1:38": [{ url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2038v2%20%5BED478124%5D.mkv", title: "WEB-Ep-38-[Audio JP] ", season: 1, episode: 38 }],
-"tt14893284:1:39": [{ url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2039v2%20%5B6C58985E%5D.mkv", title: "WEB-Ep-39-[Audio JP] ", season: 1, episode: 39 }],
-"tt14893284:1:40": [{ url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2040v2%20%5BFE2985FE%5D.mkv", title: "WEB-Ep-40-[Audio JP] ", season: 1, episode: 40 }],
-"tt14893284:1:41": [{ url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2041v3%20%5B18C33D1A%5D.mkv", title: "WEB-Ep-41-[Audio JP] ", season: 1, episode: 41 }],
-"tt14893284:1:42": [{ url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2042v2%20%5B9A8796DA%5D.mkv", title: "WEB-Ep-42-[Audio JP] ", season: 1, episode: 42 }],
-"tt14893284:1:43": [{ url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2043v3%20%5B9EF81222%5D.mkv", title: "WEB-Ep-43-[Audio JP] ", season: 1, episode: 43 }],
-"tt14893284:1:44": [{ url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2044v2%20%5B0FEB65F5%5D.mkv", title: "WEB-Ep-44-[Audio JP] ", season: 1, episode: 44 }],
-"tt14893284:1:45": [{ url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2045v2%20%5BADA74DCD%5D.mkv", title: "WEB-Ep-45-[Audio JP] ", season: 1, episode: 45 }],
-"tt14893284:1:46": [{ url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2046v2%20%5B24268C1C%5D.mkv", title: "WEB-Ep-46-[Audio JP] ", season: 1, episode: 46 }],
-"tt14893284:1:47": [{ url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2047v2%20%5BE746DE44%5D.mkv", title: "WEB-Ep-47-[Audio JP] ", season: 1, episode: 47 }],
-"tt14893284:1:48": [{ url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2048v2%20%5BE38CD981%5D.mkv", title: "WEB-Ep-48-[Audio JP] ", season: 1, episode: 48 }],
-"tt14893284:1:49": [{ url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2049v2%20%5B556542DC%5D.mkv", title: "WEB-Ep-49-[Audio JP] ", season: 1, episode: 49 }],
-"tt14893284:1:50": [{ url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2050%20%28Finale%29v3%20%5BAFC6ABE2%5D.mkv", title: "WEB-Ep-50-[Audio JP] ", season: 1, episode: 50 }],
-
+"tt14893284:1:1": 
+    [
+    { url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2001v2%20%5BFE55C8BE%5D.mkv", title: "WEB-Ep-01-[Audio JP] ", season: 1, episode: 1 },
+    { infoHash: "3d2e71a1b53bea2375ccd78332321b7241bd289a", title: "Torrent-FHD-JP-Nyaa.si", season: 1, episode: 1, fileIdx: 0 },
+    ],
+"tt14893284:1:2": 
+    [
+    { url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2002v2%20%5BA5CC0188%5D.mkv", title: "WEB-Ep-02-[Audio JP] ", season: 1, episode: 2 },
+    { infoHash: "3d2e71a1b53bea2375ccd78332321b7241bd289a", title: "Torrent-FHD-JP-Nyaa.si", season: 1, episode: 2, fileIdx: 1 },
+    ],
+"tt14893284:1:3": 
+    [
+    { url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2003v2%20%5B38397236%5D.mkv", title: "WEB-Ep-03-[Audio JP] ", season: 1, episode: 3 },
+    { infoHash: "3d2e71a1b53bea2375ccd78332321b7241bd289a", title: "Torrent-FHD-JP-Nyaa.si", season: 1, episode: 3, fileIdx: 2 },
+    ],
+"tt14893284:1:4": 
+    [
+    { url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2004v2%20%5BC78BE581%5D.mkv", title: "WEB-Ep-04-[Audio JP] ", season: 1, episode: 4 },
+    { infoHash: "3d2e71a1b53bea2375ccd78332321b7241bd289a", title: "Torrent-FHD-JP-Nyaa.si", season: 1, episode: 4, fileIdx: 3 },
+    ],
+"tt14893284:1:5": 
+    [
+    { url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2005v2%20%5BBD83E0C8%5D.mkv", title: "WEB-Ep-05-[Audio JP] ", season: 1, episode: 5 },
+    { infoHash: "3d2e71a1b53bea2375ccd78332321b7241bd289a", title: "Torrent-FHD-JP-Nyaa.si", season: 1, episode: 5, fileIdx: 4 },
+    ],
+"tt14893284:1:6": 
+    [
+    { url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2006v2%20%5BF2CE04DC%5D.mkv", title: "WEB-Ep-06-[Audio JP] ", season: 1, episode: 6 },
+    { infoHash: "3d2e71a1b53bea2375ccd78332321b7241bd289a", title: "Torrent-FHD-JP-Nyaa.si", season: 1, episode: 6, fileIdx: 5 },
+    ],
+"tt14893284:1:7": 
+    [
+    { url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2007v2%20%5B2A97B496%5D.mkv", title: "WEB-Ep-07-[Audio JP] ", season: 1, episode: 7 },
+    { infoHash: "3d2e71a1b53bea2375ccd78332321b7241bd289a", title: "Torrent-FHD-JP-Nyaa.si", season: 1, episode: 7, fileIdx: 6 },
+    ],
+"tt14893284:1:8": 
+    [
+    { url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2008v2%20%5B273CD539%5D.mkv", title: "WEB-Ep-08-[Audio JP] ", season: 1, episode: 8 },
+    { infoHash: "3d2e71a1b53bea2375ccd78332321b7241bd289a", title: "Torrent-FHD-JP-Nyaa.si", season: 1, episode: 8, fileIdx: 7 },
+    ],
+"tt14893284:1:9": 
+    [
+    { url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2009v2%20%5B8C8AF2F7%5D.mkv", title: "WEB-Ep-09-[Audio JP] ", season: 1, episode: 9 },
+    { infoHash: "3d2e71a1b53bea2375ccd78332321b7241bd289a", title: "Torrent-FHD-JP-Nyaa.si", season: 1, episode: 9, fileIdx: 8 },
+    ],
+"tt14893284:1:10": 
+    [
+    { url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2010v2%20%5B5A6E7E0E%5D.mkv", title: "WEB-Ep-10-[Audio JP] ", season: 1, episode: 10 },
+    { infoHash: "3d2e71a1b53bea2375ccd78332321b7241bd289a", title: "Torrent-FHD-JP-Nyaa.si", season: 1, episode: 10, fileIdx: 9 },
+    ],
+"tt14893284:1:11": 
+    [
+    { url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2011v2%20%5B8BA498F2%5D.mkv", title: "WEB-Ep-11-[Audio JP] ", season: 1, episode: 11 },
+    { infoHash: "3d2e71a1b53bea2375ccd78332321b7241bd289a", title: "Torrent-FHD-JP-Nyaa.si", season: 1, episode: 11, fileIdx: 10 },
+    ],
+"tt14893284:1:12": 
+    [
+    { url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2012v2%20%5BFFC2B8AA%5D.mkv", title: "WEB-Ep-12-[Audio JP] ", season: 1, episode: 12 },
+    { infoHash: "3d2e71a1b53bea2375ccd78332321b7241bd289a", title: "Torrent-FHD-JP-Nyaa.si", season: 1, episode: 12, fileIdx: 11 },
+    ],
+"tt14893284:1:13": 
+    [
+    { url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2013v2%20%5B53D8CE99%5D.mkv", title: "WEB-Ep-13-[Audio JP] ", season: 1, episode: 13 },
+    { infoHash: "3d2e71a1b53bea2375ccd78332321b7241bd289a", title: "Torrent-FHD-JP-Nyaa.si", season: 1, episode: 13, fileIdx: 12 },
+    ],
+"tt14893284:1:14": 
+    [
+    { url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2014v2%20%5B7D187B43%5D.mkv", title: "WEB-Ep-14-[Audio JP] ", season: 1, episode: 14 },
+    { infoHash: "3d2e71a1b53bea2375ccd78332321b7241bd289a", title: "Torrent-FHD-JP-Nyaa.si", season: 1, episode: 14, fileIdx: 13 },
+    ],
+"tt14893284:1:15": 
+    [
+    { url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2015v2%20%5B583BA6F8%5D.mkv", title: "WEB-Ep-15-[Audio JP] ", season: 1, episode: 15 },
+    { infoHash: "3d2e71a1b53bea2375ccd78332321b7241bd289a", title: "Torrent-FHD-JP-Nyaa.si", season: 1, episode: 15, fileIdx: 14 },
+    ],
+"tt14893284:1:16": 
+    [
+    { url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2016v2%20%5B5FE30A9E%5D.mkv", title: "WEB-Ep-16-[Audio JP] ", season: 1, episode: 16 },
+    { infoHash: "3d2e71a1b53bea2375ccd78332321b7241bd289a", title: "Torrent-FHD-JP-Nyaa.si", season: 1, episode: 16, fileIdx: 15 },
+    ],
+"tt14893284:1:17": 
+    [
+    { url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2017v2%20%5B45632498%5D.mkv", title: "WEB-Ep-17-[Audio JP] ", season: 1, episode: 17 },
+    { infoHash: "3d2e71a1b53bea2375ccd78332321b7241bd289a", title: "Torrent-FHD-JP-Nyaa.si", season: 1, episode: 17, fileIdx: 16 },
+    ],
+"tt14893284:1:18": 
+    [
+    { url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2018v2%20%5B26844C14%5D.mkv", title: "WEB-Ep-18-[Audio JP] ", season: 1, episode: 18 },
+    { infoHash: "3d2e71a1b53bea2375ccd78332321b7241bd289a", title: "Torrent-FHD-JP-Nyaa.si", season: 1, episode: 18, fileIdx: 17 },
+    ],
+"tt14893284:1:19": 
+    [
+    { url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2019v2%20%5B5AFC1BA4%5D.mkv", title: "WEB-Ep-19-[Audio JP] ", season: 1, episode: 19 },
+    { infoHash: "3d2e71a1b53bea2375ccd78332321b7241bd289a", title: "Torrent-FHD-JP-Nyaa.si", season: 1, episode: 19, fileIdx: 18 },
+    ],
+"tt14893284:1:20": 
+    [
+    { url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2020v2%20%5BF2303AFD%5D.mkv", title: "WEB-Ep-20-[Audio JP] ", season: 1, episode: 20 },
+    { infoHash: "3d2e71a1b53bea2375ccd78332321b7241bd289a", title: "Torrent-FHD-JP-Nyaa.si", season: 1, episode: 20, fileIdx: 19 },
+    ],
+"tt14893284:1:21": 
+    [
+    { url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2021v2%20%5B175B9913%5D.mkv", title: "WEB-Ep-21-[Audio JP] ", season: 1, episode: 21 },
+    { infoHash: "3d2e71a1b53bea2375ccd78332321b7241bd289a", title: "Torrent-FHD-JP-Nyaa.si", season: 1, episode: 21, fileIdx: 20 },
+    ],
+"tt14893284:1:22": 
+    [
+    { url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2022v2%20%5B157AD13E%5D.mkv", title: "WEB-Ep-22-[Audio JP] ", season: 1, episode: 22 },
+    { infoHash: "3d2e71a1b53bea2375ccd78332321b7241bd289a", title: "Torrent-FHD-JP-Nyaa.si", season: 1, episode: 22, fileIdx: 21 },
+    ],
+"tt14893284:1:23": 
+    [
+    { url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2023v2%20%5BE0A93611%5D.mkv", title: "WEB-Ep-23-[Audio JP] ", season: 1, episode: 23 },
+    { infoHash: "3d2e71a1b53bea2375ccd78332321b7241bd289a", title: "Torrent-FHD-JP-Nyaa.si", season: 1, episode: 23, fileIdx: 22 },
+    ],
+"tt14893284:1:24": 
+    [
+    { url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2024v2%20%5B2D6AD574%5D.mkv", title: "WEB-Ep-24-[Audio JP] ", season: 1, episode: 24 },
+    { infoHash: "3d2e71a1b53bea2375ccd78332321b7241bd289a", title: "Torrent-FHD-JP-Nyaa.si", season: 1, episode: 24, fileIdx: 23 },
+    ],
+"tt14893284:1:25": 
+    [
+    { url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2025v2%20%5B157C17D5%5D.mkv", title: "WEB-Ep-25-[Audio JP] ", season: 1, episode: 25 },
+    { infoHash: "3d2e71a1b53bea2375ccd78332321b7241bd289a", title: "Torrent-FHD-JP-Nyaa.si", season: 1, episode: 25, fileIdx: 24 },
+    ],
+"tt14893284:1:26": 
+    [
+    { url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2026v2%20%5B22FEE797%5D.mkv", title: "WEB-Ep-26-[Audio JP] ", season: 1, episode: 26 },
+    { infoHash: "3d2e71a1b53bea2375ccd78332321b7241bd289a", title: "Torrent-FHD-JP-Nyaa.si", season: 1, episode: 26, fileIdx: 25 },
+    ],
+"tt14893284:1:27": 
+    [
+    { url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2027v2%20%5B297C37DD%5D.mkv", title: "WEB-Ep-27-[Audio JP] ", season: 1, episode: 27 },
+    { infoHash: "3d2e71a1b53bea2375ccd78332321b7241bd289a", title: "Torrent-FHD-JP-Nyaa.si", season: 1, episode: 27, fileIdx: 26 },
+    ],
+"tt14893284:1:28": 
+    [
+    { url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2028v2%20%5BF9A52E01%5D.mkv", title: "WEB-Ep-28-[Audio JP] ", season: 1, episode: 28 },
+    { infoHash: "3d2e71a1b53bea2375ccd78332321b7241bd289a", title: "Torrent-FHD-JP-Nyaa.si", season: 1, episode: 28, fileIdx: 27 },
+    ],
+"tt14893284:1:29": 
+    [
+    { url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2029v2%20%5B62A7A3D0%5D.mkv", title: "WEB-Ep-29-[Audio JP] ", season: 1, episode: 29 },
+    { infoHash: "3d2e71a1b53bea2375ccd78332321b7241bd289a", title: "Torrent-FHD-JP-Nyaa.si", season: 1, episode: 29, fileIdx: 28 },
+    ],
+"tt14893284:1:30": 
+    [
+    { url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2030v2%20%5B80E63D16%5D.mkv", title: "WEB-Ep-30-[Audio JP] ", season: 1, episode: 30 },
+    { infoHash: "3d2e71a1b53bea2375ccd78332321b7241bd289a", title: "Torrent-FHD-JP-Nyaa.si", season: 1, episode: 30, fileIdx: 29 },
+    ],
+"tt14893284:1:31": 
+    [
+    { url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2031v2%20%5BC10998B5%5D.mkv", title: "WEB-Ep-31-[Audio JP] ", season: 1, episode: 31 },
+    { infoHash: "3d2e71a1b53bea2375ccd78332321b7241bd289a", title: "Torrent-FHD-JP-Nyaa.si", season: 1, episode: 31, fileIdx: 30 },
+    ],
+"tt14893284:1:32": 
+    [
+    { url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2032v2%20%5B36583D51%5D.mkv", title: "WEB-Ep-32-[Audio JP] ", season: 1, episode: 32 },
+    { infoHash: "3d2e71a1b53bea2375ccd78332321b7241bd289a", title: "Torrent-FHD-JP-Nyaa.si", season: 1, episode: 32, fileIdx: 31 },
+    ],
+"tt14893284:1:33": 
+    [
+    { url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2033v2%20%5BF0EB5351%5D.mkv", title: "WEB-Ep-33-[Audio JP] ", season: 1, episode: 33 },
+    { infoHash: "3d2e71a1b53bea2375ccd78332321b7241bd289a", title: "Torrent-FHD-JP-Nyaa.si", season: 1, episode: 33, fileIdx: 32 },
+    ],
+"tt14893284:1:34": 
+    [
+    { url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2034v2%20%5B7C67F05C%5D.mkv", title: "WEB-Ep-34-[Audio JP] ", season: 1, episode: 34 },
+    { infoHash: "3d2e71a1b53bea2375ccd78332321b7241bd289a", title: "Torrent-FHD-JP-Nyaa.si", season: 1, episode: 34, fileIdx: 33 },
+    ],
+"tt14893284:1:35": 
+    [
+    { url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2035v2%20%5B12A764A8%5D.mkv", title: "WEB-Ep-35-[Audio JP] ", season: 1, episode: 35 },
+    { infoHash: "3d2e71a1b53bea2375ccd78332321b7241bd289a", title: "Torrent-FHD-JP-Nyaa.si", season: 1, episode: 35, fileIdx: 34 },
+    ],
+"tt14893284:1:36": 
+    [
+    { url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2036v2%20%5B007BA5DA%5D.mkv", title: "WEB-Ep-36-[Audio JP] ", season: 1, episode: 36 },
+    { infoHash: "3d2e71a1b53bea2375ccd78332321b7241bd289a", title: "Torrent-FHD-JP-Nyaa.si", season: 1, episode: 36, fileIdx: 35 },
+    ],
+"tt14893284:1:37": 
+    [
+    { url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2037v2%20%5B94B0CB1D%5D.mkv", title: "WEB-Ep-37-[Audio JP] ", season: 1, episode: 37 },
+    { infoHash: "3d2e71a1b53bea2375ccd78332321b7241bd289a", title: "Torrent-FHD-JP-Nyaa.si", season: 1, episode: 37, fileIdx: 36 },
+    ],
+"tt14893284:1:38": 
+    [
+    { url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2038v2%20%5BAA7ADCE4%5D.mkv", title: "WEB-Ep-38-[Audio JP] ", season: 1, episode: 38 },
+    { infoHash: "3d2e71a1b53bea2375ccd78332321b7241bd289a", title: "Torrent-FHD-JP-Nyaa.si", season: 1, episode: 38, fileIdx: 37 },
+    ],
+"tt14893284:1:39": 
+    [
+    { url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2039v2%20%5BFDE3C8AC%5D.mkv", title: "WEB-Ep-39-[Audio JP] ", season: 1, episode: 39 },
+    { infoHash: "3d2e71a1b53bea2375ccd78332321b7241bd289a", title: "Torrent-FHD-JP-Nyaa.si", season: 1, episode: 39, fileIdx: 38 },
+    ],
+"tt14893284:1:40": 
+    [
+    { url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2040v2%20%5BAE907468%5D.mkv", title: "WEB-Ep-40-[Audio JP] ", season: 1, episode: 40 },
+    { infoHash: "3d2e71a1b53bea2375ccd78332321b7241bd289a", title: "Torrent-FHD-JP-Nyaa.si", season: 1, episode: 40, fileIdx: 39 },
+    ],
+"tt14893284:1:41": 
+    [
+    { url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2041v2%20%5BE1E3B1D2%5D.mkv", title: "WEB-Ep-41-[Audio JP] ", season: 1, episode: 41 },
+    { infoHash: "3d2e71a1b53bea2375ccd78332321b7241bd289a", title: "Torrent-FHD-JP-Nyaa.si", season: 1, episode: 41, fileIdx: 40 },
+    ],
+"tt14893284:1:42": 
+    [
+    { url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2042v2%20%5B45DC1AC6%5D.mkv", title: "WEB-Ep-42-[Audio JP] ", season: 1, episode: 42 },
+    { infoHash: "3d2e71a1b53bea2375ccd78332321b7241bd289a", title: "Torrent-FHD-JP-Nyaa.si", season: 1, episode: 42, fileIdx: 41 },
+    ],
+"tt14893284:1:43": 
+    [
+    { url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2043v2%20%5BA6600CF7%5D.mkv", title: "WEB-Ep-43-[Audio JP] ", season: 1, episode: 43 },
+    { infoHash: "3d2e71a1b53bea2375ccd78332321b7241bd289a", title: "Torrent-FHD-JP-Nyaa.si", season: 1, episode: 43, fileIdx: 42 },
+    ],
+"tt14893284:1:44": 
+    [
+    { url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2044v2%20%5BC16B5CB2%5D.mkv", title: "WEB-Ep-44-[Audio JP] ", season: 1, episode: 44 },
+    { infoHash: "3d2e71a1b53bea2375ccd78332321b7241bd289a", title: "Torrent-FHD-JP-Nyaa.si", season: 1, episode: 44, fileIdx: 43 },
+    ],
+"tt14893284:1:45": 
+    [
+    { url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2045v2%20%5B6740ED5A%5D.mkv", title: "WEB-Ep-45-[Audio JP] ", season: 1, episode: 45 },
+    { infoHash: "3d2e71a1b53bea2375ccd78332321b7241bd289a", title: "Torrent-FHD-JP-Nyaa.si", season: 1, episode: 45, fileIdx: 44 },
+    ],
+"tt14893284:1:46": 
+    [
+    { url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2046v2%20%5B7106829B%5D.mkv", title: "WEB-Ep-46-[Audio JP] ", season: 1, episode: 46 },
+    { infoHash: "3d2e71a1b53bea2375ccd78332321b7241bd289a", title: "Torrent-FHD-JP-Nyaa.si", season: 1, episode: 46, fileIdx: 45 },
+    ],
+"tt14893284:1:47": 
+    [
+    { url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2047v2%20%5B255F05B7%5D.mkv", title: "WEB-Ep-47-[Audio JP] ", season: 1, episode: 47 },
+    { infoHash: "3d2e71a1b53bea2375ccd78332321b7241bd289a", title: "Torrent-FHD-JP-Nyaa.si", season: 1, episode: 47, fileIdx: 46 },
+    ],
+"tt14893284:1:48": 
+    [
+    { url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2048v2%20%5B579A1771%5D.mkv", title: "WEB-Ep-48-[Audio JP] ", season: 1, episode: 48 },
+    { infoHash: "3d2e71a1b53bea2375ccd78332321b7241bd289a", title: "Torrent-FHD-JP-Nyaa.si", season: 1, episode: 48, fileIdx: 47 },
+    ],
+"tt14893284:1:49": 
+    [
+    { url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2049v2%20%5B76FEBD1B%5D.mkv", title: "WEB-Ep-49-[Audio JP] ", season: 1, episode: 49 },
+    { infoHash: "3d2e71a1b53bea2375ccd78332321b7241bd289a", title: "Torrent-FHD-JP-Nyaa.si", season: 1, episode: 49, fileIdx: 48 },
+    ],
+"tt14893284:1:50": 
+    [
+    { url: "https://archive.org/download/volcano-subs-kamen-rider-beyond-generations-597-b-89-e-2/%5BGeoSubs%5D%20Kamen%20Rider%20Revice%20-%2050v2%20%5B9DE4E367%5D.mkv", title: "WEB-Ep-50-[Audio JP] ", season: 1, episode: 50 },
+    { infoHash: "3d2e71a1b53bea2375ccd78332321b7241bd289a", title: "Torrent-FHD-JP-Nyaa.si", season: 1, episode: 50, fileIdx: 49 },
+    ],
 
      
 // Kamen Rider Black Sun - [New Wave]
