@@ -1,10 +1,19 @@
 const catalogs = [
+    {
+        id: "tt0419343",
+        type: "series",
+        name: "Kamen Ryder Ryuki",
+        genres: ["Tokusatsus", "Kamen Rider"],
+        poster: "https://image.tmdb.org/t/p/original/ki58ngr3X5u2kjBtZNHQOr9SRcM.jpg",
+        posterShape: "poster",
+        description: "Treze baralhos de cartas foram criados para treze Kamen Riders. Eles fazem contratos com monstros do misterioso Mundo dos Espelhos, um mundo paralelo oposto ao real no qual apenas os Kamen Riders podem existir.",
+        releaseInfo: "2002–2003",},
      {
         id: "tt4651924",
         type: "series",
         name: "Ultraman X",
         genres: ["Tokusatsus", "Ultraman"],
-        poster: null,
+        poster: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eQxr3OBQd4q7SMyuu30tyVEH0jS.jpg",
         posterShape: "poster",
         description: "Uma explosão solar despertou Spark Dolls das profundezas da terra e do oceano. Quinze anos depois, Daichi Ozora se transforma em Ultraman X para combater ameaças de alienígenas e monstros.",
         releaseInfo: "2015",},
@@ -13,7 +22,7 @@ const catalogs = [
         type: "series",
         name: "Ultraman Ginga",
         genres: ["Tokusatsus", "Ultraman"],
-        poster: null,
+        poster: "https://image.tmdb.org/t/p/original/m04vRnQ18TRrBR7ledWc3BaL7fC.jpg",
         posterShape: "poster",
         description: "Todos os Ultramen e monstros foram transformados em figuras conhecidas como Spark Dolls e espalhados por todo o universo. Um jovem chamado Hikaru Raido encontra um item chamado Ginga Spark que não apenas permite que ele se torne Ultraman Ginga, mas também permite que ele ultraive com as figuras para alterá-las ao tamanho correto e se tornar um com elas.",
         releaseInfo: "2013",},
@@ -158,12 +167,12 @@ const catalogs = [
             }
         ]
     },
-    { id: "tt0188340", type: "series", name: "Kamen Rider Kuuga", genres: ["Tokusatsus", "Kamen Rider"], poster: null },
-    { id: "tt1473235", type: "series", name: "Kamen Rider Decade", genres: ["Tokusatsus", "Kamen Rider"], poster: null },
+    { id: "tt0188340", type: "series", name: "Kamen Rider Kuuga", genres: ["Tokusatsus", "Kamen Rider"], poster: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cTIHSb7PTDjiPUw5ij2hLPonwxY.jpg" },
+    { id: "tt1473235", type: "series", name: "Kamen Rider Decade", genres: ["Tokusatsus", "Kamen Rider"], poster: "https://image.tmdb.org/t/p/original/10C9UwwUdmce44xhZgPHBB3ZNLc.jpg" },
     { id: "tt14893284", type: "series", name: "Kamen Rider Revice", genres: ["Tokusatsus", "Kamen Rider"], poster: "https://pbs.twimg.com/media/FQc3VYBacAsxnBR?format=jpg&name=large" },
-    { id: "tt14377480", type: "series", name: "Kamen Rider Black Sun", genres: ["Tokusatsus", "Kamen Rider"], poster: null },
-    { id: "tt6982472", type: "series", name: "Kamen Rider Build", genres: ["Tokusatsus", "Kamen Rider"], poster: null },
-    { id: "tt1483620", type: "series", name: "Kamen Rider W", genres: ["Tokusatsus", "Kamen Rider"], poster: null }
+    { id: "tt14377480", type: "series", name: "Kamen Rider Black Sun", genres: ["Tokusatsus", "Kamen Rider"], poster: "https://image.tmdb.org/t/p/original/cPE8NR9CdpZKHab3ZSyVy4R6vGz.jpg" },
+    { id: "tt6982472", type: "series", name: "Kamen Rider Build", genres: ["Tokusatsus", "Kamen Rider"], poster: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2EBKUebhKwOrqRit9pYurQudc7k.jpg" },
+    { id: "tt1483620", type: "series", name: "Kamen Rider W", genres: ["Tokusatsus", "Kamen Rider"], poster: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/auQNj9vxvvEY4ZjCzga9xfGuRyV.jpg" }
 ];
 
 
@@ -176,6 +185,161 @@ const seriesStreams = {
     { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Decade/01.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 1 }
   ],*/
 
+
+
+// Kamen Rider Ryuki
+
+    "tt0419343:1:1": [
+    { "infoHash": "a23106e79d37ae87c8ad1e575d6e626e20aa5a8d", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 1, "fileIdx": 52 }
+                     ],
+
+   "tt0419343:1:2": [
+        { "infoHash": "a23106e79d37ae87c8ad1e575d6e626e20aa5a8d", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 2, "fileIdx": 1 }
+    ],
+    "tt0419343:1:3": [
+        { "infoHash": "a23106e79d37ae87c8ad1e575d6e626e20aa5a8d", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 3, "fileIdx": 2 }
+    ],
+    "tt0419343:1:4": [
+        { "infoHash": "a23106e79d37ae87c8ad1e575d6e626e20aa5a8d", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 4, "fileIdx": 3 }
+    ],
+    "tt0419343:1:5": [
+        { "infoHash": "a23106e79d37ae87c8ad1e575d6e626e20aa5a8d", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 5, "fileIdx": 4 }
+    ],
+    "tt0419343:1:6": [
+        { "infoHash": "a23106e79d37ae87c8ad1e575d6e626e20aa5a8d", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 6, "fileIdx": 5 }
+    ],
+    "tt0419343:1:7": [
+        { "infoHash": "a23106e79d37ae87c8ad1e575d6e626e20aa5a8d", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 7, "fileIdx": 6 }
+    ],
+    "tt0419343:1:8": [
+        { "infoHash": "a23106e79d37ae87c8ad1e575d6e626e20aa5a8d", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 8, "fileIdx": 7 }
+    ],
+    "tt0419343:1:9": [
+        { "infoHash": "a23106e79d37ae87c8ad1e575d6e626e20aa5a8d", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 9, "fileIdx": 8 }
+    ],
+    "tt0419343:1:10": [
+        { "infoHash": "a23106e79d37ae87c8ad1e575d6e626e20aa5a8d", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 10, "fileIdx": 9 }
+    ],
+    "tt0419343:1:11": [
+        { "infoHash": "a23106e79d37ae87c8ad1e575d6e626e20aa5a8d", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 11, "fileIdx": 10 }
+    ],
+    "tt0419343:1:12": [
+        { "infoHash": "a23106e79d37ae87c8ad1e575d6e626e20aa5a8d", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 12, "fileIdx": 11 }
+    ],
+    "tt0419343:1:13": [
+        { "infoHash": "a23106e79d37ae87c8ad1e575d6e626e20aa5a8d", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 13, "fileIdx": 12 }
+    ],
+    "tt0419343:1:14": [
+        { "infoHash": "a23106e79d37ae87c8ad1e575d6e626e20aa5a8d", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 14, "fileIdx": 13 }
+    ],
+    "tt0419343:1:15": [
+        { "infoHash": "a23106e79d37ae87c8ad1e575d6e626e20aa5a8d", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 15, "fileIdx": 14 }
+    ],
+    "tt0419343:1:16": [
+        { "infoHash": "a23106e79d37ae87c8ad1e575d6e626e20aa5a8d", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 16, "fileIdx": 15 }
+    ],
+    "tt0419343:1:17": [
+        { "infoHash": "a23106e79d37ae87c8ad1e575d6e626e20aa5a8d", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 17, "fileIdx": 16 }
+    ],
+    "tt0419343:1:18": [
+        { "infoHash": "a23106e79d37ae87c8ad1e575d6e626e20aa5a8d", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 18, "fileIdx": 17 }
+    ],
+    "tt0419343:1:19": [
+        { "infoHash": "a23106e79d37ae87c8ad1e575d6e626e20aa5a8d", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 19, "fileIdx": 18 }
+    ],
+    "tt0419343:1:20": [
+        { "infoHash": "a23106e79d37ae87c8ad1e575d6e626e20aa5a8d", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 20, "fileIdx": 19 }
+    ],
+    "tt0419343:1:21": [
+        { "infoHash": "a23106e79d37ae87c8ad1e575d6e626e20aa5a8d", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 21, "fileIdx": 20 }
+    ],
+    "tt0419343:1:22": [
+        { "infoHash": "a23106e79d37ae87c8ad1e575d6e626e20aa5a8d", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 22, "fileIdx": 21 }
+    ],
+    "tt0419343:1:23": [
+        { "infoHash": "a23106e79d37ae87c8ad1e575d6e626e20aa5a8d", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 23, "fileIdx": 22 }
+    ],
+    "tt0419343:1:24": [
+        { "infoHash": "a23106e79d37ae87c8ad1e575d6e626e20aa5a8d", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 24, "fileIdx": 23 }
+    ],
+    "tt0419343:1:25": [
+        { "infoHash": "a23106e79d37ae87c8ad1e575d6e626e20aa5a8d", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 25, "fileIdx": 24 }
+    ],
+    "tt0419343:1:26": [
+        { "infoHash": "a23106e79d37ae87c8ad1e575d6e626e20aa5a8d", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 26, "fileIdx": 25 }
+    ],
+    "tt0419343:1:27": [
+        { "infoHash": "a23106e79d37ae87c8ad1e575d6e626e20aa5a8d", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 27, "fileIdx": 26 }
+    ],
+    "tt0419343:1:28": [
+        { "infoHash": "a23106e79d37ae87c8ad1e575d6e626e20aa5a8d", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 28, "fileIdx": 27 }
+    ],
+    "tt0419343:1:29": [
+        { "infoHash": "a23106e79d37ae87c8ad1e575d6e626e20aa5a8d", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 29, "fileIdx": 28 }
+    ],
+    "tt0419343:1:30": [
+        { "infoHash": "a23106e79d37ae87c8ad1e575d6e626e20aa5a8d", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 30, "fileIdx": 29 }
+    ],
+    "tt0419343:1:31": [
+        { "infoHash": "a23106e79d37ae87c8ad1e575d6e626e20aa5a8d", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 31, "fileIdx": 30 }
+    ],
+    "tt0419343:1:32": [
+        { "infoHash": "a23106e79d37ae87c8ad1e575d6e626e20aa5a8d", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 32, "fileIdx": 31 }
+    ],
+    "tt0419343:1:33": [
+        { "infoHash": "a23106e79d37ae87c8ad1e575d6e626e20aa5a8d", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 33, "fileIdx": 32 }
+    ],
+    "tt0419343:1:34": [
+        { "infoHash": "a23106e79d37ae87c8ad1e575d6e626e20aa5a8d", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 34, "fileIdx": 33 }
+    ],
+    "tt0419343:1:35": [
+        { "infoHash": "a23106e79d37ae87c8ad1e575d6e626e20aa5a8d", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 35, "fileIdx": 34 }
+    ],
+    "tt0419343:1:36": [
+        { "infoHash": "a23106e79d37ae87c8ad1e575d6e626e20aa5a8d", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 36, "fileIdx": 35 }
+    ],
+    "tt0419343:1:37": [
+        { "infoHash": "a23106e79d37ae87c8ad1e575d6e626e20aa5a8d", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 37, "fileIdx": 36 }
+    ],
+    "tt0419343:1:38": [
+        { "infoHash": "a23106e79d37ae87c8ad1e575d6e626e20aa5a8d", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 38, "fileIdx": 37 }
+    ],
+    "tt0419343:1:39": [
+        { "infoHash": "a23106e79d37ae87c8ad1e575d6e626e20aa5a8d", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 39, "fileIdx": 38 }
+    ],
+    "tt0419343:1:40": [
+        { "infoHash": "a23106e79d37ae87c8ad1e575d6e626e20aa5a8d", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 40, "fileIdx": 39 }
+    ],
+    "tt0419343:1:41": [
+        { "infoHash": "a23106e79d37ae87c8ad1e575d6e626e20aa5a8d", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 41, "fileIdx": 40 }
+    ],
+    "tt0419343:1:42": [
+        { "infoHash": "a23106e79d37ae87c8ad1e575d6e626e20aa5a8d", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 42, "fileIdx": 41 }
+    ],
+    "tt0419343:1:43": [
+        { "infoHash": "a23106e79d37ae87c8ad1e575d6e626e20aa5a8d", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 43, "fileIdx": 42 }
+    ],
+    "tt0419343:1:44": [
+        { "infoHash": "a23106e79d37ae87c8ad1e575d6e626e20aa5a8d", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 44, "fileIdx": 43 }
+    ],
+    "tt0419343:1:45": [
+        { "infoHash": "a23106e79d37ae87c8ad1e575d6e626e20aa5a8d", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 45, "fileIdx": 44 }
+    ],
+    "tt0419343:1:46": [
+        { "infoHash": "a23106e79d37ae87c8ad1e575d6e626e20aa5a8d", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 46, "fileIdx": 45 }
+    ],
+    "tt0419343:1:47": [
+        { "infoHash": "a23106e79d37ae87c8ad1e575d6e626e20aa5a8d", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 47, "fileIdx": 46 }
+    ],
+    "tt0419343:1:48": [
+        { "infoHash": "a23106e79d37ae87c8ad1e575d6e626e20aa5a8d", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 48, "fileIdx": 47 }
+    ],
+    "tt0419343:1:49": [
+        { "infoHash": "a23106e79d37ae87c8ad1e575d6e626e20aa5a8d", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 49, "fileIdx": 48 }
+    ],
+    "tt0419343:1:50": [
+        { "infoHash": "a23106e79d37ae87c8ad1e575d6e626e20aa5a8d", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 50, "fileIdx": 49 }
+    ],
 //ultraman X
 
 
@@ -1282,6 +1446,161 @@ const seriesStreams = {
 
 
 const seriesSubtitles = {
+
+    //kamen rider ryuki legendas
+
+    "tt0419343:1:1": [
+        { "url": "https://archive.org/download/Legendas_Kamen_Ryder_Ryuki/Kamen%20Rider%20Ryuki%2001.srt", "lang": "Português", "label": "Português" }
+    ],
+    "tt0419343:1:2": [
+        { "url": "https://archive.org/download/Legendas_Kamen_Ryder_Ryuki/Kamen%20Rider%20Ryuki%2002.srt", "lang": "Português", "label": "Português" }
+    ],
+    "tt0419343:1:3": [
+        { "url": "https://archive.org/download/Legendas_Kamen_Ryder_Ryuki/Kamen%20Rider%20Ryuki%2003.srt", "lang": "Português", "label": "Português" }
+    ],
+    "tt0419343:1:4": [
+        { "url": "https://archive.org/download/Legendas_Kamen_Ryder_Ryuki/Kamen%20Rider%20Ryuki%2004.srt", "lang": "Português", "label": "Português" }
+    ],
+    "tt0419343:1:5": [
+        { "url": "https://archive.org/download/Legendas_Kamen_Ryder_Ryuki/Kamen%20Rider%20Ryuki%2005.srt", "lang": "Português", "label": "Português" }
+    ],
+    "tt0419343:1:6": [
+        { "url": "https://archive.org/download/Legendas_Kamen_Ryder_Ryuki/Kamen%20Rider%20Ryuki%2006.srt", "lang": "Português", "label": "Português" }
+    ],
+    "tt0419343:1:7": [
+        { "url": "https://archive.org/download/Legendas_Kamen_Ryder_Ryuki/Kamen%20Rider%20Ryuki%2007.srt", "lang": "Português", "label": "Português" }
+    ],
+    "tt0419343:1:8": [
+        { "url": "https://archive.org/download/Legendas_Kamen_Ryder_Ryuki/Kamen%20Rider%20Ryuki%2008.srt", "lang": "Português", "label": "Português" }
+    ],
+    "tt0419343:1:9": [
+        { "url": "https://archive.org/download/Legendas_Kamen_Ryder_Ryuki/Kamen%20Rider%20Ryuki%2009.srt", "lang": "Português", "label": "Português" }
+    ],
+    "tt0419343:1:10": [
+        { "url": "https://archive.org/download/Legendas_Kamen_Ryder_Ryuki/Kamen%20Rider%20Ryuki%2010.srt", "lang": "Português", "label": "Português" }
+    ],
+    "tt0419343:1:11": [
+        { "url": "https://archive.org/download/Legendas_Kamen_Ryder_Ryuki/Kamen%20Rider%20Ryuki%2011.srt", "lang": "Português", "label": "Português" }
+    ],
+    "tt0419343:1:12": [
+        { "url": "https://archive.org/download/Legendas_Kamen_Ryder_Ryuki/Kamen%20Rider%20Ryuki%2012.srt", "lang": "Português", "label": "Português" }
+    ],
+    "tt0419343:1:13": [
+        { "url": "https://archive.org/download/Legendas_Kamen_Ryder_Ryuki/Kamen%20Rider%20Ryuki%2013.srt", "lang": "Português", "label": "Português" }
+    ],
+    "tt0419343:1:14": [
+        { "url": "https://archive.org/download/Legendas_Kamen_Ryder_Ryuki/Kamen%20Rider%20Ryuki%2014.srt", "lang": "Português", "label": "Português" }
+    ],
+    "tt0419343:1:15": [
+        { "url": "https://archive.org/download/Legendas_Kamen_Ryder_Ryuki/Kamen%20Rider%20Ryuki%2015.srt", "lang": "Português", "label": "Português" }
+    ],
+    "tt0419343:1:16": [
+        { "url": "https://archive.org/download/Legendas_Kamen_Ryder_Ryuki/Kamen%20Rider%20Ryuki%2016.srt", "lang": "Português", "label": "Português" }
+    ],
+    "tt0419343:1:17": [
+        { "url": "https://archive.org/download/Legendas_Kamen_Ryder_Ryuki/Kamen%20Rider%20Ryuki%2017.srt", "lang": "Português", "label": "Português" }
+    ],
+    "tt0419343:1:18": [
+        { "url": "https://archive.org/download/Legendas_Kamen_Ryder_Ryuki/Kamen%20Rider%20Ryuki%2018.srt", "lang": "Português", "label": "Português" }
+    ],
+    "tt0419343:1:19": [
+        { "url": "https://archive.org/download/Legendas_Kamen_Ryder_Ryuki/Kamen%20Rider%20Ryuki%2019.srt", "lang": "Português", "label": "Português" }
+    ],
+    "tt0419343:1:20": [
+        { "url": "https://archive.org/download/Legendas_Kamen_Ryder_Ryuki/Kamen%20Rider%20Ryuki%2020.srt", "lang": "Português", "label": "Português" }
+    ],
+    "tt0419343:1:21": [
+        { "url": "https://archive.org/download/Legendas_Kamen_Ryder_Ryuki/Kamen%20Rider%20Ryuki%2021.srt", "lang": "Português", "label": "Português" }
+    ],
+    "tt0419343:1:22": [
+        { "url": "https://archive.org/download/Legendas_Kamen_Ryder_Ryuki/Kamen%20Rider%20Ryuki%2022.srt", "lang": "Português", "label": "Português" }
+    ],
+    "tt0419343:1:23": [
+        { "url": "https://archive.org/download/Legendas_Kamen_Ryder_Ryuki/Kamen%20Rider%20Ryuki%2023.srt", "lang": "Português", "label": "Português" }
+    ],
+    "tt0419343:1:24": [
+        { "url": "https://archive.org/download/Legendas_Kamen_Ryder_Ryuki/Kamen%20Rider%20Ryuki%2024.srt", "lang": "Português", "label": "Português" }
+    ],
+    "tt0419343:1:25": [
+        { "url": "https://archive.org/download/Legendas_Kamen_Ryder_Ryuki/Kamen%20Rider%20Ryuki%2025.srt", "lang": "Português", "label": "Português" }
+    ],
+    "tt0419343:1:26": [
+        { "url": "https://archive.org/download/Legendas_Kamen_Ryder_Ryuki/Kamen%20Rider%20Ryuki%2026.srt", "lang": "Português", "label": "Português" }
+    ],
+    "tt0419343:1:27": [
+        { "url": "https://archive.org/download/Legendas_Kamen_Ryder_Ryuki/Kamen%20Rider%20Ryuki%2027.srt", "lang": "Português", "label": "Português" }
+    ],
+    "tt0419343:1:28": [
+        { "url": "https://archive.org/download/Legendas_Kamen_Ryder_Ryuki/Kamen%20Rider%20Ryuki%2028.srt", "lang": "Português", "label": "Português" }
+    ],
+    "tt0419343:1:29": [
+        { "url": "https://archive.org/download/Legendas_Kamen_Ryder_Ryuki/Kamen%20Rider%20Ryuki%2029.srt", "lang": "Português", "label": "Português" }
+    ],
+    "tt0419343:1:30": [
+        { "url": "https://archive.org/download/Legendas_Kamen_Ryder_Ryuki/Kamen%20Rider%20Ryuki%2030.srt", "lang": "Português", "label": "Português" }
+    ],
+    "tt0419343:1:31": [
+        { "url": "https://archive.org/download/Legendas_Kamen_Ryder_Ryuki/Kamen%20Rider%20Ryuki%2031.srt", "lang": "Português", "label": "Português" }
+    ],
+    "tt0419343:1:32": [
+        { "url": "https://archive.org/download/Legendas_Kamen_Ryder_Ryuki/Kamen%20Rider%20Ryuki%2032.srt", "lang": "Português", "label": "Português" }
+    ],
+    "tt0419343:1:33": [
+        { "url": "https://archive.org/download/Legendas_Kamen_Ryder_Ryuki/Kamen%20Rider%20Ryuki%2033.srt", "lang": "Português", "label": "Português" }
+    ],
+    "tt0419343:1:34": [
+        { "url": "https://archive.org/download/Legendas_Kamen_Ryder_Ryuki/Kamen%20Rider%20Ryuki%2034.srt", "lang": "Português", "label": "Português" }
+    ],
+    "tt0419343:1:35": [
+        { "url": "https://archive.org/download/Legendas_Kamen_Ryder_Ryuki/Kamen%20Rider%20Ryuki%2035.srt", "lang": "Português", "label": "Português" }
+    ],
+    "tt0419343:1:36": [
+        { "url": "https://archive.org/download/Legendas_Kamen_Ryder_Ryuki/Kamen%20Rider%20Ryuki%2036.srt", "lang": "Português", "label": "Português" }
+    ],
+    "tt0419343:1:37": [
+        { "url": "https://archive.org/download/Legendas_Kamen_Ryder_Ryuki/Kamen%20Rider%20Ryuki%2037.srt", "lang": "Português", "label": "Português" }
+    ],
+    "tt0419343:1:38": [
+        { "url": "https://archive.org/download/Legendas_Kamen_Ryder_Ryuki/Kamen%20Rider%20Ryuki%2038.srt", "lang": "Português", "label": "Português" }
+    ],
+    "tt0419343:1:39": [
+        { "url": "https://archive.org/download/Legendas_Kamen_Ryder_Ryuki/Kamen%20Rider%20Ryuki%2039.srt", "lang": "Português", "label": "Português" }
+    ],
+    "tt0419343:1:40": [
+        { "url": "https://archive.org/download/Legendas_Kamen_Ryder_Ryuki/Kamen%20Rider%20Ryuki%2040.srt", "lang": "Português", "label": "Português" }
+    ],
+    "tt0419343:1:41": [
+        { "url": "https://archive.org/download/Legendas_Kamen_Ryder_Ryuki/Kamen%20Rider%20Ryuki%2041.srt", "lang": "Português", "label": "Português" }
+    ],
+    "tt0419343:1:42": [
+        { "url": "https://archive.org/download/Legendas_Kamen_Ryder_Ryuki/Kamen%20Rider%20Ryuki%2042.srt", "lang": "Português", "label": "Português" }
+    ],
+    "tt0419343:1:43": [
+        { "url": "https://archive.org/download/Legendas_Kamen_Ryder_Ryuki/Kamen%20Rider%20Ryuki%2043.srt", "lang": "Português", "label": "Português" }
+    ],
+    "tt0419343:1:44": [
+        { "url": "https://archive.org/download/Legendas_Kamen_Ryder_Ryuki/Kamen%20Rider%20Ryuki%2044.srt", "lang": "Português", "label": "Português" }
+    ],
+    "tt0419343:1:45": [
+        { "url": "https://archive.org/download/Legendas_Kamen_Ryder_Ryuki/Kamen%20Rider%20Ryuki%2045.srt", "lang": "Português", "label": "Português" }
+    ],
+    "tt0419343:1:46": [
+        { "url": "https://archive.org/download/Legendas_Kamen_Ryder_Ryuki/Kamen%20Rider%20Ryuki%2046.srt", "lang": "Português", "label": "Português" }
+    ],
+    "tt0419343:1:47": [
+        { "url": "https://archive.org/download/Legendas_Kamen_Ryder_Ryuki/Kamen%20Rider%20Ryuki%2047.srt", "lang": "Português", "label": "Português" }
+    ],
+    "tt0419343:1:48": [
+        { "url": "https://archive.org/download/Legendas_Kamen_Ryder_Ryuki/Kamen%20Rider%20Ryuki%2048.srt", "lang": "Português", "label": "Português" }
+    ],
+    "tt0419343:1:49": [
+        { "url": "https://archive.org/download/Legendas_Kamen_Ryder_Ryuki/Kamen%20Rider%20Ryuki%2049.srt", "lang": "Português", "label": "Português" }
+    ],
+    "tt0419343:1:50": [
+        { "url": "https://archive.org/download/Legendas_Kamen_Ryder_Ryuki/Kamen%20Rider%20Ryuki%2050.srt", "lang": "Português", "label": "Português" }
+    ],
+
+        //space for new language
 
    // ultraman x legendas
 
