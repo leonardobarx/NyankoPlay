@@ -340,6 +340,15 @@ const seriesStreams = {
     "tt0419343:1:50": [
         { "infoHash": "a23106e79d37ae87c8ad1e575d6e626e20aa5a8d", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 50, "fileIdx": 49 }
     ],
+    "tt0419343:0:1": [
+        { "infoHash": "a23106e79d37ae87c8ad1e575d6e626e20aa5a8d", "title": "Torrent-FHD-JP-Nyaa", "season": 0, "episode": 1, "fileIdx": 50 }
+    ],
+        "tt0419343:0:2": [
+        { "infoHash": "a23106e79d37ae87c8ad1e575d6e626e20aa5a8d", "title": "Torrent-FHD-JP-Nyaa", "season": 0, "episode": 2, "fileIdx": 53 }
+    ],
+        "tt0419343:0:2": [
+        { "infoHash": "a23106e79d37ae87c8ad1e575d6e626e20aa5a8d", "title": "Torrent-FHD-JP-Nyaa", "season": 0, "episode": 6, "fileIdx": 0 }
+    ],
 //ultraman X
 
 
@@ -1598,6 +1607,15 @@ const seriesSubtitles = {
     ],
     "tt0419343:1:50": [
         { "url": "https://archive.org/download/Legendas_Kamen_Ryder_Ryuki/Kamen%20Rider%20Ryuki%2050.srt", "lang": "Português", "label": "Português" }
+    ],
+    "tt0419343:0:1": [
+        { "url": "https://archive.org/download/Legendas_Kamen_Ryder_Ryuki/Kamen%20Rider%20Ryuki%20Ryuki%20VS%20Agito%20BD.srt", "lang": "Portugues", "label": "Portugues" }
+    ],
+    "tt0419343:0:2": [
+        { "url": "https://archive.org/download/Legendas_Kamen_Ryder_Ryuki/Kamen%20Rider%20Ryuki%2050.srt", "lang": "Portugues", "label": "Portugues" }
+    ],
+    "tt0419343:0:6": [
+        { "url": "https://archive.org/download/Legendas_Kamen_Ryder_Ryuki/Kamen%20Rider%20Ryuki%2050.srt", "lang": "Portugues", "label": "Portugues" }
     ],
 
         //space for new language
