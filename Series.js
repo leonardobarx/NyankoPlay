@@ -1,4 +1,14 @@
 const catalogs = [
+
+    {
+        id: "tt0401021",
+        type: "series",
+        name: "Kamen Ryder 555 (Faiz)",
+        genres: ["Tokusatsus", "Kamen Rider"],
+        poster: "https://image.tmdb.org/t/p/original/jljJXZFpNR5Twii59Dq9pbOUOYA.jpg",
+        posterShape: "poster",
+        description: "A Smart Brain Corporation está tentando dominar o mundo usando Orphnoch, o próximo estágio na evolução da humanidade. Os Rider Gears que eles desenvolvem são roubados e usados para impedi-los de alcançar seu objetivo e lutar para salvar a humanidade.",
+        releaseInfo: "2003",},
     {
         id: "tt0419343",
         type: "series",
@@ -7,7 +17,7 @@ const catalogs = [
         poster: "https://image.tmdb.org/t/p/original/ki58ngr3X5u2kjBtZNHQOr9SRcM.jpg",
         posterShape: "poster",
         description: "Treze baralhos de cartas foram criados para treze Kamen Riders. Eles fazem contratos com monstros do misterioso Mundo dos Espelhos, um mundo paralelo oposto ao real no qual apenas os Kamen Riders podem existir.",
-        releaseInfo: "2002–2003",},
+        releaseInfo: "2002",},
      {
         id: "tt4651924",
         type: "series",
@@ -169,7 +179,7 @@ const catalogs = [
     },
     { id: "tt0188340", type: "series", name: "Kamen Rider Kuuga", genres: ["Tokusatsus", "Kamen Rider"], poster: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cTIHSb7PTDjiPUw5ij2hLPonwxY.jpg" },
     { id: "tt1473235", type: "series", name: "Kamen Rider Decade", genres: ["Tokusatsus", "Kamen Rider"], poster: "https://image.tmdb.org/t/p/original/10C9UwwUdmce44xhZgPHBB3ZNLc.jpg" },
-    { id: "tt14893284", type: "series", name: "Kamen Rider Revice", genres: ["Tokusatsus", "Kamen Rider"], poster: "https://pbs.twimg.com/media/FQc3VYBacAsxnBR?format=jpg&name=large" },
+    { id: "tt14893284", type: "series", name: "Kamen Rider Revice", genres: ["Tokusatsus", "Kamen Rider"], poster: "https://image.tmdb.org/t/p/original/90xjmHE4r2o7woTpfgpxs6fBzXd.jpg" },
     { id: "tt14377480", type: "series", name: "Kamen Rider Black Sun", genres: ["Tokusatsus", "Kamen Rider"], poster: "https://image.tmdb.org/t/p/original/cPE8NR9CdpZKHab3ZSyVy4R6vGz.jpg" },
     { id: "tt6982472", type: "series", name: "Kamen Rider Build", genres: ["Tokusatsus", "Kamen Rider"], poster: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2EBKUebhKwOrqRit9pYurQudc7k.jpg" },
     { id: "tt1483620", type: "series", name: "Kamen Rider W", genres: ["Tokusatsus", "Kamen Rider"], poster: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/auQNj9vxvvEY4ZjCzga9xfGuRyV.jpg" }
@@ -184,6 +194,162 @@ const seriesStreams = {
     { "infoHash": "4e47e949482ba05f2f11e51a0e8052f9fa606cdd", "title": "Torrent-FHD-JP-Nyaa.si .mkv", "season": 1, "episode": 1, "fileIdx": 0 },
     { "url": "https://mangas.cloud/tokusatusus/Kamen-Rider/Decade/01.mp4", "title": "WEB-SD-Subbed[PTBR]-AnimeQ .mp4", "season": 1, "episode": 1 }
   ],*/
+
+//Kamen rider 555
+
+        "tt0401021:1:1": [
+        { "infoHash": "c24ff9b3c1f44c209e75f8eb6af500c76c3926b8", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 1, "fileIdx": 2 }
+    ],
+    "tt0401021:1:2": [
+        { "infoHash": "c24ff9b3c1f44c209e75f8eb6af500c76c3926b8", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 2, "fileIdx": 3 }
+    ],
+    "tt0401021:1:3": [
+        { "infoHash": "c24ff9b3c1f44c209e75f8eb6af500c76c3926b8", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 3, "fileIdx": 4 }
+    ],
+    "tt0401021:1:4": [
+        { "infoHash": "c24ff9b3c1f44c209e75f8eb6af500c76c3926b8", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 4, "fileIdx": 5 }
+    ],
+    "tt0401021:1:5": [
+        { "infoHash": "c24ff9b3c1f44c209e75f8eb6af500c76c3926b8", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 5, "fileIdx": 6 }
+    ],
+    "tt0401021:1:6": [
+        { "infoHash": "c24ff9b3c1f44c209e75f8eb6af500c76c3926b8", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 6, "fileIdx": 7 }
+    ],
+    "tt0401021:1:7": [
+        { "infoHash": "c24ff9b3c1f44c209e75f8eb6af500c76c3926b8", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 7, "fileIdx": 8 }
+    ],
+    "tt0401021:1:8": [
+        { "infoHash": "c24ff9b3c1f44c209e75f8eb6af500c76c3926b8", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 8, "fileIdx": 9 }
+    ],
+    "tt0401021:1:9": [
+        { "infoHash": "c24ff9b3c1f44c209e75f8eb6af500c76c3926b8", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 9, "fileIdx": 10 }
+    ],
+    "tt0401021:1:10": [
+        { "infoHash": "c24ff9b3c1f44c209e75f8eb6af500c76c3926b8", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 10, "fileIdx": 11 }
+    ],
+    "tt0401021:1:11": [
+        { "infoHash": "c24ff9b3c1f44c209e75f8eb6af500c76c3926b8", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 11, "fileIdx": 12 }
+    ],
+    "tt0401021:1:12": [
+        { "infoHash": "c24ff9b3c1f44c209e75f8eb6af500c76c3926b8", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 12, "fileIdx": 13 }
+    ],
+    "tt0401021:1:13": [
+        { "infoHash": "c24ff9b3c1f44c209e75f8eb6af500c76c3926b8", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 13, "fileIdx": 14 }
+    ],
+    "tt0401021:1:14": [
+        { "infoHash": "c24ff9b3c1f44c209e75f8eb6af500c76c3926b8", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 14, "fileIdx": 15 }
+    ],
+    "tt0401021:1:15": [
+        { "infoHash": "c24ff9b3c1f44c209e75f8eb6af500c76c3926b8", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 15, "fileIdx": 16 }
+    ],
+    "tt0401021:1:16": [
+        { "infoHash": "c24ff9b3c1f44c209e75f8eb6af500c76c3926b8", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 16, "fileIdx": 17 }
+    ],
+    "tt0401021:1:17": [
+        { "infoHash": "c24ff9b3c1f44c209e75f8eb6af500c76c3926b8", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 17, "fileIdx": 18 }
+    ],
+    "tt0401021:1:18": [
+        { "infoHash": "c24ff9b3c1f44c209e75f8eb6af500c76c3926b8", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 18, "fileIdx": 19 }
+    ],
+    "tt0401021:1:19": [
+        { "infoHash": "c24ff9b3c1f44c209e75f8eb6af500c76c3926b8", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 19, "fileIdx": 20 }
+    ],
+    "tt0401021:1:20": [
+        { "infoHash": "c24ff9b3c1f44c209e75f8eb6af500c76c3926b8", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 20, "fileIdx": 21 }
+    ],
+    "tt0401021:1:21": [
+        { "infoHash": "c24ff9b3c1f44c209e75f8eb6af500c76c3926b8", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 21, "fileIdx": 22 }
+    ],
+    "tt0401021:1:22": [
+        { "infoHash": "c24ff9b3c1f44c209e75f8eb6af500c76c3926b8", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 22, "fileIdx": 23 }
+    ],
+    "tt0401021:1:23": [
+        { "infoHash": "c24ff9b3c1f44c209e75f8eb6af500c76c3926b8", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 23, "fileIdx": 24 }
+    ],
+    "tt0401021:1:24": [
+        { "infoHash": "c24ff9b3c1f44c209e75f8eb6af500c76c3926b8", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 24, "fileIdx": 25 }
+    ],
+    "tt0401021:1:25": [
+        { "infoHash": "c24ff9b3c1f44c209e75f8eb6af500c76c3926b8", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 25, "fileIdx": 26 }
+    ],
+    "tt0401021:1:26": [
+        { "infoHash": "c24ff9b3c1f44c209e75f8eb6af500c76c3926b8", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 26, "fileIdx": 27 }
+    ],
+    "tt0401021:1:27": [
+        { "infoHash": "c24ff9b3c1f44c209e75f8eb6af500c76c3926b8", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 27, "fileIdx": 28 }
+    ],
+    "tt0401021:1:28": [
+        { "infoHash": "c24ff9b3c1f44c209e75f8eb6af500c76c3926b8", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 28, "fileIdx": 29 }
+    ],
+    "tt0401021:1:29": [
+        { "infoHash": "c24ff9b3c1f44c209e75f8eb6af500c76c3926b8", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 29, "fileIdx": 30 }
+    ],
+    "tt0401021:1:30": [
+        { "infoHash": "c24ff9b3c1f44c209e75f8eb6af500c76c3926b8", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 30, "fileIdx": 31 }
+    ],
+    "tt0401021:1:31": [
+        { "infoHash": "c24ff9b3c1f44c209e75f8eb6af500c76c3926b8", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 31, "fileIdx": 32 }
+    ],
+    "tt0401021:1:32": [
+        { "infoHash": "c24ff9b3c1f44c209e75f8eb6af500c76c3926b8", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 32, "fileIdx": 33 }
+    ],
+    "tt0401021:1:33": [
+        { "infoHash": "c24ff9b3c1f44c209e75f8eb6af500c76c3926b8", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 33, "fileIdx": 34 }
+    ],
+    "tt0401021:1:34": [
+        { "infoHash": "c24ff9b3c1f44c209e75f8eb6af500c76c3926b8", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 34, "fileIdx": 35 }
+    ],
+    "tt0401021:1:35": [
+        { "infoHash": "c24ff9b3c1f44c209e75f8eb6af500c76c3926b8", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 35, "fileIdx": 36 }
+    ],
+    "tt0401021:1:36": [
+        { "infoHash": "c24ff9b3c1f44c209e75f8eb6af500c76c3926b8", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 36, "fileIdx": 37 }
+    ],
+    "tt0401021:1:37": [
+        { "infoHash": "c24ff9b3c1f44c209e75f8eb6af500c76c3926b8", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 37, "fileIdx": 38 }
+    ],
+    "tt0401021:1:38": [
+        { "infoHash": "c24ff9b3c1f44c209e75f8eb6af500c76c3926b8", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 38, "fileIdx": 39 }
+    ],
+    "tt0401021:1:39": [
+        { "infoHash": "c24ff9b3c1f44c209e75f8eb6af500c76c3926b8", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 39, "fileIdx": 40 }
+    ],
+    "tt0401021:1:40": [
+        { "infoHash": "c24ff9b3c1f44c209e75f8eb6af500c76c3926b8", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 40, "fileIdx": 41 }
+    ],
+    "tt0401021:1:41": [
+        { "infoHash": "c24ff9b3c1f44c209e75f8eb6af500c76c3926b8", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 41, "fileIdx": 42 }
+    ],
+    "tt0401021:1:42": [
+        { "infoHash": "c24ff9b3c1f44c209e75f8eb6af500c76c3926b8", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 42, "fileIdx": 43 }
+    ],
+    "tt0401021:1:43": [
+        { "infoHash": "c24ff9b3c1f44c209e75f8eb6af500c76c3926b8", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 43, "fileIdx": 44 }
+    ],
+    "tt0401021:1:44": [
+        { "infoHash": "c24ff9b3c1f44c209e75f8eb6af500c76c3926b8", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 44, "fileIdx": 45 }
+    ],
+    "tt0401021:1:45": [
+        { "infoHash": "c24ff9b3c1f44c209e75f8eb6af500c76c3926b8", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 45, "fileIdx": 46 }
+    ],
+    "tt0401021:1:46": [
+        { "infoHash": "c24ff9b3c1f44c209e75f8eb6af500c76c3926b8", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 46, "fileIdx": 47 }
+    ],
+    "tt0401021:1:47": [
+        { "infoHash": "c24ff9b3c1f44c209e75f8eb6af500c76c3926b8", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 47, "fileIdx": 48 }
+    ],
+    "tt0401021:1:48": [
+        { "infoHash": "c24ff9b3c1f44c209e75f8eb6af500c76c3926b8", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 48, "fileIdx": 49 }
+    ],
+    "tt0401021:1:49": [
+        { "infoHash": "c24ff9b3c1f44c209e75f8eb6af500c76c3926b8", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 49, "fileIdx": 50 }
+    ],
+    "tt0401021:1:50": [
+        { "infoHash": "c24ff9b3c1f44c209e75f8eb6af500c76c3926b8", "title": "Torrent-FHD-JP-Nyaa", "season": 1, "episode": 50, "fileIdx": 51 }
+    ],
+
+
+
 
 
 
@@ -1455,6 +1621,67 @@ const seriesStreams = {
 
 
 const seriesSubtitles = {
+
+
+
+
+
+
+
+    ///kamen rider 555 legendas
+
+"tt0401021:1:1": [ { "url": "https://archive.org/download/kamen-rider-555-Legendas-ptbr/Kamen%20Rider%20555%2001.srt", "lang": "Portugues BR", "label": "Portugues" } ],
+"tt0401021:1:2": [ { "url": "https://archive.org/download/kamen-rider-555-Legendas-ptbr/Kamen%20Rider%20555%2002.srt", "lang": "Portugues BR", "label": "Portugues" } ],
+"tt0401021:1:3": [ { "url": "https://archive.org/download/kamen-rider-555-Legendas-ptbr/Kamen%20Rider%20555%2003.srt", "lang": "Portugues BR", "label": "Portugues" } ],
+"tt0401021:1:4": [ { "url": "https://archive.org/download/kamen-rider-555-Legendas-ptbr/Kamen%20Rider%20555%2004.srt", "lang": "Portugues BR", "label": "Portugues" } ],
+"tt0401021:1:5": [ { "url": "https://archive.org/download/kamen-rider-555-Legendas-ptbr/Kamen%20Rider%20555%2005.srt", "lang": "Portugues BR", "label": "Portugues" } ],
+"tt0401021:1:6": [ { "url": "https://archive.org/download/kamen-rider-555-Legendas-ptbr/Kamen%20Rider%20555%2006.srt", "lang": "Portugues BR", "label": "Portugues" } ],
+"tt0401021:1:7": [ { "url": "https://archive.org/download/kamen-rider-555-Legendas-ptbr/Kamen%20Rider%20555%2007.srt", "lang": "Portugues BR", "label": "Portugues" } ],
+"tt0401021:1:8": [ { "url": "https://archive.org/download/kamen-rider-555-Legendas-ptbr/Kamen%20Rider%20555%2008.srt", "lang": "Portugues BR", "label": "Portugues" } ],
+"tt0401021:1:9": [ { "url": "https://archive.org/download/kamen-rider-555-Legendas-ptbr/Kamen%20Rider%20555%2009.srt", "lang": "Portugues BR", "label": "Portugues" } ],
+"tt0401021:1:10": [ { "url": "https://archive.org/download/kamen-rider-555-Legendas-ptbr/Kamen%20Rider%20555%2010.srt", "lang": "Portugues BR", "label": "Portugues" } ],
+"tt0401021:1:11": [ { "url": "https://archive.org/download/kamen-rider-555-Legendas-ptbr/Kamen%20Rider%20555%2011.srt", "lang": "Portugues BR", "label": "Portugues" } ],
+"tt0401021:1:12": [ { "url": "https://archive.org/download/kamen-rider-555-Legendas-ptbr/Kamen%20Rider%20555%2012.srt", "lang": "Portugues BR", "label": "Portugues" } ],
+"tt0401021:1:13": [ { "url": "https://archive.org/download/kamen-rider-555-Legendas-ptbr/Kamen%20Rider%20555%2013.srt", "lang": "Portugues BR", "label": "Portugues" } ],
+"tt0401021:1:14": [ { "url": "https://archive.org/download/kamen-rider-555-Legendas-ptbr/Kamen%20Rider%20555%2014.srt", "lang": "Portugues BR", "label": "Portugues" } ],
+"tt0401021:1:15": [ { "url": "https://archive.org/download/kamen-rider-555-Legendas-ptbr/Kamen%20Rider%20555%2015.srt", "lang": "Portugues BR", "label": "Portugues" } ],
+"tt0401021:1:16": [ { "url": "https://archive.org/download/kamen-rider-555-Legendas-ptbr/Kamen%20Rider%20555%2016.srt", "lang": "Portugues BR", "label": "Portugues" } ],
+"tt0401021:1:17": [ { "url": "https://archive.org/download/kamen-rider-555-Legendas-ptbr/Kamen%20Rider%20555%2017.srt", "lang": "Portugues BR", "label": "Portugues" } ],
+"tt0401021:1:18": [ { "url": "https://archive.org/download/kamen-rider-555-Legendas-ptbr/Kamen%20Rider%20555%2018.srt", "lang": "Portugues BR", "label": "Portugues" } ],
+"tt0401021:1:19": [ { "url": "https://archive.org/download/kamen-rider-555-Legendas-ptbr/Kamen%20Rider%20555%2019.srt", "lang": "Portugues BR", "label": "Portugues" } ],
+"tt0401021:1:20": [ { "url": "https://archive.org/download/kamen-rider-555-Legendas-ptbr/Kamen%20Rider%20555%2020.srt", "lang": "Portugues BR", "label": "Portugues" } ],
+"tt0401021:1:21": [ { "url": "https://archive.org/download/kamen-rider-555-Legendas-ptbr/Kamen%20Rider%20555%2021.srt", "lang": "Portugues BR", "label": "Portugues" } ],
+"tt0401021:1:22": [ { "url": "https://archive.org/download/kamen-rider-555-Legendas-ptbr/Kamen%20Rider%20555%2022.srt", "lang": "Portugues BR", "label": "Portugues" } ],
+"tt0401021:1:23": [ { "url": "https://archive.org/download/kamen-rider-555-Legendas-ptbr/Kamen%20Rider%20555%2023.srt", "lang": "Portugues BR", "label": "Portugues" } ],
+"tt0401021:1:24": [ { "url": "https://archive.org/download/kamen-rider-555-Legendas-ptbr/Kamen%20Rider%20555%2024.srt", "lang": "Portugues BR", "label": "Portugues" } ],
+"tt0401021:1:25": [ { "url": "https://archive.org/download/kamen-rider-555-Legendas-ptbr/Kamen%20Rider%20555%2025.srt", "lang": "Portugues BR", "label": "Portugues" } ],
+"tt0401021:1:26": [ { "url": "https://archive.org/download/kamen-rider-555-Legendas-ptbr/Kamen%20Rider%20555%2026.srt", "lang": "Portugues BR", "label": "Portugues" } ],
+"tt0401021:1:27": [ { "url": "https://archive.org/download/kamen-rider-555-Legendas-ptbr/Kamen%20Rider%20555%2027.srt", "lang": "Portugues BR", "label": "Portugues" } ],
+"tt0401021:1:28": [ { "url": "https://archive.org/download/kamen-rider-555-Legendas-ptbr/Kamen%20Rider%20555%2028.srt", "lang": "Portugues BR", "label": "Portugues" } ],
+"tt0401021:1:29": [ { "url": "https://archive.org/download/kamen-rider-555-Legendas-ptbr/Kamen%20Rider%20555%2029.srt", "lang": "Portugues BR", "label": "Portugues" } ],
+"tt0401021:1:30": [ { "url": "https://archive.org/download/kamen-rider-555-Legendas-ptbr/Kamen%20Rider%20555%2030.srt", "lang": "Portugues BR", "label": "Portugues" } ],
+"tt0401021:1:31": [ { "url": "https://archive.org/download/kamen-rider-555-Legendas-ptbr/Kamen%20Rider%20555%2031.srt", "lang": "Portugues BR", "label": "Portugues" } ],
+"tt0401021:1:32": [ { "url": "https://archive.org/download/kamen-rider-555-Legendas-ptbr/Kamen%20Rider%20555%2032.srt", "lang": "Portugues BR", "label": "Portugues" } ],
+"tt0401021:1:33": [ { "url": "https://archive.org/download/kamen-rider-555-Legendas-ptbr/Kamen%20Rider%20555%2033.srt", "lang": "Portugues BR", "label": "Portugues" } ],
+"tt0401021:1:34": [ { "url": "https://archive.org/download/kamen-rider-555-Legendas-ptbr/Kamen%20Rider%20555%2034.srt", "lang": "Portugues BR", "label": "Portugues" } ],
+"tt0401021:1:35": [ { "url": "https://archive.org/download/kamen-rider-555-Legendas-ptbr/Kamen%20Rider%20555%2035.srt", "lang": "Portugues BR", "label": "Portugues" } ],
+"tt0401021:1:36": [ { "url": "https://archive.org/download/kamen-rider-555-Legendas-ptbr/Kamen%20Rider%20555%2036.srt", "lang": "Portugues BR", "label": "Portugues" } ],
+"tt0401021:1:37": [ { "url": "https://archive.org/download/kamen-rider-555-Legendas-ptbr/Kamen%20Rider%20555%2037.srt", "lang": "Portugues BR", "label": "Portugues" } ],
+"tt0401021:1:38": [ { "url": "https://archive.org/download/kamen-rider-555-Legendas-ptbr/Kamen%20Rider%20555%2038.srt", "lang": "Portugues BR", "label": "Portugues" } ],
+"tt0401021:1:39": [ { "url": "https://archive.org/download/kamen-rider-555-Legendas-ptbr/Kamen%20Rider%20555%2039.srt", "lang": "Portugues BR", "label": "Portugues" } ],
+"tt0401021:1:40": [ { "url": "https://archive.org/download/kamen-rider-555-Legendas-ptbr/Kamen%20Rider%20555%2040.srt", "lang": "Portugues BR", "label": "Portugues" } ],
+"tt0401021:1:41": [ { "url": "https://archive.org/download/kamen-rider-555-Legendas-ptbr/Kamen%20Rider%20555%2041.srt", "lang": "Portugues BR", "label": "Portugues" } ],
+"tt0401021:1:42": [ { "url": "https://archive.org/download/kamen-rider-555-Legendas-ptbr/Kamen%20Rider%20555%2042.srt", "lang": "Portugues BR", "label": "Portugues" } ],
+"tt0401021:1:43": [ { "url": "https://archive.org/download/kamen-rider-555-Legendas-ptbr/Kamen%20Rider%20555%2043.srt", "lang": "Portugues BR", "label": "Portugues" } ],
+"tt0401021:1:44": [ { "url": "https://archive.org/download/kamen-rider-555-Legendas-ptbr/Kamen%20Rider%20555%2044.srt", "lang": "Portugues BR", "label": "Portugues" } ],
+"tt0401021:1:45": [ { "url": "https://archive.org/download/kamen-rider-555-Legendas-ptbr/Kamen%20Rider%20555%2045.srt", "lang": "Portugues BR", "label": "Portugues" } ],
+"tt0401021:1:46": [ { "url": "https://archive.org/download/kamen-rider-555-Legendas-ptbr/Kamen%20Rider%20555%2046.srt", "lang": "Portugues BR", "label": "Portugues" } ],
+"tt0401021:1:47": [ { "url": "https://archive.org/download/kamen-rider-555-Legendas-ptbr/Kamen%20Rider%20555%2047.srt", "lang": "Portugues BR", "label": "Portugues" } ],
+"tt0401021:1:48": [ { "url": "https://archive.org/download/kamen-rider-555-Legendas-ptbr/Kamen%20Rider%20555%2048.srt", "lang": "Portugues BR", "label": "Portugues" } ],
+"tt0401021:1:49": [ { "url": "https://archive.org/download/kamen-rider-555-Legendas-ptbr/Kamen%20Rider%20555%2049.srt", "lang": "Portugues BR", "label": "Portugues" } ],
+"tt0401021:1:50": [ { "url": "https://archive.org/download/kamen-rider-555-Legendas-ptbr/Kamen%20Rider%20555%2050.srt", "lang": "Portugues BR", "label": "Portugues" } ],
+
+
 
     //kamen rider ryuki legendas
 
